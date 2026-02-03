@@ -1,0 +1,11 @@
+{
+  "top_n": 10,
+  "days_back": 1,
+  "dedupe_days": 14,
+  "focus": {
+    "mode": "new",
+    "topics_any": ["llm", "agent", "react", "nextjs", "frontend", "data-engineering", "ml", "ai"],
+    "languages_any": ["Python", "TypeScript", "JavaScript", "Go"],
+    "exclude_topics": ["awesome", "dotfiles", "roadmap"]
+  }
+}
