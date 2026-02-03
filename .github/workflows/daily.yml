@@ -1,0 +1,42 @@
+name: Daily GitHub Top10 (3 lists)
+
+on:
+  schedule:
+    # GitHub cron 是 UTC。你在洛杉矶想早上 09:05（冬令时 UTC-8）→ 17:05 UTC
+    - cron: "5 17 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate daily lists
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/fetch.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git add daily state README.md
+          git commit -m "chore: daily top10 (3 lists)"
+          git push
