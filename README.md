@@ -1,2 +1,17 @@
-# daily-github-top10
-让你不需要手动关注每日github上优秀的项目，我们来帮你做好，你只需要看就行。
+# Daily GitHub Top10 (3-in-1)
+<!--LATEST_START-->
+## Latest
+
+- **2026-02-02**
+  - 新建 → [01-new.md](daily/2026-02-02/01-new.md)
+  - 活跃 → [02-active.md](daily/2026-02-02/02-active.md)
+  - 限定领域 → [03-focus.md](daily/2026-02-02/03-focus.md)
+
+<!--LATEST_END-->
+
+## Archive
+
+### 2026-02
+
+- **2026-02-02** — [新建](daily/2026-02-02/01-new.md) · [活跃](daily/2026-02-02/02-active.md) · [限定领域](daily/2026-02-02/03-focus.md)
+
