@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "BlockRunAI/ClawRouter",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "fspecii/ace-step-ui",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "sanyuan0704/code-review-expert",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "SamNet-dev/paqctl",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "magabestboy/Lacky-Fishing-Stealer-builder",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "bigboss-100hfn/Moltbook-OpenClaw-bypass-v1.3.7",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "Specia1z/AWS-BuildID-Auto-For-Ext",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "getActivity/AndroidCmdTools",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "yuvashreey763-eng/github",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "Akshaya12-star/hand-gestures-",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "ossu/computer-science",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "yt-dlp/yt-dlp",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "Genymobile/scrcpy",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "golang/go",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "microsoft/PowerToys",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "langgenius/dify",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "langchain-ai/langchain",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "facebook/react-native",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "open-webui/open-webui",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "kubernetes/kubernetes",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "BlockRunAI/ClawRouter",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "fspecii/ace-step-ui",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "Specia1z/AWS-BuildID-Auto-For-Ext",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "Akshaya12-star/hand-gestures-",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "delbaoliveira/learn-claude-code",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "MOGANAKRISHNA-R/TrackingSkills",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "alibaba/landmark-tokenized-dit",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "ssakthivel1501-prog/App-development-projects",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "BALAJI582/ML_Project",
-      "date": "2026-02-03"
-    },
-    {
-      "name": "iliya-Developer/VortexL2",
-      "date": "2026-02-03"
-    },
-    {
       "name": "starccy/doubaoime-asr",
       "date": "2026-02-04"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Tomiya233/grok2api_new",
       "date": "2026-02-16"
+    },
+    {
+      "name": "DatanoiseTV/tinyice",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "lopespm/zig-minimal-kernel-x86",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "andyhuo520/rf-detr-detection",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "Ibrahim-3d/conductor-orchestrator-superpowers",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "Maniesh-Neupane/BugBounty-Recon-Methodology",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "mayfer/electrobun-macos-native-blur",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "n-e/pg-typesafe",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "donghuixin/AI-Vibe-Writing-Skills",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "xiaguan/pegainfer",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "ppgranger/token-saving",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "trekhleb/javascript-algorithms",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "yt-dlp/yt-dlp",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "golang/go",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "langgenius/dify",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "facebook/react-native",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "DatanoiseTV/tinyice",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "andyhuo520/rf-detr-detection",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "Ibrahim-3d/conductor-orchestrator-superpowers",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "mayfer/electrobun-macos-native-blur",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "n-e/pg-typesafe",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "ppgranger/token-saving",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "buckle42/claude-code-remote",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "khalildh/garment-notation",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "grok-420/grok-420",
+      "date": "2026-02-17"
+    },
+    {
+      "name": "umputun/cc-thingz",
+      "date": "2026-02-17"
     }
   ]
 }
