@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "op7418/CodePilot",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "jiweiyeah/Skills-Manager",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "blader/napkin",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "sseanliu/VisionClaw",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "ryan26craf/Hbar-Wallet-Desktop",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "marshallrichards/ClawPhone",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "aaddrick/claude-pipeline",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "wwwenexxx/BoosterX-FPS-BOOST-PREMIUM-TULS",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "hunter-shen-ai/deepagents_bot",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "HariniElamurugan/RecommendaFy-Project",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "Chalarangelo/30-seconds-of-code",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "angular/angular",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "jaywcjlove/awesome-mac",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "mui/material-ui",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "ant-design/ant-design",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "op7418/CodePilot",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "marshallrichards/ClawPhone",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "hunter-shen-ai/deepagents_bot",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "mqudsi/monospace-ocr",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "JosephAhn23/Query-Sense",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "Soul-AILab/SoulX-Singer",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "Xyber-Labs/EchoBot",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "roblaughter/ace-step-studio",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "jagadeesh17082005-hue/coffee-website",
-      "date": "2026-02-06"
-    },
-    {
-      "name": "cocojojo5213/mykeys",
-      "date": "2026-02-06"
-    },
-    {
       "name": "The-Vibe-Company/claude-code-controller",
       "date": "2026-02-07"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "dseditor/QwenASRMiniTool",
       "date": "2026-02-19"
+    },
+    {
+      "name": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "vercel-labs/visual-json",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "hamelsmu/claude-review-loop",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "dnakov/litter",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "nemocake/claude-obsidian-assistant",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "azep-ninja/x402-gateway-template",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "frank-vpl/TV-Workers",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "WistfulHopes/DBZ1",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "Shubhamsaboo/gemini-artboard",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "mizchi/tornado",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "Genymobile/scrcpy",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "Chalarangelo/30-seconds-of-code",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "angular/angular",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "mui/material-ui",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "CraftyGeezer/Kalshi-Polymarket-Ai-bot",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "vercel-labs/visual-json",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "azep-ninja/x402-gateway-template",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "frank-vpl/TV-Workers",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "mizchi/tornado",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "jkudish/librarium",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "Usta0x001/Phantom",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "yxp934/crushable-wingman-skill",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "FiatFiorino/polymarket-assistant-tool",
+      "date": "2026-02-20"
+    },
+    {
+      "name": "catuniversec/MeowNiverse",
+      "date": "2026-02-20"
     }
   ]
 }
