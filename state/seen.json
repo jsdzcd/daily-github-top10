@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "theonlyhennygod/zeroclaw",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "mickamy/sql-tap",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "HKUDS/FastCode",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "vigorX777/ai-daily-digest",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "MiniMax-AI/MiniMax-M2.5",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "craigsc/cmux",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "Infatoshi/x-cli",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "SamuelQZQ/auto-coding-agent-demo",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "dev-protocol/polymarket-trading-tools-telegram-bot",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "codefactory-co/kimoring-ai-skills",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "Significant-Gravitas/AutoGPT",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "microsoft/vscode",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "mickamy/sql-tap",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "HKUDS/FastCode",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "vigorX777/ai-daily-digest",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "Infatoshi/x-cli",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "SamuelQZQ/auto-coding-agent-demo",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "HackingDave/btrpa-scan",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "dododook/FlowZ",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "thanhdo1110/Locket-Gold",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "Runnin4ik/dpi-detector",
-      "date": "2026-02-13"
-    },
-    {
-      "name": "fridzema/oxide-dock",
-      "date": "2026-02-13"
-    },
-    {
       "name": "Infatoshi/metal-mc-terrain",
       "date": "2026-02-14"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "nickvanw/PgVideoChat",
       "date": "2026-02-26"
+    },
+    {
+      "name": "ylytdeng/wechat-decrypt",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-tool",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "theforeveriris/simulated-12306-view",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "ForLoopCodes/contextplus",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "adysec/CForum",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "star23/Day1Global-Skills",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "Eronred/aso-skills",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "v1ewp0rt/BAREBLOOD",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "channeleldernumber/solana-trading-bot",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "tigerabrodi/neiro",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "AUTOMATIC1111/stable-diffusion-webui",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "521xueweihan/HelloGitHub",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "labuladong/fucking-algorithm",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "ylytdeng/wechat-decrypt",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "ForLoopCodes/contextplus",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "adysec/CForum",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "tigerabrodi/neiro",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "EA1FUO/AntennaSim",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "cita-777/metapi",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "PolyScripts/polymarket-market-maker-bot",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "vova-zhuravlkv/onion-torzon-link-market",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "junevm/splathash",
+      "date": "2026-02-27"
+    },
+    {
+      "name": "junyuw2289-svg/voicepaste",
+      "date": "2026-02-27"
     }
   ]
 }
