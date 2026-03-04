@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "DatanoiseTV/tinyice",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "lopespm/zig-minimal-kernel-x86",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "andyhuo520/rf-detr-detection",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "Ibrahim-3d/conductor-orchestrator-superpowers",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "Maniesh-Neupane/BugBounty-Recon-Methodology",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "mayfer/electrobun-macos-native-blur",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "n-e/pg-typesafe",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "donghuixin/AI-Vibe-Writing-Skills",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "xiaguan/pegainfer",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "ppgranger/token-saving",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "trekhleb/javascript-algorithms",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "yt-dlp/yt-dlp",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "golang/go",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "microsoft/PowerToys",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "langgenius/dify",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "langchain-ai/langchain",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "facebook/react-native",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "open-webui/open-webui",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "kubernetes/kubernetes",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "DatanoiseTV/tinyice",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "andyhuo520/rf-detr-detection",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "Ibrahim-3d/conductor-orchestrator-superpowers",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "mayfer/electrobun-macos-native-blur",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "n-e/pg-typesafe",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "ppgranger/token-saving",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "buckle42/claude-code-remote",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "khalildh/garment-notation",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "grok-420/grok-420",
-      "date": "2026-02-17"
-    },
-    {
-      "name": "umputun/cc-thingz",
-      "date": "2026-02-17"
-    },
-    {
       "name": "paradigmxyz/evmbench",
       "date": "2026-02-18"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Crestdrasnips/claude-zeroclaw",
       "date": "2026-03-02"
+    },
+    {
+      "name": "duoan/TorchCode",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "zornade/visura-api",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "binance/binance-skills-hub",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "Gentleatvice/seed-phrase-recover-BTC-ETH",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "sanbuphy/nanoAgent",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "Heartflabrace/Doubao-Claw",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "jackwener/bilibili-cli",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "johnmai-dev/ANE-LM",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "jshachm/pi-rs",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "Norman-bury/articlewriting-skill",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "yt-dlp/yt-dlp",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "golang/go",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "langgenius/dify",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "facebook/react-native",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "zornade/visura-api",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "binance/binance-skills-hub",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "sanbuphy/nanoAgent",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "Heartflabrace/Doubao-Claw",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "jackwener/bilibili-cli",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "Norman-bury/articlewriting-skill",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "marketingjuliancongdanh79-pixel/skill-generator",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "ED-MODESTO/polymarket-copy-trading-bot",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "arjunkmrm/recall",
+      "date": "2026-03-03"
+    },
+    {
+      "name": "mrphrazer/binary-ninja-headless-mcp",
+      "date": "2026-03-03"
     }
   ]
 }
