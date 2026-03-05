@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "paradigmxyz/evmbench",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "kellyclaudeai/openclaw-deck",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "angel10x/Crash-Frontend",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "planetscale/database-skills",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "TraderAlice/OpenAlice",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "NikkeTryHard/zerogravity",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "yeuxuan/openclaw-docs",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "RightNow-AI/picolm",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "GreenSheep01201/claw-empire",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "haiguo123/Agentic-AI-Project-Find-Deal-Opportunities",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "ytdl-org/youtube-dl",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "electron/electron",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "excalidraw/excalidraw",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "nodejs/node",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "mrdoob/three.js",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "rust-lang/rust",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "axios/axios",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "paradigmxyz/evmbench",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "kellyclaudeai/openclaw-deck",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "angel10x/Crash-Frontend",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "TraderAlice/OpenAlice",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "yeuxuan/openclaw-docs",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "RightNow-AI/picolm",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "GreenSheep01201/claw-empire",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "Yoahoug/kiro-stack",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "QwertyMcQwertz/monkeys-with-typewriters",
-      "date": "2026-02-18"
-    },
-    {
-      "name": "mashanz/peraturan-perundang-undangan-pdf",
-      "date": "2026-02-18"
-    },
-    {
       "name": "ShinMegamiBoson/OpenPlanter",
       "date": "2026-02-19"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "mrphrazer/binary-ninja-headless-mcp",
       "date": "2026-03-03"
+    },
+    {
+      "name": "tanishqkumar/ssd",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "Flowseal/tg-ws-proxy",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "dev-protocol/polymarket-trading-bot-new",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "xstongxue/best-skills",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "chixi4/Qwen3.5-9B-ToolHub",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "matteyeux/coruna",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "coyvalyss1/model-matchmaker",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "antfu/ghfs",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "Blimp-Labs/claude-usage-bar",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "okooo5km/Skills4U",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "electron/electron",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "excalidraw/excalidraw",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "nodejs/node",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "mrdoob/three.js",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "rust-lang/rust",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "axios/axios",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "tanishqkumar/ssd",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "Flowseal/tg-ws-proxy",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "xstongxue/best-skills",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "chixi4/Qwen3.5-9B-ToolHub",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "antfu/ghfs",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "igamez-gamble/sportsbook-sports-betting-crypto",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "op7418/Claude-to-IM-skill",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "ygwyg/agent-experience",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "golbin/ssaju",
+      "date": "2026-03-04"
+    },
+    {
+      "name": "theilgaz/mahfuz",
+      "date": "2026-03-04"
     }
   ]
 }
