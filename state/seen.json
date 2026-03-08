@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "dazzyddos/lsawhisper-bof",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "Kirubel125/Kalshi-Claw",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "mfranzon/tdd",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "xiaotianfotos/skills",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "innoqiu/newsieai",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "took-sHlAt/torzon-darknet-link",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "jgarzik/apython",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "carlosazaustre/tenacitOS",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "AdelaideSky/Afloat",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "perryvegehan/Packet_analyzer",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "massgravel/Microsoft-Activation-Scripts",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "papers-we-love/papers-we-love",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "supabase/supabase",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "codecrafters-io/build-your-own-x",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "Kirubel125/Kalshi-Claw",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "xiaotianfotos/skills",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "innoqiu/newsieai",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "carlosazaustre/tenacitOS",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "DaveMoudy/SalesforceDocGen",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "aryabyte21/ghostty.style",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "harshkedia177/axon",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "PGSoftIberica/windows-audio-control",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "binhanchen25-arch/agent_plus",
-      "date": "2026-02-21"
-    },
-    {
-      "name": "0xAstroAlpha/Gia-Pha-Dien-Tu",
-      "date": "2026-02-21"
-    },
-    {
       "name": "andyhuo520/aetherviz-master",
       "date": "2026-02-22"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Hurricane0698/novelwriter",
       "date": "2026-03-06"
+    },
+    {
+      "name": "steipete/discrawl",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "helenigtxu/blooket",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "deborahikssv/Antigravity-claw",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "Crestdrasnip/Claude-Zeroclaw",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "visualizevalue/jackbutcher.md",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "joeseesun/qiaomu-mondo-poster-design",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "lardissone/ansi-saver",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "1sdv/TripStar",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "MuhammadHananAsghar/wormhole",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "leonyx007/Polymarket-Trading-Bot-Rust",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "supabase/supabase",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "ohmyzsh/ohmyzsh",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "microsoft/vscode",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "steipete/discrawl",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "helenigtxu/blooket",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "deborahikssv/Antigravity-claw",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "Crestdrasnip/Claude-Zeroclaw",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "joeseesun/qiaomu-mondo-poster-design",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "MuhammadHananAsghar/wormhole",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "ammaarreshi/SkyRoads-Codex",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "mli55/pdfdelta",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "uluckyXH/OpenMOSS",
+      "date": "2026-03-07"
+    },
+    {
+      "name": "holysheep123/holysheep-cli",
+      "date": "2026-03-07"
     }
   ]
 }
