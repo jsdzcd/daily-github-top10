@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "rebane2001/x86CSS",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "lifo-sh/lifo",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "steveclarke/real-world-rails",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "kitlangton/tailcode",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "Polymarket/polymarket-cli",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "win4r/memory-lancedb-pro",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "jesselau76/cigen",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "datavorous/challenges",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "PinchToDebug/EverythingQuickSearch",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "anthropics/financial-services-plugins",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "airbnb/javascript",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "lifo-sh/lifo",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "kitlangton/tailcode",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "win4r/memory-lancedb-pro",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "jesselau76/cigen",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "datavorous/challenges",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "anthropics/financial-services-plugins",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "NOBB2333/ClipCascade_go",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "confluence-labs/arc-agi-2",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "bjarneo/cliamp",
-      "date": "2026-02-23"
-    },
-    {
-      "name": "shareAI-lab/claw0",
-      "date": "2026-02-23"
-    },
-    {
       "name": "cloudflare/vinext",
       "date": "2026-02-24"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "steipete/birdclaw",
       "date": "2026-03-08"
+    },
+    {
+      "name": "karpathy/agenthub",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "HenryXiaoYang/wechat-access-unqclawed",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "photon-hq/qclaw-wechat-client",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "marilyn4120shaz3/KiteAI",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "martinez88668/MasterCryptoFarmBot",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "Rohit24567/HyperLiquid-Claw",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "EthanLipnik/Loom",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "aiming-lab/MetaClaw",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "shenhao-stu/ohmycaptcha",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "ythx-101/ask-search",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "karpathy/agenthub",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "HenryXiaoYang/wechat-access-unqclawed",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "photon-hq/qclaw-wechat-client",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "marilyn4120shaz3/KiteAI",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "martinez88668/MasterCryptoFarmBot",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "Rohit24567/HyperLiquid-Claw",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "aiming-lab/MetaClaw",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "shenhao-stu/ohmycaptcha",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "ythx-101/ask-search",
+      "date": "2026-03-09"
+    },
+    {
+      "name": "NousResearch/hermes-agent-self-evolution",
+      "date": "2026-03-09"
     }
   ]
 }
