@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "ylytdeng/wechat-decrypt",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "Sectionnaenumerate/Polymarket-Kalshi-btc-arbitrage-tool",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "theforeveriris/simulated-12306-view",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "ForLoopCodes/contextplus",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "adysec/CForum",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "star23/Day1Global-Skills",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "Eronred/aso-skills",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "v1ewp0rt/BAREBLOOD",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "channeleldernumber/solana-trading-bot",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "tigerabrodi/neiro",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "AUTOMATIC1111/stable-diffusion-webui",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "521xueweihan/HelloGitHub",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "labuladong/fucking-algorithm",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "ylytdeng/wechat-decrypt",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "ForLoopCodes/contextplus",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "adysec/CForum",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "tigerabrodi/neiro",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "EA1FUO/AntennaSim",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "cita-777/metapi",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "PolyScripts/polymarket-market-maker-bot",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "vova-zhuravlkv/onion-torzon-link-market",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "junevm/splathash",
-      "date": "2026-02-27"
-    },
-    {
-      "name": "junyuw2289-svg/voicepaste",
-      "date": "2026-02-27"
-    },
-    {
       "name": "34306/vphone-aio",
       "date": "2026-02-28"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "flightlesstux/prompt-caching",
       "date": "2026-03-12"
+    },
+    {
+      "name": "pasky/chrome-cdp-skill",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "skernelx/tavily-key-generator",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "uditgoenka/autoresearch",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "jackwener/boss-cli",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "himself65/finance-skills",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "hjanuschka/pi-multi-pass",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "ethanjyx/OpenBrand",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "meowscles69/PaperClaw",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "jackwener/rdt-cli",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "xiaomi-research/dmail",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "microsoft/vscode",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "pasky/chrome-cdp-skill",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "skernelx/tavily-key-generator",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "uditgoenka/autoresearch",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "jackwener/boss-cli",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "hjanuschka/pi-multi-pass",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "ethanjyx/OpenBrand",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "jackwener/rdt-cli",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "xiaomi-research/dmail",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "jina-ai/cli",
+      "date": "2026-03-13"
+    },
+    {
+      "name": "KeyID-AI/sdk-js",
+      "date": "2026-03-13"
     }
   ]
 }
