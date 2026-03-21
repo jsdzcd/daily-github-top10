@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "karpathy/autoresearch",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "L42ARO/Mercury-Transforming-Drone",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "dazzyddos/PrivHound",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "OasAIStudio/symphony-ts",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "Minecraft-Community-Edition/client",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "0xiehnnkta/nemesis-auditor",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "samuelfaj/distill",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "helenigtxu/TradingView-Claw",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "Guid-Lab/kdecrypt",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "caiwuu/web2api",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "microsoft/TypeScript",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "angular/angular",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "jaywcjlove/awesome-mac",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "Anduin2017/HowToCook",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "karpathy/autoresearch",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "L42ARO/Mercury-Transforming-Drone",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "OasAIStudio/symphony-ts",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "samuelfaj/distill",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "helenigtxu/TradingView-Claw",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "caiwuu/web2api",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "liuwei283/RealWonder",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "numbergroup/AgentGuard",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "hoangtuvungcao/mango-waf",
-      "date": "2026-03-06"
-    },
-    {
-      "name": "Hurricane0698/novelwriter",
-      "date": "2026-03-06"
-    },
-    {
       "name": "steipete/discrawl",
       "date": "2026-03-07"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "ALKAERR/Kali_Hack_Agent",
       "date": "2026-03-19"
+    },
+    {
+      "name": "ghostty-org/ghostling",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "dontbesilent2025/dbskill",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "dou-jiang/codex-console",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "vercel-labs/emulate",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "zengwenliang416/ppt-agent",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "GeiserX/awesome-spain",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "SethGammon/Citadel",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "mattnowdev/thinking-partner",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "sunbigfly/ppt-agent-skill",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "louislva/claude-peers-mcp",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "donnemartin/system-design-primer",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "dou-jiang/codex-console",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "vercel-labs/emulate",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "SethGammon/Citadel",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "sunbigfly/ppt-agent-skill",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "louislva/claude-peers-mcp",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "zhaoscsc/x-bookmark-to-obsidian",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "victorsosaMx/vsWaybar-Studio",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "openyak/desktop",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "pontusab/toolpick",
+      "date": "2026-03-20"
+    },
+    {
+      "name": "shahidshabbir-se/opencode-anthropic-oauth",
+      "date": "2026-03-20"
     }
   ]
 }
