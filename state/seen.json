@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "steipete/discrawl",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "helenigtxu/blooket",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "deborahikssv/Antigravity-claw",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "Crestdrasnip/Claude-Zeroclaw",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "visualizevalue/jackbutcher.md",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "joeseesun/qiaomu-mondo-poster-design",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "lardissone/ansi-saver",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "1sdv/TripStar",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "MuhammadHananAsghar/wormhole",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "leonyx007/Polymarket-Trading-Bot-Rust",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "supabase/supabase",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "TheAlgorithms/Python",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "ohmyzsh/ohmyzsh",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "microsoft/vscode",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "steipete/discrawl",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "helenigtxu/blooket",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "deborahikssv/Antigravity-claw",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "Crestdrasnip/Claude-Zeroclaw",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "joeseesun/qiaomu-mondo-poster-design",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "MuhammadHananAsghar/wormhole",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "ammaarreshi/SkyRoads-Codex",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "mli55/pdfdelta",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "uluckyXH/OpenMOSS",
-      "date": "2026-03-07"
-    },
-    {
-      "name": "holysheep123/holysheep-cli",
-      "date": "2026-03-07"
-    },
-    {
       "name": "HKUDS/CLI-Anything",
       "date": "2026-03-08"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "shahidshabbir-se/opencode-anthropic-oauth",
       "date": "2026-03-20"
+    },
+    {
+      "name": "wong2/weixin-agent-sdk",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "m1heng/claude-plugin-weixin",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "ccbkkb/MicroWARP",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "deathlessburton88/tiktok-views-likes-followers-shares-bot-2026",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "joeseesun/markdown-proxy",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "xiaolajiaoyyds/regplatformm",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "niceguygwin/standoff-2-multi-tool",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "MidNightExtern/MIDNIGHT",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "epiral/weixin-bot",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "pagel-s/termcraft",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "anthropics/skills",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "2dust/v2rayN",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "supabase/supabase",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "Anduin2017/HowToCook",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "wong2/weixin-agent-sdk",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "m1heng/claude-plugin-weixin",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "joeseesun/markdown-proxy",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "xiaolajiaoyyds/regplatformm",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "epiral/weixin-bot",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "mnfst/awesome-free-llm-apis",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "0xSero/moe-compress",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "DestinyCycloid/chatgpt_register_v2_by_AI",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "joeseesun/lennys-podcast-newsletter",
+      "date": "2026-03-21"
+    },
+    {
+      "name": "daddysmokeloke/Steam-Quantum-Trader-2026",
+      "date": "2026-03-21"
     }
   ]
 }
