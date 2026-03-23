@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "HKUDS/CLI-Anything",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "FreedomIntelligence/OpenClaw-Medical-Skills",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "imbue-bit/OpenClaw-PwnKit",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "trevin-creator/autoresearch-mlx",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "kamranahmedse/claude-statusline",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "knowsuchagency/mcp2cli",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "tanweai/pua",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "OpusDelta/opusdelta",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "nagisanzenin/skyclaw",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "diandianti/clawInstaller",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "donnemartin/system-design-primer",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "massgravel/Microsoft-Activation-Scripts",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "microsoft/generative-ai-for-beginners",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "HKUDS/CLI-Anything",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "imbue-bit/OpenClaw-PwnKit",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "trevin-creator/autoresearch-mlx",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "knowsuchagency/mcp2cli",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "tanweai/pua",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "OpusDelta/opusdelta",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "raxx21/rajesh-portfolio",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "adn8naiagent/F1ReplayTiming",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "gorkem-bwl/animated-icons",
-      "date": "2026-03-08"
-    },
-    {
-      "name": "steipete/birdclaw",
-      "date": "2026-03-08"
-    },
-    {
       "name": "karpathy/agenthub",
       "date": "2026-03-09"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "daddysmokeloke/Steam-Quantum-Trader-2026",
       "date": "2026-03-21"
+    },
+    {
+      "name": "fastclaw-ai/weclaw",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "bramcohen/manyana",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "zarazhangrui/codebase-to-course",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "lyddape595/wplace-bot-2026",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "meodai/skill.color-expert",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "Vacutagin/GameEnhancementSuite",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "domirek2269/Lossless-Scaling-Update-Upscale-FPS",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "GAIR-NLP/daVinci-MagiHuman",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "Johnixr/claude-code-wechat-channel",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "openilink/openilink-hub",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "angular/angular",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "fastclaw-ai/weclaw",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "bramcohen/manyana",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "Vacutagin/GameEnhancementSuite",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "GAIR-NLP/daVinci-MagiHuman",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "Johnixr/claude-code-wechat-channel",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "openilink/openilink-hub",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "Wechat-ggGitHub/wechat-claude-code",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "hao-ji-xing/openclaw-weixin",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "luoling8192/ai-coding-principles",
+      "date": "2026-03-22"
+    },
+    {
+      "name": "hao-ji-xing/cc-weixin",
+      "date": "2026-03-22"
     }
   ]
 }
