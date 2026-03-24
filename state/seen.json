@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "karpathy/agenthub",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "HenryXiaoYang/wechat-access-unqclawed",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "photon-hq/qclaw-wechat-client",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "marilyn4120shaz3/KiteAI",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "martinez88668/MasterCryptoFarmBot",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "Rohit24567/HyperLiquid-Claw",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "EthanLipnik/Loom",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "aiming-lab/MetaClaw",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "shenhao-stu/ohmycaptcha",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "ythx-101/ask-search",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "TheAlgorithms/Python",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "karpathy/agenthub",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "HenryXiaoYang/wechat-access-unqclawed",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "photon-hq/qclaw-wechat-client",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "marilyn4120shaz3/KiteAI",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "martinez88668/MasterCryptoFarmBot",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "Rohit24567/HyperLiquid-Claw",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "aiming-lab/MetaClaw",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "shenhao-stu/ohmycaptcha",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "ythx-101/ask-search",
-      "date": "2026-03-09"
-    },
-    {
-      "name": "NousResearch/hermes-agent-self-evolution",
-      "date": "2026-03-09"
-    },
-    {
       "name": "gsd-build/gsd-2",
       "date": "2026-03-10"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "hao-ji-xing/cc-weixin",
       "date": "2026-03-22"
+    },
+    {
+      "name": "slavingia/skills",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "opa334/darksword-kexploit",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "LimHyungTae/Awesome-PhD-CV",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "marswaveai/TypeNo",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "duriantaco/fyn",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "oguzbilgic/agent-kernel",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "apechurch/polymarket-arbitrage-trading-bot",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "capybara-zy/xiaoye-ai",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "0xNyk/awesome-hermes-agent",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "tanviet12/chat-quality-agent",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "microsoft/terminal",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "apechurch/polymarket-arbitrage-trading-bot",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "tanviet12/chat-quality-agent",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "verialabs/ctf-agent",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "formulahendry/wechat-acp",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "0reki/cocodex",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "Shudesu/line-harness-oss",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "CyrilPeng/FlowScroll",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "509992828/grok-register",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "mediastormDev/dream-to-video-skill",
+      "date": "2026-03-23"
+    },
+    {
+      "name": "EvanBacon/create-symbol",
+      "date": "2026-03-23"
     }
   ]
 }
