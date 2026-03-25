@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "gsd-build/gsd-2",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "RightNow-AI/autokernel",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "michelleoincx/Bunkr-Downloader-Python",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "snoglobe/helios",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "xunchahaha/mi_nobl_root",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "orange2ai/openclaw-killer",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "infraform/polymarket-kalshi-arbitrage-bot",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "luckyyyyy/specc.sh",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "byJoey/openclawctl",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "masterawpdollar3/runway-ml-ultimate-ai-edition",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "Genymobile/scrcpy",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "clash-verge-rev/clash-verge-rev",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "donnemartin/system-design-primer",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "TheAlgorithms/Python",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "gsd-build/gsd-2",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "RightNow-AI/autokernel",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "snoglobe/helios",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "infraform/polymarket-kalshi-arbitrage-bot",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "luckyyyyy/specc.sh",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "trevin-creator/Tiny-Lab",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "coolstartnow/isms-builder",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "shuyicc/MathLens",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "antfu-collective/ua-parser-modern",
-      "date": "2026-03-10"
-    },
-    {
-      "name": "nategentile7/hacksseetd",
-      "date": "2026-03-10"
-    },
-    {
       "name": "garrytan/gstack",
       "date": "2026-03-11"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "EvanBacon/create-symbol",
       "date": "2026-03-23"
+    },
+    {
+      "name": "HKUDS/OpenSpace",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "nashsu/opencli-rs",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "Timeverse/My-TW-Coverage",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "deniurchak/claude-vps-setup-prompt",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "remorses/usecomputer",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "runesleo/ai-health-vault",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "denoland/ronly",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "jzOcb/writing-style-skill",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "Yutani140x/saturnix-camera",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "0xShe/PHP-Code-Audit-Skill",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "Genymobile/scrcpy",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "krahets/hello-algo",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "clash-verge-rev/clash-verge-rev",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "HKUDS/OpenSpace",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "Timeverse/My-TW-Coverage",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "jzOcb/writing-style-skill",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "lich0821/wcfLink",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "45645678a/scholar-mcp",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "apechurch/polymarket-copy-trading-bot",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "ryfineZ/codex-session-patcher",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "mrdoob/Starter-Kit-Racing",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "ServiceNow/eva",
+      "date": "2026-03-24"
+    },
+    {
+      "name": "Tencent-Hunyuan/SAGE-GRPO",
+      "date": "2026-03-24"
     }
   ]
 }
