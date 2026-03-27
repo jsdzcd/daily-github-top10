@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "bentossell/visualise",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "KeyID-AI/agent-kit",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "Michaelliv/pi-generative-ui",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "upper-up/meta-lobbying-and-other-findings",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "longnghiemduc6-art/ob12api",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "Narcooo/inkos",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "nashsu/Viral_Writer_Skill",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "pretyflaco/meetscribe",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "JudyaiLab/ai-night-shift",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "kfyl11/YimMenu",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "Chalarangelo/30-seconds-of-code",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "donnemartin/system-design-primer",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "TheAlgorithms/Python",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "KeyID-AI/agent-kit",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "Michaelliv/pi-generative-ui",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "longnghiemduc6-art/ob12api",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "Narcooo/inkos",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "pretyflaco/meetscribe",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "imj01y/trace-ui",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "THU-SI/Spatial-TTT",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "EvilFreelancer/openapi-to-cli",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "frozen-cherry/twitter-buddy",
-      "date": "2026-03-12"
-    },
-    {
-      "name": "flightlesstux/prompt-caching",
-      "date": "2026-03-12"
-    },
-    {
       "name": "pasky/chrome-cdp-skill",
       "date": "2026-03-13"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "jxnxts/mcp-brasil",
       "date": "2026-03-25"
+    },
+    {
+      "name": "oaker-io/wewrite",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "happyboy4ty25/pump-analyzer",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "realkimbarrett/advertising-skills",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "glommer/pgmicro",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "ericboy0224/learn-docker-and-k8s",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "KusumaHadiman/EORMC",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "nicedreamzapp/claude-code-local",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "edinetdb/dexter-jp",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "Justineo/working-with-ai",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "jkeatn/Tintin",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "521xueweihan/HelloGitHub",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "Chalarangelo/30-seconds-of-code",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "ossu/computer-science",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "oaker-io/wewrite",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "nicedreamzapp/claude-code-local",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "edinetdb/dexter-jp",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "jkeatn/Tintin",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "vxcozy/flappyboards",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "scrya-com/rotorquant",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "jonasen1988/proxygo",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "quailyquaily/coe",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "yizhiyanhua-ai/fireworks-skill-memory",
+      "date": "2026-03-26"
+    },
+    {
+      "name": "RyanCodrai/py-turboquant",
+      "date": "2026-03-26"
     }
   ]
 }
