@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "pasky/chrome-cdp-skill",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "skernelx/tavily-key-generator",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "uditgoenka/autoresearch",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "jackwener/boss-cli",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "himself65/finance-skills",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "hjanuschka/pi-multi-pass",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "ethanjyx/OpenBrand",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "meowscles69/PaperClaw",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "jackwener/rdt-cli",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "xiaomi-research/dmail",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "TheAlgorithms/Python",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "microsoft/vscode",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "Significant-Gravitas/AutoGPT",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "n8n-io/n8n",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "pasky/chrome-cdp-skill",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "skernelx/tavily-key-generator",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "uditgoenka/autoresearch",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "jackwener/boss-cli",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "hjanuschka/pi-multi-pass",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "ethanjyx/OpenBrand",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "jackwener/rdt-cli",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "xiaomi-research/dmail",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "jina-ai/cli",
-      "date": "2026-03-13"
-    },
-    {
-      "name": "KeyID-AI/sdk-js",
-      "date": "2026-03-13"
-    },
-    {
       "name": "calesthio/Crucix",
       "date": "2026-03-14"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "RyanCodrai/py-turboquant",
       "date": "2026-03-26"
+    },
+    {
+      "name": "adamlyttleapps/notchy",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "EnriqueLop/legalize-es",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "krzyzanowskim/claude-better",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "alvinunreal/awesome-openclaw",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "rivet-dev/antiox",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "deweloperuch/ustawa-anty-spekulacyjna",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "spool-lab/spool",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "TACOWASA059/katamariio",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "m0at/rvllm",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "AsArchitects/Kalshi-trade-bot",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "microsoft/vscode",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "ossu/computer-science",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "rivet-dev/antiox",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "spool-lab/spool",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "cdppcorp/KESE-KIT",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "VexedWilosn/AetherSwap",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "cocktailpeanut/hermes-mod",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "0xSero/factory-cursor-bridge",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "SMNETSTUDIO/File-Transfer",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "ErikHellman/android-cli",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "fshiori/magi",
+      "date": "2026-03-27"
+    },
+    {
+      "name": "upstash/botstreet",
+      "date": "2026-03-27"
     }
   ]
 }
