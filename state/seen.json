@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "calesthio/Crucix",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "jackwener/opencli",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "aiming-lab/AutoResearchClaw",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "michelleoincx/zeroclaw-grok",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "susanudgzf/Aave-Claw",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "sstklen/trump-code",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "epiral/bb-sites",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "deusyu/translate-book",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "wuji-labs/nopua",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "collaborator-ai/collab-public",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "fatedier/frp",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "pytorch/pytorch",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "mui/material-ui",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "ohmyzsh/ohmyzsh",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "calesthio/Crucix",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "jackwener/opencli",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "aiming-lab/AutoResearchClaw",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "michelleoincx/zeroclaw-grok",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "susanudgzf/Aave-Claw",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "sstklen/trump-code",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "epiral/bb-sites",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "deusyu/translate-book",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "wuji-labs/nopua",
-      "date": "2026-03-14"
-    },
-    {
-      "name": "kaima2022/ABCard",
-      "date": "2026-03-14"
-    },
-    {
       "name": "Infatoshi/OpenSquirrel",
       "date": "2026-03-15"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "upstash/botstreet",
       "date": "2026-03-27"
+    },
+    {
+      "name": "qiuzhi2046/Qclaw",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "meodai/heerich",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "hitmux/HitCC",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "Railly/agentfiles",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "walkinglabs/awesome-harness-engineering",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "chrisryugj/kordoc",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "marswaveai/ColaMD",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "v1r3n/dinesh-gilfoyle",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "yetone/voice-input-src",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "kayba-ai/recursive-improve",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "fatedier/frp",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "ohmyzsh/ohmyzsh",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "microsoft/vscode",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "qiuzhi2046/Qclaw",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "meodai/heerich",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "hitmux/HitCC",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "chrisryugj/kordoc",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "marswaveai/ColaMD",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "kayba-ai/recursive-improve",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "win4r/lossless-claw-enhanced",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "Neman1234/Bite-By-Night-roblox",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "dogadmin/ProcIR",
+      "date": "2026-03-28"
+    },
+    {
+      "name": "nclamvn/Viet-ERP",
+      "date": "2026-03-28"
     }
   ]
 }
