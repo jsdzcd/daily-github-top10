@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Infatoshi/OpenSquirrel",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "MoonshotAI/Attention-Residuals",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "rasbt/llm-architecture-gallery",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "Lum1104/Understand-Anything",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "JoshKale/jobs",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "cnlimiter/codex-register",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "lux-db/lux",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "carious6923/blooket-pro-2026",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "LeDat98/NexusRAG",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "infraform/polymarket-trading-bot",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "ossu/computer-science",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "donnemartin/system-design-primer",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "ohmyzsh/ohmyzsh",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "rasbt/llm-architecture-gallery",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "Lum1104/Understand-Anything",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "cnlimiter/codex-register",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "LeDat98/NexusRAG",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "infraform/polymarket-trading-bot",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "infraform/polymarket-arbitrage-trading-bot",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "RuizeLyu/paper-dl",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "EvanZhouDev/openai-oauth",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "RhysSullivan/nextjs-mobile-app-template",
-      "date": "2026-03-15"
-    },
-    {
-      "name": "th3ee9ine/wechat-claw-skill",
-      "date": "2026-03-15"
-    },
-    {
       "name": "joeseesun/opencli-skill",
       "date": "2026-03-16"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "nclamvn/Viet-ERP",
       "date": "2026-03-28"
+    },
+    {
+      "name": "WecomTeam/wecom-cli",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "titanwings/colleague-skill",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "dreddnafious/thereisnospoon",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "Zfinix/another",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "YOTSingularity/yearofthesingularity",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "MhmRdd/google-rkp-sw",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "SunWeb3Sec/llm-sast-scanner",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "nutterplayer7093/Lossless-Scaling-Pro-2026",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "yetone/voice-input-dist",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "ohmyzsh/ohmyzsh",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "titanwings/colleague-skill",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "dreddnafious/thereisnospoon",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "MhmRdd/google-rkp-sw",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "razroo/textura",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "aak204/MCP-Trust-Kit",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "AgentFlocks/flocks",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "vladartym/always-fit-resume",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "lemire/constmap",
+      "date": "2026-03-29"
+    },
+    {
+      "name": "lucascrespo23/pinch-type",
+      "date": "2026-03-29"
     }
   ]
 }
