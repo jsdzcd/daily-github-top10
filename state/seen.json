@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "joeseesun/opencli-skill",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "lcoutodemos/clui-cc",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "NeoVertex1/nuggets",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "dev-protocoI/polymarket-copytrading-bot-sport",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "dev-protocol/polymarket-arbitrage-bot",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "dev-protocol/polymarket-copytrading-bot-sport",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "naver-ai/seoul-world-model",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "nv-tlabs/kimodo",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "Jiangzy520/DreamleStockRadar",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "shrewsendlessmer84/powerbi-full-panel-2026",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "flutter/flutter",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "twbs/bootstrap",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "ollama/ollama",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "huggingface/transformers",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "f/prompts.chat",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "langflow-ai/langflow",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "vercel/next.js",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "lcoutodemos/clui-cc",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "NeoVertex1/nuggets",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "dev-protocoI/polymarket-copytrading-bot-sport",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "dev-protocol/polymarket-arbitrage-bot",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "dev-protocol/polymarket-copytrading-bot-sport",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "nv-tlabs/kimodo",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "Jiangzy520/DreamleStockRadar",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "J-Pster/Psters_AI_Workflow",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation",
-      "date": "2026-03-16"
-    },
-    {
-      "name": "CRYPTO-BLACKSKY/Polymarket-sports-copy-trading-bot",
-      "date": "2026-03-16"
-    },
-    {
       "name": "HKUDS/ClawTeam",
       "date": "2026-03-17"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "lucascrespo23/pinch-type",
       "date": "2026-03-29"
+    },
+    {
+      "name": "instructkr/claw-code",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "ChinaSiro/claude-code-sourcemap",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "nirholas/claude-code",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "sanbuphy/claude-code-source-code",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "Kuberwastaken/claude-code",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "drona23/claude-token-efficient",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "chatgptprojects/claude-code",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "tvytlx/claude-code-deep-dive",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "oboard/claude-code-rev",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "flutter/flutter",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "twbs/bootstrap",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "ollama/ollama",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "huggingface/transformers",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "f/prompts.chat",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "vercel/next.js",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "instructkr/claw-code",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "ChinaSiro/claude-code-sourcemap",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "nirholas/claude-code",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "sanbuphy/claude-code-source-code",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "Kuberwastaken/claude-code",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "chatgptprojects/claude-code",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "tvytlx/claude-code-deep-dive",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "oboard/claude-code-rev",
+      "date": "2026-03-30"
+    },
+    {
+      "name": "claude-code-best/claude-code",
+      "date": "2026-03-30"
     }
   ]
 }
