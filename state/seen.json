@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "HKUDS/ClawTeam",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "VoltAgent/awesome-codex-subagents",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "frank890417/taiwan-md",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "6551Team/daily-news",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "5uNRiSEBr7059Oken/uniswap-arbitrage-bot-2026",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "leo-lilinxiao/codex-autoresearch",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "hubeiqiao/apple-bento-grid",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "0x5uo2hen/codex_register",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "lxf746/any-auto-register",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "avinash201199/DSA-KIT",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "yt-dlp/yt-dlp",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "langgenius/dify",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "golang/go",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "microsoft/PowerToys",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "langchain-ai/langchain",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "open-webui/open-webui",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "facebook/react-native",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "kubernetes/kubernetes",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "HKUDS/ClawTeam",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "6551Team/daily-news",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "0x5uo2hen/codex_register",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "lxf746/any-auto-register",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "stevibe/local-llm-video-captioning",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "jimprosser/obsidian-web-mcp",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "lukasHoel/video_to_world",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "phronesis-io/eigenflux",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "OpenRaiser/NanoResearch",
-      "date": "2026-03-17"
-    },
-    {
-      "name": "Nelipot-Lee/SegviGen",
-      "date": "2026-03-17"
-    },
-    {
       "name": "mattprusak/autoresearch-genealogy",
       "date": "2026-03-18"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "claude-code-best/claude-code",
       "date": "2026-03-30"
+    },
+    {
+      "name": "sanbuphy/learn-coding-agent",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "Kuberwastaken/claurst",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "tvytlx/ai-agent-deep-dive",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "NanmiCoder/claude-code-haha",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "Gitlawb/openclaude",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "codeany-ai/open-agent-sdk-typescript",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "chatgptprojects/clear-code",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "Leonxlnx/agentic-ai-prompt-research",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "JackChen-me/open-multi-agent",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "motiful/cc-gateway",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "langgenius/dify",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "golang/go",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "facebook/react-native",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "NanmiCoder/claude-code-haha",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "Gitlawb/openclaude",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "codeany-ai/open-agent-sdk-typescript",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "JackChen-me/open-multi-agent",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "motiful/cc-gateway",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "ponponon/claude_code_src",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "jarmuine/claude-code",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "lintsinghua/claude-code-book",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "Windy3f3f3f3f/how-claude-code-works",
+      "date": "2026-03-31"
+    },
+    {
+      "name": "Leonxlnx/claw-dev",
+      "date": "2026-03-31"
     }
   ]
 }
