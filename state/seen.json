@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "mattprusak/autoresearch-genealogy",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "Gustavo1900/bevy-atmosphere",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "alaeelhariri/sqlite-python-app",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "danveloper/flash-moe",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "ayush-that/jiang-clips",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "creationix/rx",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "olelehmann100kMRR/autoresearch-skill",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "truongduy2611/app-store-preflight-skills",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "mshumer/unslop",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "DigitalPlatDev/FreeDomain",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "electron/electron",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "excalidraw/excalidraw",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "nodejs/node",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "mrdoob/three.js",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "rust-lang/rust",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "axios/axios",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "seabra98/Polymarket-Kalshi-Arbitrage-Bot",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "alaeelhariri/sqlite-python-app",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "ayush-that/jiang-clips",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "creationix/rx",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "mshumer/unslop",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "ExpondoEgirl/felca-reporter",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "alainnothere/llm-circuit-finder",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "KlingAIResearch/X-Dub",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "Siquan-Wang/sixseven-jokes",
-      "date": "2026-03-18"
-    },
-    {
-      "name": "Shpigford/chops",
-      "date": "2026-03-18"
-    },
-    {
       "name": "math-inc/OpenGauss",
       "date": "2026-03-19"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Leonxlnx/claw-dev",
       "date": "2026-03-31"
+    },
+    {
+      "name": "emdash-cms/emdash",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "ultraworkers/claw-code-parity",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "dominikmartn/nothing-design-skill",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "HKUDS/OpenHarness",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "wquguru/harness-books",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "repowise-dev/claude-code-prompts",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "win4r/cc-notebook",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "0Chencc/clawgod",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "cpaczek/any-buddy",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "electron/electron",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "excalidraw/excalidraw",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "nodejs/node",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "mrdoob/three.js",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "rust-lang/rust",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "axios/axios",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "emdash-cms/emdash",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "HKUDS/OpenHarness",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "wquguru/harness-books",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "0Chencc/clawgod",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "cpaczek/any-buddy",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "777genius/claude-code-source-code-full",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "elastic/supply-chain-monitor",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "wesbos/JSON-Alexander",
+      "date": "2026-04-01"
+    },
+    {
+      "name": "Paidax01/math-curve-loaders",
+      "date": "2026-04-01"
     }
   ]
 }
