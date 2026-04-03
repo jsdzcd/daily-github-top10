@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "math-inc/OpenGauss",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "griffinmartin/opencode-claude-auth",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "cornel-pe/online-casino-platform-backend",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "Ataraxy-Labs/opensessions",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "mucsbr/ppt-agent-workflow-san",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "Okyumi/OverTrack",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "ahaodev/shadmin",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "phlx0/drift",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "ShawnPana/aurl",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "EthanYolo01/Awesome-OpenClaw",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "avelino/awesome-go",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "yangshun/tech-interview-handbook",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "shadcn-ui/ui",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "rustdesk/rustdesk",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "godotengine/godot",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "denoland/deno",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "tauri-apps/tauri",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "math-inc/OpenGauss",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "griffinmartin/opencode-claude-auth",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "cornel-pe/online-casino-platform-backend",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "Okyumi/OverTrack",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "ahaodev/shadmin",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "phlx0/drift",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "ShawnPana/aurl",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "ephraimduncan/opencode-cursor",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "stvlynn/dingtalk-wukong-skills",
-      "date": "2026-03-19"
-    },
-    {
-      "name": "ALKAERR/Kali_Hack_Agent",
-      "date": "2026-03-19"
-    },
-    {
       "name": "ghostty-org/ghostling",
       "date": "2026-03-20"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Paidax01/math-curve-loaders",
       "date": "2026-04-01"
+    },
+    {
+      "name": "luyao618/Claude-Code-Source-Study",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "kevinrgu/autoagent",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "leilei926524-tech/anti-distill",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "inclusionAI/cuLA",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "bddicken/tuitter",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "LarsenCundric/port-whisperer",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "IndustryCodeLab/polymarket-copy-trading-bot",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "LeoYeAI/MyClaw",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "snarktank/clawchief",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "skibidiskib/ai-codex",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "avelino/awesome-go",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "godotengine/godot",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "denoland/deno",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "kevinrgu/autoagent",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "inclusionAI/cuLA",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "bddicken/tuitter",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "LarsenCundric/port-whisperer",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "IndustryCodeLab/polymarket-copy-trading-bot",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "skibidiskib/ai-codex",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "pacifio/cersei",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "frankykevin/polymarket-trading-bot",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "math-ai-org/mathcode",
+      "date": "2026-04-02"
+    },
+    {
+      "name": "aiming-lab/AutoHarness",
+      "date": "2026-04-02"
     }
   ]
 }
