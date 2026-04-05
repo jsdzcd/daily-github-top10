@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "wong2/weixin-agent-sdk",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "m1heng/claude-plugin-weixin",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "ccbkkb/MicroWARP",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "deathlessburton88/tiktok-views-likes-followers-shares-bot-2026",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "joeseesun/markdown-proxy",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "xiaolajiaoyyds/regplatformm",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "niceguygwin/standoff-2-multi-tool",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "MidNightExtern/MIDNIGHT",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "epiral/weixin-bot",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "pagel-s/termcraft",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "jaywcjlove/awesome-mac",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "anthropics/skills",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "2dust/v2rayN",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "supabase/supabase",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "Anduin2017/HowToCook",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "wong2/weixin-agent-sdk",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "m1heng/claude-plugin-weixin",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "joeseesun/markdown-proxy",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "xiaolajiaoyyds/regplatformm",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "epiral/weixin-bot",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "mnfst/awesome-free-llm-apis",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "0xSero/moe-compress",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "DestinyCycloid/chatgpt_register_v2_by_AI",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "joeseesun/lennys-podcast-newsletter",
-      "date": "2026-03-21"
-    },
-    {
-      "name": "daddysmokeloke/Steam-Quantum-Trader-2026",
-      "date": "2026-03-21"
-    },
-    {
       "name": "fastclaw-ai/weclaw",
       "date": "2026-03-22"
     },
@@ -1679,6 +1559,102 @@
     {
       "name": "fakechris/obsidian_vault_pipeline",
       "date": "2026-04-03"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "alchaincyf/nuwa-skill",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "santifer/career-ops",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "jinchenma94/bazi-skill",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "teamchong/turboquant-wasm",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "alchaincyf/steve-jobs-skill",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "shorwood/slopc",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "34306/FilzaJailedDS",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "Snake1029/Lossless-Scaling-Frame-Generation-PC",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "Ramz-p/JSON-Mod-Manager-Crimson-Desert",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "2dust/v2rayN",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "google-gemini/gemini-cli",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "supabase/supabase",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "santifer/career-ops",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "junjiezhou1122/GptCrate",
+      "date": "2026-04-04"
+    },
+    {
+      "name": "codeninja/oauth-cli-coder",
+      "date": "2026-04-04"
     }
   ]
 }
