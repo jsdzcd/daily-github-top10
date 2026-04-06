@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "fastclaw-ai/weclaw",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "bramcohen/manyana",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "zarazhangrui/codebase-to-course",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "lyddape595/wplace-bot-2026",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "meodai/skill.color-expert",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "Vacutagin/GameEnhancementSuite",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "domirek2269/Lossless-Scaling-Update-Upscale-FPS",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "GAIR-NLP/daVinci-MagiHuman",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "Johnixr/claude-code-wechat-channel",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "openilink/openilink-hub",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "microsoft/generative-ai-for-beginners",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "affaan-m/everything-claude-code",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "angular/angular",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "fastclaw-ai/weclaw",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "bramcohen/manyana",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "Vacutagin/GameEnhancementSuite",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "GAIR-NLP/daVinci-MagiHuman",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "Johnixr/claude-code-wechat-channel",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "openilink/openilink-hub",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "Wechat-ggGitHub/wechat-claude-code",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "hao-ji-xing/openclaw-weixin",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "luoling8192/ai-coding-principles",
-      "date": "2026-03-22"
-    },
-    {
-      "name": "hao-ji-xing/cc-weixin",
-      "date": "2026-03-22"
-    },
-    {
       "name": "slavingia/skills",
       "date": "2026-03-23"
     },
@@ -1655,6 +1535,114 @@
     {
       "name": "codeninja/oauth-cli-coder",
       "date": "2026-04-04"
+    },
+    {
+      "name": "fikrikarim/parlor",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "kessler/gemma-gem",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "hotcoffeeshake/tong-jincheng-skill",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "wxtsky/CodeIsland",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "zacdcook/openclaw-billing-proxy",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "amadeusprotocol/polymarket-trading-bot",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "alchaincyf/x-mentor-skill",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "DevTechJr/turboquant-gpu",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "AFahim02/House-Flipper-2-Multiplayer",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "TONYMKXR/MOUSE-P.I.-for-Hire-Demo-PC-Edition",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "yangshun/tech-interview-handbook",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "kessler/gemma-gem",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "zacdcook/openclaw-billing-proxy",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "amadeusprotocol/polymarket-trading-bot",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "DevTechJr/turboquant-gpu",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "R6410418/Jackrong-llm-finetuning-guide",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "S-Trespassing/claw-in-chrome",
+      "date": "2026-04-05"
+    },
+    {
+      "name": "cnlimiter/codex-manager-v3",
+      "date": "2026-04-05"
     }
   ]
 }
