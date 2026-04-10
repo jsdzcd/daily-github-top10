@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "oaker-io/wewrite",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "happyboy4ty25/pump-analyzer",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "realkimbarrett/advertising-skills",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "glommer/pgmicro",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "ericboy0224/learn-docker-and-k8s",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "KusumaHadiman/EORMC",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "nicedreamzapp/claude-code-local",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "edinetdb/dexter-jp",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "Justineo/working-with-ai",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "jkeatn/Tintin",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "521xueweihan/HelloGitHub",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "Chalarangelo/30-seconds-of-code",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "ossu/computer-science",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "oaker-io/wewrite",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "nicedreamzapp/claude-code-local",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "edinetdb/dexter-jp",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "jkeatn/Tintin",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "vxcozy/flappyboards",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "scrya-com/rotorquant",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "jonasen1988/proxygo",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "quailyquaily/coe",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "yizhiyanhua-ai/fireworks-skill-memory",
-      "date": "2026-03-26"
-    },
-    {
-      "name": "RyanCodrai/py-turboquant",
-      "date": "2026-03-26"
-    },
-    {
       "name": "adamlyttleapps/notchy",
       "date": "2026-03-27"
     },
@@ -1643,6 +1523,126 @@
     {
       "name": "whwangovo/pyre-code",
       "date": "2026-04-08"
+    },
+    {
+      "name": "joeynyc/hermes-hudui",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "UnluckyNinja/SBTI-test",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "dominikmartn/ProgressiveBlurHeader",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "AMAP-ML/SkillClaw",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "millionco/isolet",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "863401402/she-love-me",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "cablate/banini-tracker",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "robert-2-j/HappyHorse-1.0",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "klsf/codex-register",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "0xquqi/sun-skill",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "microsoft/vscode",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "joeynyc/hermes-hudui",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "AMAP-ML/SkillClaw",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "millionco/isolet",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "863401402/she-love-me",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "cablate/banini-tracker",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "klsf/codex-register",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "ibelick/mesurer",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "1270011/claude-buddy",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "frckeepit/llm-production-toolkit",
+      "date": "2026-04-09"
+    },
+    {
+      "name": "DIYgod/cloudflare-edge-tts",
+      "date": "2026-04-09"
     }
   ]
 }
