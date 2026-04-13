@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "WecomTeam/wecom-cli",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "titanwings/colleague-skill",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "dreddnafious/thereisnospoon",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "Zfinix/another",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "YOTSingularity/yearofthesingularity",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "MhmRdd/google-rkp-sw",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "SunWeb3Sec/llm-sast-scanner",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "nutterplayer7093/Lossless-Scaling-Pro-2026",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "yetone/voice-input-dist",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "ohmyzsh/ohmyzsh",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "titanwings/colleague-skill",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "dreddnafious/thereisnospoon",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "adamlyttleapps/claude-skill-aso-appstore-screenshots",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "MhmRdd/google-rkp-sw",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "razroo/textura",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "aak204/MCP-Trust-Kit",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "AgentFlocks/flocks",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "vladartym/always-fit-resume",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "lemire/constmap",
-      "date": "2026-03-29"
-    },
-    {
-      "name": "lucascrespo23/pinch-type",
-      "date": "2026-03-29"
-    },
-    {
       "name": "instructkr/claw-code",
       "date": "2026-03-30"
     },
@@ -1643,6 +1523,126 @@
     {
       "name": "ZhangHanDong/hermes-book",
       "date": "2026-04-11"
+    },
+    {
+      "name": "sterlingcrispin/nothing-ever-happens",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "Mouseww/anything-analyzer",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "V-IOLE-T/hotmail-register-extension",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "maeil-mail/maeil-mail-contents",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "amitshekhariitbhu/llm-internals",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "MangoLion/stretchystudio",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "clawvader-tech/hermes-telegram-miniapp",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "Ansub/wiki-os",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "Fenng/tech-doc-style-chinese",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "gordonmurray/firnflow",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "fatedier/frp",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "ohmyzsh/ohmyzsh",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "sterlingcrispin/nothing-ever-happens",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "Mouseww/anything-analyzer",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "V-IOLE-T/hotmail-register-extension",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "amitshekhariitbhu/llm-internals",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "MangoLion/stretchystudio",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "Ansub/wiki-os",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "Fenng/tech-doc-style-chinese",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "yaojingang/GEOFlow",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "shaom/svg-hand-drawn-skill",
+      "date": "2026-04-12"
+    },
+    {
+      "name": "haeyupi/hotmail_re_plugin",
+      "date": "2026-04-12"
     }
   ]
 }
