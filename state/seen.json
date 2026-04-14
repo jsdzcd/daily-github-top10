@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "instructkr/claw-code",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "openai/codex-plugin-cc",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "ChinaSiro/claude-code-sourcemap",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "nirholas/claude-code",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "sanbuphy/claude-code-source-code",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "Kuberwastaken/claude-code",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "drona23/claude-token-efficient",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "chatgptprojects/claude-code",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "tvytlx/claude-code-deep-dive",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "oboard/claude-code-rev",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "flutter/flutter",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "twbs/bootstrap",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "ollama/ollama",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "huggingface/transformers",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "f/prompts.chat",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "langflow-ai/langflow",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "vercel/next.js",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "instructkr/claw-code",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "openai/codex-plugin-cc",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "ChinaSiro/claude-code-sourcemap",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "nirholas/claude-code",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "sanbuphy/claude-code-source-code",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "Kuberwastaken/claude-code",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "chatgptprojects/claude-code",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "tvytlx/claude-code-deep-dive",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "oboard/claude-code-rev",
-      "date": "2026-03-30"
-    },
-    {
-      "name": "claude-code-best/claude-code",
-      "date": "2026-03-30"
-    },
-    {
       "name": "sanbuphy/learn-coding-agent",
       "date": "2026-03-31"
     },
@@ -1643,6 +1523,126 @@
     {
       "name": "haeyupi/hotmail_re_plugin",
       "date": "2026-04-12"
+    },
+    {
+      "name": "AgentSeal/codeburn",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "alchaincyf/darwin-skill",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "andrewjiang/palantir-for-family-trips",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "CITGuru/openduck",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "getlago/inside-lago-voice-skill",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "h4ckf0r0day/obscura",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "liranringel/ddtree",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "therealaleph/sni-spoofing-rust",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "5ec1cff/FuseFixer",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "ChatPRD/tradclaw",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "flutter/flutter",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "twbs/bootstrap",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "ollama/ollama",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "f/prompts.chat",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "huggingface/transformers",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "vercel/next.js",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "Chalarangelo/30-seconds-of-code",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "AgentSeal/codeburn",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "andrewjiang/palantir-for-family-trips",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "liranringel/ddtree",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "earendil-works/pi-review",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "earendil-works/pi-tutorial",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "v0id4real/Void-Tools",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "baidu/ERNIE-Image",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "PechenyeRU/FakeSNI",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "avalontm/openpos",
+      "date": "2026-04-13"
+    },
+    {
+      "name": "evolvent-ai/ClawMark",
+      "date": "2026-04-13"
     }
   ]
 }
