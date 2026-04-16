@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "emdash-cms/emdash",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "ultraworkers/claw-code-parity",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "dominikmartn/nothing-design-skill",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "HKUDS/OpenHarness",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "wquguru/harness-books",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "repowise-dev/claude-code-prompts",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "win4r/cc-notebook",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "0Chencc/clawgod",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "cpaczek/any-buddy",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "electron/electron",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "excalidraw/excalidraw",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "ultraworkers/claw-code",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "nodejs/node",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "mrdoob/three.js",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "rust-lang/rust",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "axios/axios",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "emdash-cms/emdash",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "HKUDS/OpenHarness",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "wquguru/harness-books",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "0Chencc/clawgod",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "ZhangHanDong/harness-engineering-from-cc-to-ai-coding",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "cpaczek/any-buddy",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "777genius/claude-code-source-code-full",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "elastic/supply-chain-monitor",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "wesbos/JSON-Alexander",
-      "date": "2026-04-01"
-    },
-    {
-      "name": "Paidax01/math-curve-loaders",
-      "date": "2026-04-01"
-    },
-    {
       "name": "luyao618/Claude-Code-Source-Study",
       "date": "2026-04-02"
     },
@@ -1643,6 +1523,126 @@
     {
       "name": "tukuaiai/fatecat",
       "date": "2026-04-14"
+    },
+    {
+      "name": "Nightmare-Eclipse/RedSun",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "lewislulu/html-ppt-skill",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "op7418/logo-generator-skill",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "millionco/claude-doctor",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "wbh604/UZI-Skill",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "activetheory/activeframe",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "assai-id/nemesis",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "koffuxu/ai-influence-digest",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "coindesk-protocol/polymarket-trading-bot",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "airbnb/javascript",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "excalidraw/excalidraw",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "electron/electron",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "nodejs/node",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "rust-lang/rust",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "mrdoob/three.js",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "millionco/claude-doctor",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "wbh604/UZI-Skill",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "activetheory/activeframe",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "assai-id/nemesis",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "koffuxu/ai-influence-digest",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "coindesk-protocol/polymarket-trading-bot",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "codejunkie99/agentic-stack",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "Euphonique/iCloudPhotoSync",
+      "date": "2026-04-15"
+    },
+    {
+      "name": "skydoves/android-skills-mcp",
+      "date": "2026-04-15"
     }
   ]
 }
