@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "hilash/cabinet",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "PrathamLearnsToCode/paper2code",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "JrCx7scC/claude-code-source",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "agc-desarrollo/polymarket-trading-bot",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "SSFEFS/polymarket-trading-bot",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "neosigmaai/auto-harness",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "Alexantros341/Minimap-Tweaks-Crimson-Desert-Mod",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "SamDiep/MCM-Helper-SkyUI-6-Compatibility-Patch",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "codescript94/Cozy-Heater-2-The-Titanic-Supermod",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "akseolabs-seo/cinematic-ui",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "github/gitignore",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "yt-dlp/yt-dlp",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "tauri-apps/tauri",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "hilash/cabinet",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "PrathamLearnsToCode/paper2code",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "JrCx7scC/claude-code-source",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "agc-desarrollo/polymarket-trading-bot",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "SSFEFS/polymarket-trading-bot",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "neosigmaai/auto-harness",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "akseolabs-seo/cinematic-ui",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "junjiezhou1122/GptCrate",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "codeninja/oauth-cli-coder",
-      "date": "2026-04-03"
-    },
-    {
-      "name": "fakechris/obsidian_vault_pipeline",
-      "date": "2026-04-03"
-    },
-    {
       "name": "JuliusBrussee/caveman",
       "date": "2026-04-04"
     },
@@ -1643,6 +1523,126 @@
     {
       "name": "uriafranko/pi-rollback",
       "date": "2026-04-16"
+    },
+    {
+      "name": "bwjoke/BTC-Trading-Since-2020",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "Quorinex/Freebuff2API",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "PiNetwork/SmartContracts",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "reiazevedo/Tomodachi-Life-Living-the-Dream-Desktop-Version",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "vbhwlvbn/FL-Production-25.2.5-For-PC",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "seramo/sni-scanner",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "trsno/Lossless-Scaling-FPS-Upscale-PC",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "Shakir2021/Delta-for-Roblox-PC-Edition",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "said-ohamouddou/LIDARLearn",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "github/gitignore",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "massgravel/Microsoft-Activation-Scripts",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "axios/axios",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "denoland/deno",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "tauri-apps/tauri",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "Quorinex/Freebuff2API",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "said-ohamouddou/LIDARLearn",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "zhuqn1021/Agent-template",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "Ademking/MD-This-Page",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "hexalpha02/hyperliquid-perp-copy-trading-bot",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "432539/gpt2api",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "zhaleff/Awesome-Dotfiles",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "ije/ai-octet-stream",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "Trae1ounG/paper-plot-skills",
+      "date": "2026-04-17"
+    },
+    {
+      "name": "dashkit-protocol/polymarket-arbitrage-bot",
+      "date": "2026-04-17"
     }
   ]
 }
