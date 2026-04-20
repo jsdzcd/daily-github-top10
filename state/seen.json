@@ -1,114 +1,6 @@
 {
   "items": [
     {
-      "name": "fikrikarim/parlor",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "kessler/gemma-gem",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "hotcoffeeshake/tong-jincheng-skill",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "wxtsky/CodeIsland",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "zacdcook/openclaw-billing-proxy",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "amadeusprotocol/polymarket-trading-bot",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "alchaincyf/x-mentor-skill",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "DevTechJr/turboquant-gpu",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "AFahim02/House-Flipper-2-Multiplayer",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "TONYMKXR/MOUSE-P.I.-for-Hire-Demo-PC-Edition",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "affaan-m/everything-claude-code",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "yangshun/tech-interview-handbook",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "microsoft/generative-ai-for-beginners",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "microsoft/TypeScript",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "kessler/gemma-gem",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "zacdcook/openclaw-billing-proxy",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "amadeusprotocol/polymarket-trading-bot",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "DevTechJr/turboquant-gpu",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "R6410418/Jackrong-llm-finetuning-guide",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "S-Trespassing/claw-in-chrome",
-      "date": "2026-04-05"
-    },
-    {
-      "name": "cnlimiter/codex-manager-v3",
-      "date": "2026-04-05"
-    },
-    {
       "name": "KKKKhazix/khazix-skills",
       "date": "2026-04-06"
     },
@@ -1667,6 +1559,126 @@
     {
       "name": "Alpha63/rote-mappe",
       "date": "2026-04-18"
+    },
+    {
+      "name": "shivampkumar/trellis-mac",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "golbin/hop",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "oritera/Cairn",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "rohitg00/awesome-claude-design",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "patterniha/MITM-DomainFronting",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "vthinkxie/claude-desktop-buddy-esp32-s3-touch-amoled-1.8",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "basketikun/chatgpt2api",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "yzhao062/agent-style",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "the-hidden-fish/advisor-ledger",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "imtonyjaa/ggemu-fishing-joy",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "yt-dlp/yt-dlp",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "Hack-with-Github/Awesome-Hacking",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "shivampkumar/trellis-mac",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "golbin/hop",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "basketikun/chatgpt2api",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "yzhao062/agent-style",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "the-hidden-fish/advisor-ledger",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "imtonyjaa/ggemu-fishing-joy",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "MrsEWE44/musicDownload",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "simoncirstoiu/alice",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "3joshua5z06ne0illsynkx717/Flash-USDT-Sender",
+      "date": "2026-04-19"
+    },
+    {
+      "name": "3jos337ph8zweb2bi5ghst974/Exodus-Fake-Balance",
+      "date": "2026-04-19"
     }
   ]
 }
