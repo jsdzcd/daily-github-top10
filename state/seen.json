@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "farzaa/clicky",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "mattmireles/gemma-tuner-multimodal",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "phuryn/claude-usage",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "alchaincyf/hermes-agent-orange-book",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "brooks376/Happy-Horse-1.0",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "CodMughees/envradar",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "JinGuYuan/jinguyuan-dumpling-skill",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "LoseNine/ruyipage",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "AgriciDaniel/claude-obsidian",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "mduongvandinh/llm-wiki",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "jackfrued/Python-100-Days",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "Genymobile/scrcpy",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "krahets/hello-algo",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "anthropics/skills",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "mattmireles/gemma-tuner-multimodal",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "phuryn/claude-usage",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "CodMughees/envradar",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "LoseNine/ruyipage",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "AgriciDaniel/claude-obsidian",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "mduongvandinh/llm-wiki",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "bitjaru/styleseed",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "KeploreAI-Lab/MindAct",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "SentiAvatar/SentiAvatar",
-      "date": "2026-04-07"
-    },
-    {
-      "name": "pithings/coderaft",
-      "date": "2026-04-07"
-    },
-    {
       "name": "obdev/littlesnitch-linux",
       "date": "2026-04-08"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "babar-mpire/polymarket-trading-bot",
       "date": "2026-04-20"
+    },
+    {
+      "name": "ConardLi/web-design-skill",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "therealaleph/MasterHttpRelayVPN-RUST",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "Russell-cell/PPT-Design-Prompt",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "Yaolinwang/AITD",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "jasonkneen/agent-simulator",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "Yu9191/sub-store-workers",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "joeseesun/qiaomu-blog-opensource",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "pedronaldocr07/Solana-Meteora-Alpha-Vault",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "AlgoInfraTech/polymarket-sports-copytrading-bot",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "tashfeenahmed/freellmapi",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "Genymobile/scrcpy",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "ossu/computer-science",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "Russell-cell/PPT-Design-Prompt",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "Yaolinwang/AITD",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "jasonkneen/agent-simulator",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "Yu9191/sub-store-workers",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "joeseesun/qiaomu-blog-opensource",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "pedronaldocr07/Solana-Meteora-Alpha-Vault",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "AlgoInfraTech/polymarket-sports-copytrading-bot",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "tashfeenahmed/freellmapi",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "Pedrozz13755/Lottie-Whatsapp",
+      "date": "2026-04-21"
+    },
+    {
+      "name": "dezgit2025/auto-memory",
+      "date": "2026-04-21"
     }
   ]
 }
