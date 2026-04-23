@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "obdev/littlesnitch-linux",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "nashsu/llm_wiki",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "pcruz1905/hls-restream-proxy",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "ksimback/hermes-ecosystem",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "ersinkoc/project-architect",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "OpenMOSS/MOSS-VL",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "LabXSpace/Hyperliquid-perp-copy-Trading-Bot",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "QLHazyCoder/codex-oauth-automation-extension",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "superpilot69/pdf-trad-to-simp-preserve-layout-kit",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "mr-r3b00t/fingerprintdetector",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "clash-verge-rev/clash-verge-rev",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "microsoft/vscode",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "Significant-Gravitas/AutoGPT",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "nashsu/llm_wiki",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "OpenMOSS/MOSS-VL",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "LabXSpace/Hyperliquid-perp-copy-Trading-Bot",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "QLHazyCoder/codex-oauth-automation-extension",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "superpilot69/pdf-trad-to-simp-preserve-layout-kit",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "mr-r3b00t/fingerprintdetector",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "jure/webphysics",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "rvitorper/go-bt",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "wxwxOk/multiPagePlugins",
-      "date": "2026-04-08"
-    },
-    {
-      "name": "whwangovo/pyre-code",
-      "date": "2026-04-08"
-    },
-    {
       "name": "joeynyc/hermes-hudui",
       "date": "2026-04-09"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "dezgit2025/auto-memory",
       "date": "2026-04-21"
+    },
+    {
+      "name": "deepseek-ai/TileKernels",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "TraderAlice/Auto-Quant",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "levelsio/superlevels",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "figure-markets/polymarket-copy-trading-bot",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "figure-markets/polymarket-arbitrage-bot",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "Axion-Trading-Labs/polymarket-trading-bot",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "FlowTrader-Labs/polymarket-trading-bot",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "ahang008/ah-xhs-cover-title",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "AlgoInfraTech/Hyperliquid-copy-trading-bot",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "anthropics/skills",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "clash-verge-rev/clash-verge-rev",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "deepseek-ai/TileKernels",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "TraderAlice/Auto-Quant",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "levelsio/superlevels",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "figure-markets/polymarket-copy-trading-bot",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "figure-markets/polymarket-arbitrage-bot",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "Axion-Trading-Labs/polymarket-trading-bot",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "FlowTrader-Labs/polymarket-trading-bot",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "AlgoInfraTech/Hyperliquid-copy-trading-bot",
+      "date": "2026-04-22"
+    },
+    {
+      "name": "wuyoscar/gpt_image_2_skill",
+      "date": "2026-04-22"
     }
   ]
 }
