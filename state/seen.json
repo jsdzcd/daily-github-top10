@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "joeynyc/hermes-hudui",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "UnluckyNinja/SBTI-test",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "dominikmartn/ProgressiveBlurHeader",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "AMAP-ML/SkillClaw",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "millionco/isolet",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "863401402/she-love-me",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "cablate/banini-tracker",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "robert-2-j/HappyHorse-1.0",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "klsf/codex-register",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "0xquqi/sun-skill",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "microsoft/vscode",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "n8n-io/n8n",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "joeynyc/hermes-hudui",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "AMAP-ML/SkillClaw",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "millionco/isolet",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "863401402/she-love-me",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "cablate/banini-tracker",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "klsf/codex-register",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "ibelick/mesurer",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "1270011/claude-buddy",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "frckeepit/llm-production-toolkit",
-      "date": "2026-04-09"
-    },
-    {
-      "name": "DIYgod/cloudflare-edge-tts",
-      "date": "2026-04-09"
-    },
-    {
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
       "date": "2026-04-10"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "wuyoscar/gpt_image_2_skill",
       "date": "2026-04-22"
+    },
+    {
+      "name": "op7418/guizang-ppt-skill",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "victorchen96/deepseek_v4_rolepaly_instruct",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "future-agi/future-agi",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "0x0funky/agent-sprite-forge",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "SmartOrder-Systems/polymarket-copy-trading-bot",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "Parallax-Trading/polymarket-copy-trading-bot",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "GammaLabTechnologies/harmonist",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "chiefautism/privacy-parser",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "muxprotocol/kalshi-trading-bot",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "connectfarm1/accumulation-radar",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "future-agi/future-agi",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "0x0funky/agent-sprite-forge",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "SmartOrder-Systems/polymarket-copy-trading-bot",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "Parallax-Trading/polymarket-copy-trading-bot",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "GammaLabTechnologies/harmonist",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "chiefautism/privacy-parser",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "muxprotocol/kalshi-trading-bot",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "connectfarm1/accumulation-radar",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "muxprotocol/solana-trading-bot",
+      "date": "2026-04-23"
+    },
+    {
+      "name": "TheTom/vllm-swift",
+      "date": "2026-04-23"
     }
   ]
 }
