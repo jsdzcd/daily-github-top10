@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "yizhiyanhua-ai/fireworks-tech-graph",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "retlehs/quien",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "imbue-ai/bouncer",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "cnitlrt/AutoTeam",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "MarchLiu/hypatia",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "ParthJadhav/ios-marketing-capture",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "mrT4ntr4/NtWarden",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "antfu/tsnapi",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "incursi0n/GodPotatoBOF",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "AuthBits/webmcp",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "TheAlgorithms/Python",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "microsoft/vscode",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "retlehs/quien",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "imbue-ai/bouncer",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "cnitlrt/AutoTeam",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "antfu/tsnapi",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "AuthBits/webmcp",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "nesaminua/claude-code-lsp-enforcement-kit",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "mitchellh/go-libghostty",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "CasinoLabs/casino-coinflip-game",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "CasinoLabs/casino-mine-game",
-      "date": "2026-04-10"
-    },
-    {
-      "name": "John-Rood/claude-proxy",
-      "date": "2026-04-10"
-    },
-    {
       "name": "alchaincyf/obsidian-ai-orange-book",
       "date": "2026-04-11"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "TheTom/vllm-swift",
       "date": "2026-04-23"
+    },
+    {
+      "name": "ZRainbow1275/AutoTeam-F",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "epoko77-ai/im-not-ai",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "alash3al/stash",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "AndrewVos/endless-toil",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "janhas1993/Tomodachi-Share-Discover-and-share-Mii",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "actuallyepic/background-computer-use",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "zillagorila/Shapez-2-Factory-Game-Multiplayer",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "MentalPrism42/FL-Production-25.2.5-DAW",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "Amansingh-afk/milli.nvim",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "microsoft/vscode",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "ZRainbow1275/AutoTeam-F",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "epoko77-ai/im-not-ai",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "alash3al/stash",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "AndrewVos/endless-toil",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "nakagami/grdpwasm",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "huskydoge/Awesome-Loop-Models",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "wxtsky/byob",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "MrFadiAi/free-llm-gateway",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "Joaquinvesapa/sub-agent-statusline",
+      "date": "2026-04-24"
+    },
+    {
+      "name": "sosjalapeno/ALACarte",
+      "date": "2026-04-24"
     }
   ]
 }
