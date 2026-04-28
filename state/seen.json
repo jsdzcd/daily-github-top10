@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "AgentSeal/codeburn",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "alchaincyf/darwin-skill",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "andrewjiang/palantir-for-family-trips",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "CITGuru/openduck",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "getlago/inside-lago-voice-skill",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "h4ckf0r0day/obscura",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "liranringel/ddtree",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "therealaleph/sni-spoofing-rust",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "5ec1cff/FuseFixer",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "ChatPRD/tradclaw",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "flutter/flutter",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "twbs/bootstrap",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "ollama/ollama",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "f/prompts.chat",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "huggingface/transformers",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "langflow-ai/langflow",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "vercel/next.js",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "Chalarangelo/30-seconds-of-code",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "AgentSeal/codeburn",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "andrewjiang/palantir-for-family-trips",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "liranringel/ddtree",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "earendil-works/pi-review",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "earendil-works/pi-tutorial",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "v0id4real/Void-Tools",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "baidu/ERNIE-Image",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "PechenyeRU/FakeSNI",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "avalontm/openpos",
-      "date": "2026-04-13"
-    },
-    {
-      "name": "evolvent-ai/ClawMark",
-      "date": "2026-04-13"
-    },
-    {
       "name": "vercel-labs/wterm",
       "date": "2026-04-14"
     },
@@ -1599,6 +1479,126 @@
     {
       "name": "ohmyzsh/ohmyzsh",
       "date": "2026-04-26"
+    },
+    {
+      "name": "nexu-io/open-design",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "evanklem/evanflow",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "DanOps-1/gpt-pp-team",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "CatsJuice/medal-forge",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "denuitt1/mhr-cfw",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "bitvoxing/Tomodachi-Life-Living-the-Dream-PC-Port",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "Nareshkkkk/Lossless-Scaling-LSFG",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "asekachov/Markie",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "sean-brydon/devl.dev",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "HKUDS-AI/polymarket-ai-trading",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "flutter/flutter",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "twbs/bootstrap",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "ollama/ollama",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "f/prompts.chat",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "huggingface/transformers",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "521xueweihan/HelloGitHub",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "vercel/next.js",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "nexu-io/open-design",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "DanOps-1/gpt-pp-team",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "CatsJuice/medal-forge",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "denuitt1/mhr-cfw",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "sean-brydon/devl.dev",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "Udacity-ai/pumpfun-ai-trading-bot",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "Dhravya/webpull",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "6551-Team/bybit-trading-bot",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "ForecastForge/binance-trading-bot",
+      "date": "2026-04-27"
+    },
+    {
+      "name": "maria-rcks/clawd.rip",
+      "date": "2026-04-27"
     }
   ]
 }
