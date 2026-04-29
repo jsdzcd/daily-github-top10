@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "vercel-labs/wterm",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "poteto/how",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "xataio/xata",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "Manavarya09/design-extract",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "WeaveMindAI/weft",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "thegdsks/awesome-modern-cli",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "bchao1/paper-finder",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "poseljacob/agentic-video-editor",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "mukul975/cve-mcp-server",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "darbra/awesome-ai-reverse",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "ossu/computer-science",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "langgenius/dify",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "langchain-ai/langchain",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "golang/go",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "open-webui/open-webui",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "microsoft/PowerToys",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "facebook/react-native",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "kubernetes/kubernetes",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "vercel-labs/wterm",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "xataio/xata",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "Manavarya09/design-extract",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "poseljacob/agentic-video-editor",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "mukul975/cve-mcp-server",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "weareaisle/nano-analyzer",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "Mondo-Robotics/DiT4DiT",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "v0id4real/Void-Nuke",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "stanford-iris-lab/meta-harness",
-      "date": "2026-04-14"
-    },
-    {
-      "name": "tukuaiai/fatecat",
-      "date": "2026-04-14"
-    },
-    {
       "name": "Nightmare-Eclipse/RedSun",
       "date": "2026-04-15"
     },
@@ -1599,6 +1479,126 @@
     {
       "name": "maria-rcks/clawd.rip",
       "date": "2026-04-27"
+    },
+    {
+      "name": "bonused/monthly-bonus-stake",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "GENEXIS-AI/chromex",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "99xAgency/GodModeSkill",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "amirshaker000/netlify-relay",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "t8y2/dbx",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "Reyhankunlah/Yuzu-Emulator-Nintendo-Switch",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "Dav777000/Create-Aeronautics-Minecraft-Mod",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "ScopelYann/Far-Far-West-Game-Rekease-Desktop",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "b-nnett/codex-plusplus",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "VoctorX/All-the-Mods-11-Minecraft",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "langgenius/dify",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "golang/go",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "facebook/react-native",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "GENEXIS-AI/chromex",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "amirshaker000/netlify-relay",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "b-nnett/codex-plusplus",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "AI4FinanceFoundation/coinbase-trading-bot",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "Fokkyp/SoftwareCopyright-Skill",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "i2cjak/Framework_Expansion_Cards",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "tradebothub/hyperliquid-copy-trading-bot",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "Tech-Melon/GmgnTwitterTgAlert",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "irahulstomar/cosmo-tui",
+      "date": "2026-04-28"
+    },
+    {
+      "name": "blue68/ai-hottopics",
+      "date": "2026-04-28"
     }
   ]
 }
