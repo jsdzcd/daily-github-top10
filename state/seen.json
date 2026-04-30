@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Nightmare-Eclipse/RedSun",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "lewislulu/html-ppt-skill",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "op7418/logo-generator-skill",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "Robbyant/lingbot-map",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "millionco/claude-doctor",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "wbh604/UZI-Skill",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "activetheory/activeframe",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "assai-id/nemesis",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "koffuxu/ai-influence-digest",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "coindesk-protocol/polymarket-trading-bot",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "ultraworkers/claw-code",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "airbnb/javascript",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "excalidraw/excalidraw",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "electron/electron",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "nodejs/node",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "rust-lang/rust",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "mrdoob/three.js",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "microsoft/markitdown",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "Robbyant/lingbot-map",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "millionco/claude-doctor",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "wbh604/UZI-Skill",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "activetheory/activeframe",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "assai-id/nemesis",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "koffuxu/ai-influence-digest",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "coindesk-protocol/polymarket-trading-bot",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "codejunkie99/agentic-stack",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "Euphonique/iCloudPhotoSync",
-      "date": "2026-04-15"
-    },
-    {
-      "name": "skydoves/android-skills-mcp",
-      "date": "2026-04-15"
-    },
-    {
       "name": "jackwener/wx-cli",
       "date": "2026-04-16"
     },
@@ -1599,6 +1479,126 @@
     {
       "name": "blue68/ai-hottopics",
       "date": "2026-04-28"
+    },
+    {
+      "name": "theori-io/copy-fail-CVE-2026-31431",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "willchen96/mike",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "rootsecdev/cve_2026_31431",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "skydoves/compose-performance-skills",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "EvanBacon/serve-sim",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "badsectorlabs/copyfail-go",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "Cuimao777/cuimao-translator",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "endless-sky-team/ai-trading-agent",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "NoFxAi-OS/hyperliquid-trading-bot",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "Julpygo/Claude-Code-AI-Design",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "excalidraw/excalidraw",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "electron/electron",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "nodejs/node",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "rust-lang/rust",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "mrdoob/three.js",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "theori-io/copy-fail-CVE-2026-31431",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "willchen96/mike",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "rootsecdev/cve_2026_31431",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "EvanBacon/serve-sim",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "endless-sky-team/ai-trading-agent",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "NoFxAi-OS/hyperliquid-trading-bot",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "watchtowrlabs/watchTowr-vs-cPanel-WHM-AuthBypass-to-RCE.py",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "benqi-finance/legalmarkdown",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "zeke/swiss-design-skill",
+      "date": "2026-04-29"
+    },
+    {
+      "name": "Pathos0925/SatoshiGuesser",
+      "date": "2026-04-29"
     }
   ]
 }
