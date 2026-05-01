@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "jackwener/wx-cli",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "zhuyansen/wx-favorites-report",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "GainSec/AutoProber",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "zats/permiso",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "SteveTheKiller/KillerPDF",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "GRVYDEV/marky",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "kangarooking/cangjie-skill",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "rexa-developer/tiks",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "cosmic-market/polymarket-copy-trading-bot",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "dashkit-protocol/polymarket-arbitrage-bot",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "avelino/awesome-go",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "shadcn-ui/ui",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "rustdesk/rustdesk",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "godotengine/godot",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "zhuyansen/wx-favorites-report",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "GainSec/AutoProber",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "GRVYDEV/marky",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "rexa-developer/tiks",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "cosmic-market/polymarket-copy-trading-bot",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "dashkit-protocol/polymarket-arbitrage-bot",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "m-jalolov/local-ai-assistant",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "akazwz/hostc",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "haruharo101/BOJ-memory",
-      "date": "2026-04-16"
-    },
-    {
-      "name": "uriafranko/pi-rollback",
-      "date": "2026-04-16"
-    },
-    {
       "name": "bwjoke/BTC-Trading-Since-2020",
       "date": "2026-04-17"
     },
@@ -1599,6 +1479,126 @@
     {
       "name": "Pathos0925/SatoshiGuesser",
       "date": "2026-04-29"
+    },
+    {
+      "name": "darrylmorley/whatcable",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "mattpocock/dictionary-of-ai-coding",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "UzenUPozitiv4ik/gpt-image-2-skill",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "hamzerbug-wq/Animal-Crossing-New-Horizons-PC",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "Edosaqw/Tomodachi-Life-Living-The-Dream-PC",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "MasnoNi/Invincible-VS-Game-Release-Desktop",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "lucas831029/Heroes-of-Might-and-Magic-Olden-Era-Release",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "TQ-trade/rari-stable-pool-contracts",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "TQ-trade/defidollar-core",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "avelino/awesome-go",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "godotengine/godot",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "mattpocock/dictionary-of-ai-coding",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "TQ-trade/defidollar-core",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "warpdot-dev/composio",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "lukiIabs/trading-agents",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "ershiyidian/context-bridge",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "Sndav/CVE-2026-31431-Advanced-Exploit",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "op7418/Night-Patrol",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "watany-dev/gitreal",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "Ch1rpy2613/Mirrai",
+      "date": "2026-04-30"
+    },
+    {
+      "name": "Tommy-yw/RunbookHermes",
+      "date": "2026-04-30"
     }
   ]
 }
