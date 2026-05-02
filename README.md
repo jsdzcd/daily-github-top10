@@ -2,14 +2,18 @@
 <!--LATEST_START-->
 ## Latest
 
-- **2026-04-30**
-  - 新建 → [01-new.md](daily/2026-04-30/01-new.md)
-  - 活跃 → [02-active.md](daily/2026-04-30/02-active.md)
-  - 限定领域 → [03-focus.md](daily/2026-04-30/03-focus.md)
+- **2026-05-01**
+  - 新建 → [01-new.md](daily/2026-05-01/01-new.md)
+  - 活跃 → [02-active.md](daily/2026-05-01/02-active.md)
+  - 限定领域 → [03-focus.md](daily/2026-05-01/03-focus.md)
 
 <!--LATEST_END-->
 
 ## Archive
+
+### 2026-05
+
+- **2026-05-01** — [新建](daily/2026-05-01/01-new.md) · [活跃](daily/2026-05-01/02-active.md) · [限定领域](daily/2026-05-01/03-focus.md)
 
 ### 2026-04
 

@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "bwjoke/BTC-Trading-Since-2020",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "Quorinex/Freebuff2API",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "PiNetwork/SmartContracts",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "EvoLinkAI/awesome-gpt-image-2-prompts",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "reiazevedo/Tomodachi-Life-Living-the-Dream-Desktop-Version",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "vbhwlvbn/FL-Production-25.2.5-For-PC",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "seramo/sni-scanner",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "trsno/Lossless-Scaling-FPS-Upscale-PC",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "Shakir2021/Delta-for-Roblox-PC-Edition",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "said-ohamouddou/LIDARLearn",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "github/gitignore",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "massgravel/Microsoft-Activation-Scripts",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "axios/axios",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "denoland/deno",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "tauri-apps/tauri",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "Quorinex/Freebuff2API",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "said-ohamouddou/LIDARLearn",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "zhuqn1021/Agent-template",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "Ademking/MD-This-Page",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "hexalpha02/hyperliquid-perp-copy-trading-bot",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "432539/gpt2api",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "zhaleff/Awesome-Dotfiles",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "ije/ai-octet-stream",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "Trae1ounG/paper-plot-skills",
-      "date": "2026-04-17"
-    },
-    {
-      "name": "dashkit-protocol/polymarket-arbitrage-bot",
-      "date": "2026-04-17"
-    },
-    {
       "name": "kyegomez/OpenMythos",
       "date": "2026-04-18"
     },
@@ -1599,6 +1479,126 @@
     {
       "name": "Tommy-yw/RunbookHermes",
       "date": "2026-04-30"
+    },
+    {
+      "name": "vibeforge1111/keep-codex-fast",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "ynsmroztas/cPanelSniper",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "cH1LLa/Photoshop-v27.6",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "tddworks/baguette",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "ridha61/Lossless-Scaling-Upscaler-FPS",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "nateherkai/AIS-OS",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "ThatTotallyRealMyth/Impacket-IoCs",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "ApexNextGroup/react_tanstack",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "Hello-Application-XH/HelloGML",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "anvie/evonic",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "massgravel/Microsoft-Activation-Scripts",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "axios/axios",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "denoland/deno",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "tauri-apps/tauri",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "vibeforge1111/keep-codex-fast",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "ynsmroztas/cPanelSniper",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "tddworks/baguette",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "Hello-Application-XH/HelloGML",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "anvie/evonic",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "maxmo2009/CMR_QC_Studio",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "marchinthesun/cluster-performance-engine",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "0xhimanshu/governor",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "sasdsamatt123/claudex",
+      "date": "2026-05-01"
+    },
+    {
+      "name": "millionco/agent-install",
+      "date": "2026-05-01"
     }
   ]
 }
