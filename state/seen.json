@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "kyegomez/OpenMythos",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "VoltAgent/awesome-claude-design",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "ZeroZ-lab/cc-design",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "drasimwagan/mdv",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "chabba1234/Claude-Design-By-Anthropic",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "nizarlbogos/Windrose-Game-Server-Docker",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "aidanBoi123/AutoDesk-AutoCad-2026-Desktop",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "listyantidewi1/your-everyday-tools",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "infixity24/Extreme-Injector-v3.7.3-Dll-Injector",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "TheRealSeanDonahoe/agents-md",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "2dust/v2rayN",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "jaywcjlove/awesome-mac",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "google-gemini/gemini-cli",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "kyegomez/OpenMythos",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "ZeroZ-lab/cc-design",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "drasimwagan/mdv",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "kangarooking/design-image-studio",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "kimlawtech/korean-privacy-terms",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "AERT-7Y/kiro-auto",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "OranAi-Ltd/oransim",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "gameworkerkim/vibe-investing",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "SamNet-dev/snix",
-      "date": "2026-04-18"
-    },
-    {
-      "name": "Alpha63/rote-mappe",
-      "date": "2026-04-18"
-    },
-    {
       "name": "shivampkumar/trellis-mac",
       "date": "2026-04-19"
     },
@@ -1599,6 +1479,126 @@
     {
       "name": "millionco/agent-install",
       "date": "2026-05-01"
+    },
+    {
+      "name": "matthart1983/syswatch",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "JustLikeCheese/LGBT-Prompt",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "ayoub11233/Zelda-Twilight-Princess-PC",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "ryrylliee/Super-Smash-Bros-PC",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "crafter-station/petdex",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "AlexCheema/talos-vs-macbook",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "mrdrvt99/YouProEXTRA",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "MrMilenko/Theseus",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "techomies/ai-layoff-and-exploitative-companies",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "Stintik-Official/StintikVPN-",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "crafter-station/petdex",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "mebrown47/CUDA_spectrum",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "Kappaemme-git/codex-startup-pressure-test-skill",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "Pinperepette/sublodex",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "apideposu/tr-validation",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "backnotprop/codex-pets-react",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "HaonanAlex/MGMT-Paper-Skills",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "Meow-Calculations/DeepSeek_Web_To_API",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "dingdingpw/monitor",
+      "date": "2026-05-02"
+    },
+    {
+      "name": "huseynovvusal/blamebot",
+      "date": "2026-05-02"
     }
   ]
 }
