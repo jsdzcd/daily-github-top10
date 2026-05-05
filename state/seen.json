@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "tw93/Kami",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "cosmicstack-labs/mercury-agent",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "masterking32/MasterHttpRelayVPN",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "ArcaneNibble/awawausb",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "injaneity/pi-computer-use",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "nateherkai/token-dashboard",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "akseolabs-seo/AK-Threads-booster",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "MoonshotAI/FlashKDA",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "QuantBots-Collective/polymarket-copy-trading-bot",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "vuciv/artblock",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "ossu/computer-science",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "ultraworkers/claw-code",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "cosmicstack-labs/mercury-agent",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "masterking32/MasterHttpRelayVPN",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "injaneity/pi-computer-use",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "nateherkai/token-dashboard",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "akseolabs-seo/AK-Threads-booster",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "QuantBots-Collective/polymarket-copy-trading-bot",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "vuciv/artblock",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "yaojingang/geo-citation-lab",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "leigest519/OpenGame",
-      "date": "2026-04-20"
-    },
-    {
-      "name": "babar-mpire/polymarket-trading-bot",
-      "date": "2026-04-20"
-    },
-    {
       "name": "ConardLi/web-design-skill",
       "date": "2026-04-21"
     },
@@ -1599,6 +1479,126 @@
     {
       "name": "Michaelliv/pi-goal",
       "date": "2026-05-03"
+    },
+    {
+      "name": "gaspar-ds/Tomodachi-Living-The-Dream-PC",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "nikolinakovacevic1/MLB-The-Show-26-PC",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "joshawome/chainreason",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "moxailoo/univ3-pool-lens",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "pkmnono/Fallout-Additions-Minecraft-Mod",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "butthtio/solidity-cot-auditor",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "evanphi7/lighthouse-router",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "ajavadinezhad/zyrln",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "TheSashaDev/girl-agent",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "joshawome/chainreason",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "moxailoo/univ3-pool-lens",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "butthtio/solidity-cot-auditor",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "ajavadinezhad/zyrln",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "TheSashaDev/girl-agent",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "liangdabiao/Fashion-AI",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "BuluBulugege/Free-BAI",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "XBuilderLAB/cheat-on-content",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "ThisIsDara/mhr-cfw-go",
+      "date": "2026-05-04"
+    },
+    {
+      "name": "huggingface/nanowhale",
+      "date": "2026-05-04"
     }
   ]
 }
