@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "deepseek-ai/TileKernels",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "TraderAlice/Auto-Quant",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "levelsio/superlevels",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "figure-markets/polymarket-copy-trading-bot",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "figure-markets/polymarket-arbitrage-bot",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "Axion-Trading-Labs/polymarket-trading-bot",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "FlowTrader-Labs/polymarket-trading-bot",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "earthtojake/text-to-cad",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "ahang008/ah-xhs-cover-title",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "AlgoInfraTech/Hyperliquid-copy-trading-bot",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "Significant-Gravitas/AutoGPT",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "DigitalPlatDev/FreeDomain",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "anthropics/skills",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "clash-verge-rev/clash-verge-rev",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "deepseek-ai/TileKernels",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "TraderAlice/Auto-Quant",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "levelsio/superlevels",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "figure-markets/polymarket-copy-trading-bot",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "figure-markets/polymarket-arbitrage-bot",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "Axion-Trading-Labs/polymarket-trading-bot",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "FlowTrader-Labs/polymarket-trading-bot",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "earthtojake/text-to-cad",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "AlgoInfraTech/Hyperliquid-copy-trading-bot",
-      "date": "2026-04-22"
-    },
-    {
-      "name": "wuyoscar/gpt_image_2_skill",
-      "date": "2026-04-22"
-    },
-    {
       "name": "op7418/guizang-ppt-skill",
       "date": "2026-04-23"
     },
@@ -1599,6 +1479,126 @@
     {
       "name": "benja-dev-lab/Hyperliquid-copy-trading-bot",
       "date": "2026-05-05"
+    },
+    {
+      "name": "strukto-ai/mirage",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "NamKhoa-07/wallet-recovery-seed",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "TQ-trade-agent/tq-trading-agent",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "mereses-labs/solana-pumpfun-bundler",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "antirez/ds4",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "LuisAlexisSalazar/Zelda-Minish-Cap-PC",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "darkrishabh/agent-skills-eval",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "gofsnotify/fsnotify",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "rodrigojpgamer2022/JourneyMap-Minecraft-Modpack",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "SXai-lab/prediction-market-arbitrage",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "anthropics/skills",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "clash-verge-rev/clash-verge-rev",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "Hack-with-Github/Awesome-Hacking",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "strukto-ai/mirage",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "NamKhoa-07/wallet-recovery-seed",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "mereses-labs/solana-pumpfun-bundler",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "darkrishabh/agent-skills-eval",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "gofsnotify/fsnotify",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "SXai-lab/prediction-market-arbitrage",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "SXai-lab/prediction-market-copytrade",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "fendouai/CodexSaver",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "JeanDupuis68/polymarket-arbitrage",
+      "date": "2026-05-06"
+    },
+    {
+      "name": "JeanDupuis68/polymarket-copytrade",
+      "date": "2026-05-06"
     }
   ]
 }
