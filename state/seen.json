@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "op7418/guizang-ppt-skill",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "victorchen96/deepseek_v4_rolepaly_instruct",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "future-agi/future-agi",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "0x0funky/agent-sprite-forge",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "SmartOrder-Systems/polymarket-copy-trading-bot",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "Parallax-Trading/polymarket-copy-trading-bot",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "GammaLabTechnologies/harmonist",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "chiefautism/privacy-parser",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "muxprotocol/kalshi-trading-bot",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "connectfarm1/accumulation-radar",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "n8n-io/n8n",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "future-agi/future-agi",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "0x0funky/agent-sprite-forge",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "SmartOrder-Systems/polymarket-copy-trading-bot",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "Parallax-Trading/polymarket-copy-trading-bot",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "GammaLabTechnologies/harmonist",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "chiefautism/privacy-parser",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "muxprotocol/kalshi-trading-bot",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "connectfarm1/accumulation-radar",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "muxprotocol/solana-trading-bot",
-      "date": "2026-04-23"
-    },
-    {
-      "name": "TheTom/vllm-swift",
-      "date": "2026-04-23"
-    },
-    {
       "name": "ZRainbow1275/AutoTeam-F",
       "date": "2026-04-24"
     },
@@ -1599,6 +1479,126 @@
     {
       "name": "JeanDupuis68/polymarket-copytrade",
       "date": "2026-05-06"
+    },
+    {
+      "name": "V4bel/dirtyfrag",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "iam567/LifeManga",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "0xdeadbeefnetwork/Copy_Fail2-Electric_Boogaloo",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "Aladdin-IT/MaaNTE",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "duonghieu7104/Star-Fox-64-Remake-PC-Port",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "kerlos/pordee",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "wojtczyk/trust",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "Binarylunanotice/blooket",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "Outpostshewharf/Edgenuity-AI-Helper",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "nooncheetahstart/Kahoot-tools-AI",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "kerlos/pordee",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "Binarylunanotice/blooket",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "nooncheetahstart/Kahoot-tools-AI",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "Tremorfitzapplaud/1tamilmv-telegram-bot",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "Sayhi-bzb/AIEden",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "mitsuhiko/pi-ds4",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "Tsunekoghizl68723/Solana-Drainer-Tool",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "duguying/100M",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "blcktuzinLab/ton-sniper-bot",
+      "date": "2026-05-07"
+    },
+    {
+      "name": "Xueyang-Song/paper-pilot",
+      "date": "2026-05-07"
     }
   ]
 }
