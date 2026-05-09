@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "ZRainbow1275/AutoTeam-F",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "epoko77-ai/im-not-ai",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "alash3al/stash",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "AndrewVos/endless-toil",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "freestylefly/awesome-gpt-image-2",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "janhas1993/Tomodachi-Share-Discover-and-share-Mii",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "actuallyepic/background-computer-use",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "zillagorila/Shapez-2-Factory-Game-Multiplayer",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "MentalPrism42/FL-Production-25.2.5-DAW",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "Amansingh-afk/milli.nvim",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "microsoft/vscode",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "kamranahmedse/developer-roadmap",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "ultraworkers/claw-code",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "ZRainbow1275/AutoTeam-F",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "epoko77-ai/im-not-ai",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "alash3al/stash",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "AndrewVos/endless-toil",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "nakagami/grdpwasm",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "huskydoge/Awesome-Loop-Models",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "wxtsky/byob",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "MrFadiAi/free-llm-gateway",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "Joaquinvesapa/sub-agent-statusline",
-      "date": "2026-04-24"
-    },
-    {
-      "name": "sosjalapeno/ALACarte",
-      "date": "2026-04-24"
-    },
-    {
       "name": "PrimeOrder-Labs/polymarket-copy-trading-bot",
       "date": "2026-04-25"
     },
@@ -1599,6 +1479,126 @@
     {
       "name": "Xueyang-Song/paper-pilot",
       "date": "2026-05-07"
+    },
+    {
+      "name": "vercel-labs/zero-native",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "Ping89/MT5EA-Forex-Trading",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "gar212/VoidStrap-Roblox",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "RD1707/Umbrella-HWID",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "CristianRO2003/Tomodachi-Share-Discover-Share-Mii",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "gelo1231/Pokemon-Pokopia-For-PC",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "nickvasilescu/hermes-desktop-os1",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "skycryptsite/SkyCrypt",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "AvenueSleuth/delta-exec",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "ckpxgfnksd-max/uap-release-analyzer",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "microsoft/vscode",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "AvenueSleuth/delta-exec",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "ckpxgfnksd-max/uap-release-analyzer",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "HiDream-ai/HiDream-O1-Image",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "chencore/autoresearch-crypto",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "GALIAIS/k_i_r_o-register",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "chrysoljq/aistudio-api",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "DenisSergeevitch/UFO-USA",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "nanameru/mtg-realtime-translator",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "grp06/goalcraft",
+      "date": "2026-05-08"
+    },
+    {
+      "name": "Kimberlyarichrdqnat51296/TRX-Drainer-Tool",
+      "date": "2026-05-08"
     }
   ]
 }
