@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "PrimeOrder-Labs/polymarket-copy-trading-bot",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "Orbital-Alpha/polymarket-copy-trading-bot",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "ksimback/tech-debt-skill",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "helloianneo/ian-handdrawn-ppt",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "NyxTides/ppt-image-first",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "Alfattah07/Acrobat-Editor-2026",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "aresthehacker/Assassin-s-Creed-Black-Flag",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "shriddha/LEGO-Batman-Legacy-of-the-Dark-Knight",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "hacktivist123/agent-session-resume",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "h9-tec/llm-systems-engineering-roadmap",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "microsoft/terminal",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "ultraworkers/claw-code",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "ohmyzsh/ohmyzsh",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "n8n-io/n8n",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "PrimeOrder-Labs/polymarket-copy-trading-bot",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "Orbital-Alpha/polymarket-copy-trading-bot",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "NyxTides/ppt-image-first",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "hacktivist123/agent-session-resume",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "calendar0917/DeepseekWeb-enhance",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "YiKongk/windsurf-manager",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "mitsuhiko/pi-draw",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "steipete/wacrawl",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "itsc0c0/flipsay",
-      "date": "2026-04-25"
-    },
-    {
-      "name": "alefinvest/polymarket-arbitrage-bot",
-      "date": "2026-04-25"
-    },
-    {
       "name": "freeCodeCamp/freeCodeCamp",
       "date": "2026-04-26"
     },
@@ -1599,6 +1479,126 @@
     {
       "name": "Kimberlyarichrdqnat51296/TRX-Drainer-Tool",
       "date": "2026-05-08"
+    },
+    {
+      "name": "thakur-works/DarkGPT",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "thakur-works/Velocity-Executor",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "huangserva/3DCellForge",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "alchaincyf/huashu-md-html",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "amircloner/g2ray",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "baydarerhan/Sora-2-App-No-Watermark",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "iampedii/WhiteDNS",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "pvpoxx/PrismLauncherCrackedEly",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "k09z1/BTC-USDT-Flashing-Bot",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "Rhythmplocutter/printer-offline-fix",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "huangserva/3DCellForge",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "williamcachamwri/zalo-tg",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "cclank/cell-architecture-studio",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "killervillsy/SessionToJson",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "mitsuhiko/pi-llamacpp",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "brqacoyituo/convo",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "cosmicstack-labs/mercury-agent-skills",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "brqacoyituo/eat-better",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "QingJ01/DeepSeekCode",
+      "date": "2026-05-09"
+    },
+    {
+      "name": "LYiHub/OpenClaw-AWD-Arena",
+      "date": "2026-05-09"
     }
   ]
 }
