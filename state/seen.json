@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "nexu-io/open-design",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "evanklem/evanflow",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "DanOps-1/gpt-pp-team",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "CatsJuice/medal-forge",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "denuitt1/mhr-cfw",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "bitvoxing/Tomodachi-Life-Living-the-Dream-PC-Port",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "Nareshkkkk/Lossless-Scaling-LSFG",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "asekachov/Markie",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "sean-brydon/devl.dev",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "HKUDS-AI/polymarket-ai-trading",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "flutter/flutter",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "twbs/bootstrap",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "ollama/ollama",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "f/prompts.chat",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "huggingface/transformers",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "521xueweihan/HelloGitHub",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "langflow-ai/langflow",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "vercel/next.js",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "nexu-io/open-design",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "DanOps-1/gpt-pp-team",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "CatsJuice/medal-forge",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "denuitt1/mhr-cfw",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "sean-brydon/devl.dev",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "Udacity-ai/pumpfun-ai-trading-bot",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "Dhravya/webpull",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "6551-Team/bybit-trading-bot",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "ForecastForge/binance-trading-bot",
-      "date": "2026-04-27"
-    },
-    {
-      "name": "maria-rcks/clawd.rip",
-      "date": "2026-04-27"
-    },
-    {
       "name": "bonused/monthly-bonus-stake",
       "date": "2026-04-28"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "virgo777/buddyme",
       "date": "2026-05-10"
+    },
+    {
+      "name": "RadianceToadAmend/ARC-Raiders-External-Tool",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "patchfighterway90/cs2-external-overlay",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "RadianceToadAmend/cs2-overlay-utility",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "ywnd1144/Gopay_plus_automatic",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "RadianceToadAmend/Roblox-Script-Debugger-Developer-Console",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "JUk1-GH/gpt-promo-scanner",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "simonlin1212/a-stock-data",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "HermannBjorgvin/Clawdmeter",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "TheRunicDev/MaaNTE",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "ltyzen/KMSAutoTool",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "flutter/flutter",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "twbs/bootstrap",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "ollama/ollama",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "f/prompts.chat",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "huggingface/transformers",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "vercel/next.js",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "patchfighterway90/cs2-external-overlay",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "ywnd1144/Gopay_plus_automatic",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "JUk1-GH/gpt-promo-scanner",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "Nick-Baumann/Gobby",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "lillian039/ELF",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "yliust/Tactile",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "vercel-labs/mdxg",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "Spielewoy/git-faker-3000",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "Tsukamg/polymarket-weather-trading-engine",
+      "date": "2026-05-11"
+    },
+    {
+      "name": "pydantic/httpx2",
+      "date": "2026-05-11"
     }
   ]
 }
