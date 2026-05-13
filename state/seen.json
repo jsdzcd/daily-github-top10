@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "bonused/monthly-bonus-stake",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "GENEXIS-AI/chromex",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "99xAgency/GodModeSkill",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "amirshaker000/netlify-relay",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "t8y2/dbx",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "Reyhankunlah/Yuzu-Emulator-Nintendo-Switch",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "Dav777000/Create-Aeronautics-Minecraft-Mod",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "ScopelYann/Far-Far-West-Game-Rekease-Desktop",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "b-nnett/codex-plusplus",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "VoctorX/All-the-Mods-11-Minecraft",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "langgenius/dify",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "langchain-ai/langchain",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "golang/go",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "microsoft/PowerToys",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "facebook/react-native",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "kubernetes/kubernetes",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "GENEXIS-AI/chromex",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "amirshaker000/netlify-relay",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "b-nnett/codex-plusplus",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "AI4FinanceFoundation/coinbase-trading-bot",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "Fokkyp/SoftwareCopyright-Skill",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "i2cjak/Framework_Expansion_Cards",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "tradebothub/hyperliquid-copy-trading-bot",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "Tech-Melon/GmgnTwitterTgAlert",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "irahulstomar/cosmo-tui",
-      "date": "2026-04-28"
-    },
-    {
-      "name": "blue68/ai-hottopics",
-      "date": "2026-04-28"
-    },
-    {
       "name": "theori-io/copy-fail-CVE-2026-31431",
       "date": "2026-04-29"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "pydantic/httpx2",
       "date": "2026-05-11"
+    },
+    {
+      "name": "Nightmare-Eclipse/YellowKey",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "RadianceToadAmend/Fortnite-Cheats-2026",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "chrisbanes/skills",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "manojmidhul92-art/Umbrella-HWID",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "yaassin12/DeepSeek-V4-Pro-App",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "sunyouzhi2003/LSFG-Desktop",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "mark9-droid/TomodachiPC",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "Nightmare-Eclipse/GreenPlasma",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "agentara/skills",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "langgenius/dify",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "golang/go",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "Chalarangelo/30-seconds-of-code",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "facebook/react-native",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "eduwass/tmux-palette",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "GAwesome-Bot/polymarket-trading-bot-v2",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "PlaceNL2026/best-of-algorithmic-trading",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "GordenSun/LearningCell",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "Anthonykhayesaudsrx50512/Flash-USDT-Sender",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "simplifaisoul/osiris",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "simonlin1212/TradingAgents-astock",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "feder-cr/invisible_playwright",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "bhartiyashesh/purelymailcalendar",
+      "date": "2026-05-12"
+    },
+    {
+      "name": "italozucareli/zabbix-observability",
+      "date": "2026-05-12"
     }
   ]
 }
