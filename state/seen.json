@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "theori-io/copy-fail-CVE-2026-31431",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "willchen96/mike",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "rootsecdev/cve_2026_31431",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "skydoves/compose-performance-skills",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "EvanBacon/serve-sim",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "badsectorlabs/copyfail-go",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "Cuimao777/cuimao-translator",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "endless-sky-team/ai-trading-agent",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "NoFxAi-OS/hyperliquid-trading-bot",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "Julpygo/Claude-Code-AI-Design",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "excalidraw/excalidraw",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "electron/electron",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "nodejs/node",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "rust-lang/rust",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "mrdoob/three.js",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "theori-io/copy-fail-CVE-2026-31431",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "willchen96/mike",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "rootsecdev/cve_2026_31431",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "EvanBacon/serve-sim",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "endless-sky-team/ai-trading-agent",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "NoFxAi-OS/hyperliquid-trading-bot",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "watchtowrlabs/watchTowr-vs-cPanel-WHM-AuthBypass-to-RCE.py",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "benqi-finance/legalmarkdown",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "zeke/swiss-design-skill",
-      "date": "2026-04-29"
-    },
-    {
-      "name": "Pathos0925/SatoshiGuesser",
-      "date": "2026-04-29"
-    },
-    {
       "name": "darrylmorley/whatcable",
       "date": "2026-04-30"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "italozucareli/zabbix-observability",
       "date": "2026-05-12"
+    },
+    {
+      "name": "S4rdenz/gta-5-mod-menu",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "B3hnamR/PsiphonOverMITM",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "AnythingForTheTrustRank/Jenny-Mod-All-Versions",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "snoozinjs/Delta-exec",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "lucasfrre/BongoCat-Desktop",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "mikesheehan54/Claude-Code-Design-AI",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "v12-security/pocs",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "PrimeKeeper58/blooket-hacks",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "EnsignKazekage/Prodigy-Hacks",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "SzeDaSa/Tomodachi-Share-Mii",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "electron/electron",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "nodejs/node",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "rust-lang/rust",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "mrdoob/three.js",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "2dust/v2rayN",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "google-gemini/gemini-cli",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "microsoft/terminal",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "mikesheehan54/Claude-Code-Design-AI",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "PrimeKeeper58/blooket-hacks",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "EnsignKazekage/Prodigy-Hacks",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "SzeDaSa/Tomodachi-Share-Mii",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "dexhorthy/shannon",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "WantongC/journal-adapt-writing-skill",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "Siigari/claude-heartbeat",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "LocoreMind/locoagent",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "OpenNSWM-Lab/FAROS",
+      "date": "2026-05-13"
+    },
+    {
+      "name": "python-telegramBot/ai-auto-trading",
+      "date": "2026-05-13"
     }
   ]
 }
