@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "vibeforge1111/keep-codex-fast",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "ynsmroztas/cPanelSniper",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "cH1LLa/Photoshop-v27.6",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "tddworks/baguette",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "ridha61/Lossless-Scaling-Upscaler-FPS",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "nateherkai/AIS-OS",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "ThatTotallyRealMyth/Impacket-IoCs",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "ApexNextGroup/react_tanstack",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "Hello-Application-XH/HelloGML",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "anvie/evonic",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "massgravel/Microsoft-Activation-Scripts",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "axios/axios",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "denoland/deno",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "tauri-apps/tauri",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "vibeforge1111/keep-codex-fast",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "ynsmroztas/cPanelSniper",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "tddworks/baguette",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "Hello-Application-XH/HelloGML",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "anvie/evonic",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "maxmo2009/CMR_QC_Studio",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "marchinthesun/cluster-performance-engine",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "0xhimanshu/governor",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "sasdsamatt123/claudex",
-      "date": "2026-05-01"
-    },
-    {
-      "name": "millionco/agent-install",
-      "date": "2026-05-01"
-    },
-    {
       "name": "matthart1983/syswatch",
       "date": "2026-05-02"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Siva-Chidambaram12/kalshi-trading-bot",
       "date": "2026-05-14"
+    },
+    {
+      "name": "vercel-labs/zero",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "DenisSergeevitch/agents-best-practices",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "SubamanojJ-2004/gta-5-mod-menu",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "Harshit-pruthi/sklauncher-minecraft",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "dannyhsueh2/Forza-Horizon-6-Premium",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "Alkih/Nightlight-Game-Launcher",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "RastProxy88/Vivid-R6-Cracked-2026",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "agentic-in/elephant-agent",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "openclaw/clawpatch",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "cdanielc293/Jenny-Mod-All-Versions",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "github/gitignore",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "denoland/deno",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "tauri-apps/tauri",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "papers-we-love/papers-we-love",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "agentic-in/elephant-agent",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "openclaw/clawpatch",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "Kappaemme-git/codex-complexity-optimizer",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "rurk6/Cheat-Engine-7.5",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "nkzw-tech/codiff",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "zigabratun/Umbrella-HWID-Tool",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "Multichain-Bot-Lab/polymarket-trading-bot",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "Multichain-Bot-Lab/polymarket-copy-trading-bot",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "daehyeonmun2021/react-native-skia-lab",
+      "date": "2026-05-15"
+    },
+    {
+      "name": "RyensX/OpenCodex",
+      "date": "2026-05-15"
     }
   ]
 }
