@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "aattaran/deepclaude",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "WeritoP/LInjector-FORKED-",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "WeritoP/FL-STUDIO-PATCHER",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "raiyanyahya/how-to-train-your-gpt",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "LayrKits/Sprite-Pipeline",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "bschoepke/ableton-live-mcp",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "maria-rcks/miri",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "tolibear/goal-maker",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "Composio-HQ/polymarket-kalshi-arbitrage-bot",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "bestpracticaI/kalshi-ai-trading-bot",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "TheAlgorithms/Python",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "affaan-m/everything-claude-code",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "yt-dlp/yt-dlp",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "microsoft/TypeScript",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "aattaran/deepclaude",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "raiyanyahya/how-to-train-your-gpt",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "LayrKits/Sprite-Pipeline",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "bschoepke/ableton-live-mcp",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "tolibear/goal-maker",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "Composio-HQ/polymarket-kalshi-arbitrage-bot",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "bestpracticaI/kalshi-ai-trading-bot",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "tachikomared/character-animation-creator-skill",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "amanning3390/deepswarm",
-      "date": "2026-05-03"
-    },
-    {
-      "name": "Michaelliv/pi-goal",
-      "date": "2026-05-03"
-    },
-    {
       "name": "gaspar-ds/Tomodachi-Living-The-Dream-PC",
       "date": "2026-05-04"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "OpenPatchLab/polymarket-weather-trading-bot",
       "date": "2026-05-16"
+    },
+    {
+      "name": "RastProxy88/Zephyr-Executor-Free-Roblox-Executor-PC-No-Key-Required-2026",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "Flizorules05/ROM-MGBA-Pokemon-Emulator-PC",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "Doorman11991/smallcode",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "thongthaibm/Lossless-Scaling-LSFG",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "xw7872081123/wallpaper-engine-steam",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "LiuMengxuan04/shushu-internship-tool",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "rit3zh/expo-motion-tabs",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "ZoyaMalhotra/DualSenseX-DSX-Steam-Edition",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "disintegr8te/teams-policy-export",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "haiddrrs/Steam-Tools",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "affaan-m/everything-claude-code",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "axios/axios",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "ohmyzsh/ohmyzsh",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "Doorman11991/smallcode",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "xw7872081123/wallpaper-engine-steam",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "LiuMengxuan04/shushu-internship-tool",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "rit3zh/expo-motion-tabs",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "lynote-ai/humanize-text",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "p0systems/peezy-cli",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "zhiyingzzhou/renewlet",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "thehimel/async-document-processing",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "varshini11ravi/Sentiment-Analysis",
+      "date": "2026-05-17"
+    },
+    {
+      "name": "greatvishal27-rc/AI-Resume_Analyzer",
+      "date": "2026-05-17"
     }
   ]
 }
