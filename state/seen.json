@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "gaspar-ds/Tomodachi-Living-The-Dream-PC",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "nikolinakovacevic1/MLB-The-Show-26-PC",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "joshawome/chainreason",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "moxailoo/univ3-pool-lens",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "pkmnono/Fallout-Additions-Minecraft-Mod",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "butthtio/solidity-cot-auditor",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "evanphi7/lighthouse-router",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "L1v1ng0ffTh3L4N/EdgeSavedPasswordsDumper",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "ajavadinezhad/zyrln",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "TheSashaDev/girl-agent",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "TheAlgorithms/Python",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "ultraworkers/claw-code",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "joshawome/chainreason",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "moxailoo/univ3-pool-lens",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "butthtio/solidity-cot-auditor",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "ajavadinezhad/zyrln",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "TheSashaDev/girl-agent",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "liangdabiao/Fashion-AI",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "BuluBulugege/Free-BAI",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "XBuilderLAB/cheat-on-content",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "ThisIsDara/mhr-cfw-go",
-      "date": "2026-05-04"
-    },
-    {
-      "name": "huggingface/nanowhale",
-      "date": "2026-05-04"
-    },
-    {
       "name": "NamKhoa-07/Voidstrap",
       "date": "2026-05-05"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "greatvishal27-rc/AI-Resume_Analyzer",
       "date": "2026-05-17"
+    },
+    {
+      "name": "DuskMosquito/Lossless-Scaling-Desktop-2026",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "AbhishekK130804/Claude-Mythos-AI-Anthropic-App",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "sapientinc/HRM-Text",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "Glazenovatag/hyperliquid-whale-order-tracking",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "evilsocket/audit",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "littlefrogyq/UE4SS-Subnautica-2",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "nhutdang198/AI-Final-fantasy-6-remake",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "basketikun/infinite-canvas",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "FoundZiGu/GuJumpgate",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "suyancc/openai-plus-vxt",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "sapientinc/HRM-Text",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "Glazenovatag/hyperliquid-whale-order-tracking",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "evilsocket/audit",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "basketikun/infinite-canvas",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "FoundZiGu/GuJumpgate",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "suyancc/openai-plus-vxt",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "SalhaNabil/CloakBrowser",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "Klotzkette/claude-fuer-deutsches-recht",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "huey1in/WindsurfX",
+      "date": "2026-05-18"
+    },
+    {
+      "name": "joeseesun/qiaomu-artist-style",
+      "date": "2026-05-18"
     }
   ]
 }
