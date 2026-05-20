@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "NamKhoa-07/Voidstrap",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "WeritoP/BetterNitroDiscord",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "zarazhangrui/beautiful-html-templates",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "yaojingang/yao-open-prompts",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "aidenboomhero/Subnautica-2-PS5-Port",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "louisedesadeleer/clipify",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "Ajai53200/DeepSeek-V4-Pro-App",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "432539/plus_gopay_gptp-plus",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "Viedie/BongoCat-Windows",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "Mathifygaming/OpenGOAL-Jak-PC-Port",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "Genymobile/scrcpy",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "yaojingang/yao-open-prompts",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "louisedesadeleer/clipify",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "432539/plus_gopay_gptp-plus",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "TitanFlow-Systems/polymarket-trading-bot-v2",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "TitanFlow-Systems/best-of-algorithmic-trading",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "cv-cat/XHS_ALL_IN_ONE",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "freq-trades/polymarket-trading-bot-v2",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "freq-trades/hyperliquid-trading-bot",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "lightseekorg/tokenspeed",
-      "date": "2026-05-05"
-    },
-    {
-      "name": "benja-dev-lab/Hyperliquid-copy-trading-bot",
-      "date": "2026-05-05"
-    },
-    {
       "name": "strukto-ai/mirage",
       "date": "2026-05-06"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "joeseesun/qiaomu-artist-style",
       "date": "2026-05-18"
+    },
+    {
+      "name": "thananon/9arm-skills",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "internetkafe/vpnhostinglist",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "CylinderChairman/aida64",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "uktrash/LSFG-Desktop",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "rahul03524/YellowKey-Bitlocker",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "MFS9628/Deepseek-v4-pro-app",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "ZettPW/KMSTools",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "AppleOnFire/JennyMod-All-Versions",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "redteamfortress/PhantomKiller",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "orchestration-agent/AgentOrchestration",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "trekhleb/javascript-algorithms",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "Genymobile/scrcpy",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "rahul03524/YellowKey-Bitlocker",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "orchestration-agent/AgentOrchestration",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "stainlu/stainful",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "jackson-video-resources/markov-hedge-fund-method",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "AllStarsWC/ALLSTARS",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "wanshuiyin/ARIS-in-AI-Offer",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "guowang23333/kiro-pro-batch",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "joeseesun/qiaomu-userscripts",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "leosssvip-dot/remotion-ad-video-skill",
+      "date": "2026-05-19"
+    },
+    {
+      "name": "zhw040803-glitch/UAV-GPS-DQN-Detection",
+      "date": "2026-05-19"
     }
   ]
 }
