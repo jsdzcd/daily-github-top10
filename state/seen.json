@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "vercel-labs/zero-native",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "Ping89/MT5EA-Forex-Trading",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "gar212/VoidStrap-Roblox",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "RD1707/Umbrella-HWID",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "CristianRO2003/Tomodachi-Share-Discover-Share-Mii",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "gelo1231/Pokemon-Pokopia-For-PC",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "nickvasilescu/hermes-desktop-os1",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "skycryptsite/SkyCrypt",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "AvenueSleuth/delta-exec",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "ckpxgfnksd-max/uap-release-analyzer",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "microsoft/vscode",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "ultraworkers/claw-code",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "AvenueSleuth/delta-exec",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "ckpxgfnksd-max/uap-release-analyzer",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "HiDream-ai/HiDream-O1-Image",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "chencore/autoresearch-crypto",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "GALIAIS/k_i_r_o-register",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "chrysoljq/aistudio-api",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "DenisSergeevitch/UFO-USA",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "nanameru/mtg-realtime-translator",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "grp06/goalcraft",
-      "date": "2026-05-08"
-    },
-    {
-      "name": "Kimberlyarichrdqnat51296/TRX-Drainer-Tool",
-      "date": "2026-05-08"
-    },
-    {
       "name": "thakur-works/DarkGPT",
       "date": "2026-05-09"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Boob025/peace-equalizer-APO",
       "date": "2026-05-21"
+    },
+    {
+      "name": "Jawaz-Keyzor/CS2-External-Cheat-2026",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "open-gsd/get-shit-done-redux",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "mila89/polymarket-trading-bot",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "Satomoit/LCE-Emerald-Launcher",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "testerlingcodo/gemini-antigravity-cli",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "aayan555/DS4Windows",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "Qwilxy/paralives-release",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "CEOHarvey242/cheat-engine-7.5",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "bonus-2026/casino-bonus",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "SKL2910/limitless-trading-bot",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "microsoft/vscode",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "open-gsd/get-shit-done-redux",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "mila89/polymarket-trading-bot",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "Satomoit/LCE-Emerald-Launcher",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "testerlingcodo/gemini-antigravity-cli",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "CEOHarvey242/cheat-engine-7.5",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "SKL2910/limitless-trading-bot",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "MariCarmen1971/solana-pumpfun-raydium-bundler",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "thesammy26/polymarket-arbitrage-bot",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "Polymarket-Trading-kit/crypto-trading-bot",
+      "date": "2026-05-22"
+    },
+    {
+      "name": "flaviodesa/polymarket-copy-trading-bot",
+      "date": "2026-05-22"
     }
   ]
 }
