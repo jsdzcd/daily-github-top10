@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "thakur-works/DarkGPT",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "thakur-works/Velocity-Executor",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "huangserva/3DCellForge",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "alchaincyf/huashu-md-html",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "amircloner/g2ray",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "baydarerhan/Sora-2-App-No-Watermark",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "iampedii/WhiteDNS",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "pvpoxx/PrismLauncherCrackedEly",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "k09z1/BTC-USDT-Flashing-Bot",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "Rhythmplocutter/printer-offline-fix",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "n8n-io/n8n",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "huangserva/3DCellForge",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "williamcachamwri/zalo-tg",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "cclank/cell-architecture-studio",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "killervillsy/SessionToJson",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "mitsuhiko/pi-llamacpp",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "brqacoyituo/convo",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "cosmicstack-labs/mercury-agent-skills",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "brqacoyituo/eat-better",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "QingJ01/DeepSeekCode",
-      "date": "2026-05-09"
-    },
-    {
-      "name": "LYiHub/OpenClaw-AWD-Arena",
-      "date": "2026-05-09"
-    },
-    {
       "name": "TrueGunsmithFence/Hentaihunter",
       "date": "2026-05-10"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "flaviodesa/polymarket-copy-trading-bot",
       "date": "2026-05-22"
+    },
+    {
+      "name": "Mclisterjoeh2o/yellowkey-bitlocker",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "RayceAnderson/tomodachi-pc",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "resonancegnatassess/Lossless-Scaling",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "wallpapers-engine/Wallpaper-Engine",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "6537445/jenny-mod-minecraft-",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "Astraltenprosper/uncensored-ai-image-video-generator",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "yui540/comimi",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "ensigncocoonenergy/Undown-tool",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "gokulgml/polymarket-copy-trading-bot",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "Mclisterjoeh2o/yellowkey-bitlocker",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "mikaeldengale-cloud/Deepseek-v4-Pro-App",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "resonancegnatassess/Lossless-Scaling",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "wallpapers-engine/Wallpaper-Engine",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "Astraltenprosper/uncensored-ai-image-video-generator",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "yui540/comimi",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "gokulgml/polymarket-copy-trading-bot",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "modaic-ai/gepa-viz",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "Signal-Market-Engine/polymarket-trading-bot",
+      "date": "2026-05-23"
+    },
+    {
+      "name": "Alpha-Vector-Core/polymarket-trading-bot",
+      "date": "2026-05-23"
     }
   ]
 }
