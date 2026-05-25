@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "TrueGunsmithFence/Hentaihunter",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "grandeurcoredecoder/f95zone",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "limesupporterdoor/LockDown-Browser-Bypass-Tool",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "LSPosed/DirtySepolicy",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "Longbridges/polymarket-kalshi-arbitrage-bot",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "sanzoI-tech/polymarket-kalshi-arbitrage-bot",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "ai-twinkle/Hub",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "jasonkneen/tiny-world-builder",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "yaneony/2STEP-Converter",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "Octoday-Hub/Embodied-Al",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "ohmyzsh/ohmyzsh",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "TrueGunsmithFence/Hentaihunter",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "Longbridges/polymarket-kalshi-arbitrage-bot",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "sanzoI-tech/polymarket-kalshi-arbitrage-bot",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "yaneony/2STEP-Converter",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "Drakkar-Softwares/polymarket-kalshi-arbitrage-bot",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "tidwall/btype",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "konbakuyomu/smartsearch",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "3440869867/image-multi-asset-extractor",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "DenisSergeevitch/chatgpt-portal",
-      "date": "2026-05-10"
-    },
-    {
-      "name": "virgo777/buddyme",
-      "date": "2026-05-10"
-    },
-    {
       "name": "RadianceToadAmend/ARC-Raiders-External-Tool",
       "date": "2026-05-11"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Alpha-Vector-Core/polymarket-trading-bot",
       "date": "2026-05-23"
+    },
+    {
+      "name": "StanGibson/polymarket-copy-trading-bot",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "RAJAOMASON/polymarket-trading-bot",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "realrossmanngroup/no_ai_slop_writing_rules",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "zclllyybb/lofisu-identity-engine",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "BJTUpupil/AscendFHE",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "maowuzz/chatgpt-session-forge",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "anandhi1086/Food-Donation-Platform",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "aurorascharff/ClickLight",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "dayaa-hash/threat-detection-",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "joeancilin/MindMate-AI",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "StanGibson/polymarket-copy-trading-bot",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "RAJAOMASON/polymarket-trading-bot",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "maowuzz/chatgpt-session-forge",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "anandhi1086/Food-Donation-Platform",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "dayaa-hash/threat-detection-",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "joeancilin/MindMate-AI",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "uu201/character-arc",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "Abirami-19/taskloom-kanban",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "rahuldr556/AST-Guided-LLM-Code-Review_System",
+      "date": "2026-05-24"
+    },
+    {
+      "name": "madhusundar240/Smart-AI-Healthcare",
+      "date": "2026-05-24"
     }
   ]
 }
