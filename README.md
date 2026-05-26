@@ -2,10 +2,10 @@
 <!--LATEST_START-->
 ## Latest
 
-- **2026-05-24**
-  - 新建 → [01-new.md](daily/2026-05-24/01-new.md)
-  - 活跃 → [02-active.md](daily/2026-05-24/02-active.md)
-  - 限定领域 → [03-focus.md](daily/2026-05-24/03-focus.md)
+- **2026-05-25**
+  - 新建 → [01-new.md](daily/2026-05-25/01-new.md)
+  - 活跃 → [02-active.md](daily/2026-05-25/02-active.md)
+  - 限定领域 → [03-focus.md](daily/2026-05-25/03-focus.md)
 
 <!--LATEST_END-->
 
@@ -13,6 +13,7 @@
 
 ### 2026-05
 
+- **2026-05-25** — [新建](daily/2026-05-25/01-new.md) · [活跃](daily/2026-05-25/02-active.md) · [限定领域](daily/2026-05-25/03-focus.md)
 - **2026-05-24** — [新建](daily/2026-05-24/01-new.md) · [活跃](daily/2026-05-24/02-active.md) · [限定领域](daily/2026-05-24/03-focus.md)
 - **2026-05-23** — [新建](daily/2026-05-23/01-new.md) · [活跃](daily/2026-05-23/02-active.md) · [限定领域](daily/2026-05-23/03-focus.md)
 - **2026-05-22** — [新建](daily/2026-05-22/01-new.md) · [活跃](daily/2026-05-22/02-active.md) · [限定领域](daily/2026-05-22/03-focus.md)

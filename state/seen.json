@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "RadianceToadAmend/ARC-Raiders-External-Tool",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "patchfighterway90/cs2-external-overlay",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "RadianceToadAmend/cs2-overlay-utility",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "ywnd1144/Gopay_plus_automatic",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "RadianceToadAmend/Roblox-Script-Debugger-Developer-Console",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "JUk1-GH/gpt-promo-scanner",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "simonlin1212/a-stock-data",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "HermannBjorgvin/Clawdmeter",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "TheRunicDev/MaaNTE",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "ltyzen/KMSAutoTool",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "flutter/flutter",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "twbs/bootstrap",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "ollama/ollama",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "f/prompts.chat",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "huggingface/transformers",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "langflow-ai/langflow",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "vercel/next.js",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "patchfighterway90/cs2-external-overlay",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "ywnd1144/Gopay_plus_automatic",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "JUk1-GH/gpt-promo-scanner",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "Nick-Baumann/Gobby",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "lillian039/ELF",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "yliust/Tactile",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "vercel-labs/mdxg",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "Spielewoy/git-faker-3000",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "Tsukamg/polymarket-weather-trading-engine",
-      "date": "2026-05-11"
-    },
-    {
-      "name": "pydantic/httpx2",
-      "date": "2026-05-11"
-    },
-    {
       "name": "Nightmare-Eclipse/YellowKey",
       "date": "2026-05-12"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "madhusundar240/Smart-AI-Healthcare",
       "date": "2026-05-24"
+    },
+    {
+      "name": "SigmaTradeLabs/aster-bot",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "Novaquant-labs/hyperliquid-trading-bot",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "UditAkhourii/adhd",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "lceminecraft-launcher/LCE-Emerald-Launcher",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "osulazerdownload/osulazer",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "OldenEraTemplateGenerator/Olden-Era-Template-Generator",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "Monke-Manager/MonkeModManager",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "neuralCPL/polymarket-trading-bot",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "007FirstLight/007-First-Light-Release",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "ObesidianQuant/polymarket-trade-engine",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "flutter/flutter",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "twbs/bootstrap",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "ollama/ollama",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "f/prompts.chat",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "huggingface/transformers",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "vercel/next.js",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "SigmaTradeLabs/aster-bot",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "Novaquant-labs/hyperliquid-trading-bot",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "UditAkhourii/adhd",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "lceminecraft-launcher/LCE-Emerald-Launcher",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "neuralCPL/polymarket-trading-bot",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "ObesidianQuant/polymarket-trade-engine",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "NabilAziz99/agent-runtime",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "HeroicLauncher/HeroicGamesLauncher",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "foru17/make-x-great-again",
+      "date": "2026-05-25"
+    },
+    {
+      "name": "paraschopra/make-pages-interactive",
+      "date": "2026-05-25"
     }
   ]
 }
