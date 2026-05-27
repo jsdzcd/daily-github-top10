@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Nightmare-Eclipse/YellowKey",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "RadianceToadAmend/Fortnite-Cheats-2026",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "chrisbanes/skills",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "manojmidhul92-art/Umbrella-HWID",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "yaassin12/DeepSeek-V4-Pro-App",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "sunyouzhi2003/LSFG-Desktop",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "mark9-droid/TomodachiPC",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "PHjont/Wallpaper-Engine-Live-wallpaper-engine",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "Nightmare-Eclipse/GreenPlasma",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "agentara/skills",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "langgenius/dify",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "langchain-ai/langchain",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "golang/go",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "microsoft/PowerToys",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "Chalarangelo/30-seconds-of-code",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "facebook/react-native",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "kubernetes/kubernetes",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "eduwass/tmux-palette",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "GAwesome-Bot/polymarket-trading-bot-v2",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "PlaceNL2026/best-of-algorithmic-trading",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "GordenSun/LearningCell",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "Anthonykhayesaudsrx50512/Flash-USDT-Sender",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "simplifaisoul/osiris",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "simonlin1212/TradingAgents-astock",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "feder-cr/invisible_playwright",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "bhartiyashesh/purelymailcalendar",
-      "date": "2026-05-12"
-    },
-    {
-      "name": "italozucareli/zabbix-observability",
-      "date": "2026-05-12"
-    },
-    {
       "name": "S4rdenz/gta-5-mod-menu",
       "date": "2026-05-13"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "paraschopra/make-pages-interactive",
       "date": "2026-05-25"
+    },
+    {
+      "name": "5-m0cftvuvif/stake-monthly",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "FlashML-org/flashlib",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "actuallyaridan/linux-devmgmt",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "cellinlab/how-pi-agent-works",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "ikeda042/PhenoPixel",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "Bhojendra-dev/LSFG-Desktop",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "ai-best-tools/ai-image-video-gen",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "zhristophe/Claude-Mythos-AI-Anthropic-App",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "Stellarwolf001/forza-horizon-6-spotify-radio",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "Dharyen/ryujinx-emu",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "langgenius/dify",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "golang/go",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "facebook/react-native",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "mattpocock/skills",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "FlashML-org/flashlib",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "ikeda042/PhenoPixel",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "zhristophe/Claude-Mythos-AI-Anthropic-App",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "Stellarwolf001/forza-horizon-6-spotify-radio",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "ace-trump-tech/DeltaForce-OBS-Locker",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "riyagoelrs/tiktok-scraper",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "hieunc229/mailflare",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "nekocode/filetree-skill",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "soumyagrawall/CMS",
+      "date": "2026-05-26"
+    },
+    {
+      "name": "nalltama/RAIV",
+      "date": "2026-05-26"
     }
   ]
 }
