@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "yetone/native-feel-skill",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "trong776/Roblox-Hub-2026",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "trong776/gta-5-mod-menu",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "Juwluuu/Subnautica-2-Release",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "mcjavarp/Manager2026",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "jiaoyanming0-bot/OPAutoClicker",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "DARKHOLEUM/VoidStrap-For-Roblox",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "0xdeadbeefnetwork/ssh-keysign-pwn",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "CometBisonCrack/LockDown-Browser-Bypass-Tool",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "cat9999aaa/thinshell",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "avelino/awesome-go",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "open-webui/open-webui",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "excalidraw/excalidraw",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "shadcn-ui/ui",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "rustdesk/rustdesk",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "godotengine/godot",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "zhilin1112/YellowKey-Bitlocker",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "StrucksTech/Zelda-TP-Native-Port",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "POLYMARKET-TRADER-LAB/Polymarket-trading-bot",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "DEV-OCR/polymarket-arbitrage-trading-bot",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "Signal-Probability-Engine/weather-prediction",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "POLYMARKET-SPORTS/Polymarket-trading-bot",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "money-takers/polymarket-arbitrage-trading-bot",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "NeuralInverse/neuralinverse",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "mooncitydev/worldcup-2026-prediction",
-      "date": "2026-05-14"
-    },
-    {
-      "name": "Siva-Chidambaram12/kalshi-trading-bot",
-      "date": "2026-05-14"
-    },
-    {
       "name": "vercel-labs/zero",
       "date": "2026-05-15"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "alfiyahkamilah1239298/WallpaperDownloader-26",
       "date": "2026-05-27"
+    },
+    {
+      "name": "Michaelliv/pi-dynamic-workflows",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "2aronS/Duel-Agents",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "Signal-Trade-Core/weather-prediction-bot",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "tor-browsers/tor-browser",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "Beam-NG-Drive/BeamMP",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "malk190/Romestead-Game-Release",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "Jadoox3/Mina-The-Hollower-Release",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "Polymarket-DevRel/polymarket-devrel",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "PolyMomentum-Labs/.github",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "avelino/awesome-go",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "anthropics/skills",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "mrdoob/three.js",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "Michaelliv/pi-dynamic-workflows",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "2aronS/Duel-Agents",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "Signal-Trade-Core/weather-prediction-bot",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "hydra-node/polymarket-weather-bot",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "modelstudioai/cli",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "bunnyos/base-agent",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "metavault-fi/solana-pumpfun-bundler",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "ATOM00blue/machine-learning-library",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "openfi-dao/kalshi-trading-bot",
+      "date": "2026-05-28"
+    },
+    {
+      "name": "Sophomoresty/bpc-fetch",
+      "date": "2026-05-28"
     }
   ]
 }
