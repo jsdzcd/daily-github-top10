@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "tritano/ultraviewer",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "KenKaneki18/CloakBrowser",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "MediatorSpeak/dota2-gameplay-tools",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "Sunislazi/rbxfpsunlocker-boost-More-240FPS",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "BasZ4ll/Stable-Diffusion-WebUI",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "arnabchoudhury404/hydra-launcher",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "gazelleandrewrasmussenmouj2/Windows-Activator",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "akuma815/WindowsDelta",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "hvsk24/SeedVault",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "MediatorSpeak/Valorant-External-Framework",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "supabase/supabase",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "immich-app/immich",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "ultraworkers/claw-code",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "tritano/ultraviewer",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "KenKaneki18/CloakBrowser",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "Sunislazi/rbxfpsunlocker-boost-More-240FPS",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "BasZ4ll/Stable-Diffusion-WebUI",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "arnabchoudhury404/hydra-launcher",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "VAENPP/solana-trading-bot",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "sachmalan/kalshi-trading-bot",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "fristork/hyperliquid-trading-bot",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "Alchemz/solana-pumpfun-token-bundler",
-      "date": "2026-05-16"
-    },
-    {
-      "name": "OpenPatchLab/polymarket-weather-trading-bot",
-      "date": "2026-05-16"
-    },
-    {
       "name": "RastProxy88/Zephyr-Executor-Free-Roblox-Executor-PC-No-Key-Required-2026",
       "date": "2026-05-17"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "DRVX92/coinbase-copy-trading-bot",
       "date": "2026-05-29"
+    },
+    {
+      "name": "pewdiepie-archdaemon/odysseus",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "TaiwanBoss/DualSenseX-Steam-PC-Controller",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "faldyrd/Auto-2026",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "polymaxi2/polymarket-arbitrage-trading-bot",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "yapeth/MaaNTE",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "paralives-free/Paralives-Money-Cheats",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "liyue-aigc/female-portrait-director",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "LawmakerTreasure/deepseek-openclaw",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "veryyoldman/metamask-openclaw",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "marekkowalczyk/breathe-cli",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "github/spec-kit",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "tauri-apps/tauri",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "denoland/deno",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "garrytan/gstack",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "google-gemini/gemini-cli",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "pewdiepie-archdaemon/odysseus",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "polymaxi2/polymarket-arbitrage-trading-bot",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "yapeth/MaaNTE",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "veryyoldman/metamask-openclaw",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "marekkowalczyk/breathe-cli",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "BarneyD66/open-warehouse-system",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "ProxyShard/ShardBrowser",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "PentesterFlow/agent",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "asz798838958/aBaiAutoplus",
+      "date": "2026-05-30"
+    },
+    {
+      "name": "lilliancrivaro27064501728/AI-Photo-Background-Remover",
+      "date": "2026-05-30"
     }
   ]
 }
