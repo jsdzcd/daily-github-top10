@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "kageroumado/phosphene",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "texsellix/polymarket-trading-bot",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "kouhxp/yapsnap",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "zzzhhh1/mg-Koyeb",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "jazzband/web3-devkit-cli",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "OpenYSMDev/OpenYSM",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "clawdbrunner/captcha-solver",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "simonlin1212/global-stock-data",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "KNG7-P/Se7en-Pro",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "Tartarus-AI/tartarusai-cli",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "Significant-Gravitas/AutoGPT",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "clash-verge-rev/clash-verge-rev",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "fatedier/frp",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "texsellix/polymarket-trading-bot",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "kouhxp/yapsnap",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "jazzband/web3-devkit-cli",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "clawdbrunner/captcha-solver",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "Tartarus-AI/tartarusai-cli",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "zqbxdev/webchat2api",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "Simbastack-hq/framedex",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "DEEIX-AI/DEEIX-Chat",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "mrslimslim/awesome-prompt",
-      "date": "2026-05-20"
-    },
-    {
-      "name": "afumu/openteam",
-      "date": "2026-05-20"
-    },
-    {
       "name": "Jawaz-Keyzor/FL-Studio-2026-Producer-Edition-Unlock",
       "date": "2026-05-21"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "TheStageAI/edge-lm",
       "date": "2026-06-02"
+    },
+    {
+      "name": "tastyeffectco/sandboxes",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "GalaxyGeneralRobotics/Humanoid-GPT",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "Jasionf/smart-home-button",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "boona13/glb-shrink",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "Mr-Un1k0d3r/AzureRedOps",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "jeff141/meatshell",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "Vkestsu/Adopt-Me-Script",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "forter/agentic-readiness-guide",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "punk2898/wechat-group-stats",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "boona13/sprite-lab",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "clash-verge-rev/clash-verge-rev",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "tastyeffectco/sandboxes",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "GalaxyGeneralRobotics/Humanoid-GPT",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "boona13/glb-shrink",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "Mr-Un1k0d3r/AzureRedOps",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "forter/agentic-readiness-guide",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "punk2898/wechat-group-stats",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "boona13/sprite-lab",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "xevrion-v2/agent-playground",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "razr001/align-dev",
+      "date": "2026-06-03"
+    },
+    {
+      "name": "Speeduocupola/tg-ws-proxy",
+      "date": "2026-06-03"
     }
   ]
 }
