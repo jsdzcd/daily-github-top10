@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Jawaz-Keyzor/CS2-External-Cheat-2026",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "open-gsd/get-shit-done-redux",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "mila89/polymarket-trading-bot",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "Satomoit/LCE-Emerald-Launcher",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "testerlingcodo/gemini-antigravity-cli",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "aayan555/DS4Windows",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "Qwilxy/paralives-release",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "CEOHarvey242/cheat-engine-7.5",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "bonus-2026/casino-bonus",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "SKL2910/limitless-trading-bot",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "microsoft/vscode",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "TheAlgorithms/Python",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "open-gsd/get-shit-done-redux",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "mila89/polymarket-trading-bot",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "Satomoit/LCE-Emerald-Launcher",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "testerlingcodo/gemini-antigravity-cli",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "CEOHarvey242/cheat-engine-7.5",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "SKL2910/limitless-trading-bot",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "MariCarmen1971/solana-pumpfun-raydium-bundler",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "thesammy26/polymarket-arbitrage-bot",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "Polymarket-Trading-kit/crypto-trading-bot",
-      "date": "2026-05-22"
-    },
-    {
-      "name": "flaviodesa/polymarket-copy-trading-bot",
-      "date": "2026-05-22"
-    },
-    {
       "name": "Mclisterjoeh2o/yellowkey-bitlocker",
       "date": "2026-05-23"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "nv-tlabs/ArtiFixer",
       "date": "2026-06-04"
+    },
+    {
+      "name": "lbq110/weread-exporter",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "hoolulu/deep-research",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "iampedii/WhiteDNS-Wizard",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "KRYU2002/Gothic-1-Remake-Release",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "iliams2k1/tomodachi-pc",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "chaseai-yt/grill-me-codex",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "LeoLope-z/CrosshairX",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "DEV-krokodile/auto",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "elder-plinius/ENTHEA",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "Aluccard992ad/twitchdropminer-desktop-setup",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "microsoft/vscode",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "facebook/react",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "lbq110/weread-exporter",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "hoolulu/deep-research",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "iampedii/WhiteDNS-Wizard",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "yuzhworkhard-wq/image-to-code",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "zengxiao-he/tessera",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "FerroxLabs/wayland",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "TryHarder-L/NiniMenu",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "Forsy-AI/forsy-trace-skill",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "meishiwhy/Literature-Mind",
+      "date": "2026-06-05"
+    },
+    {
+      "name": "trynullsec/nullsec-s1-zk",
+      "date": "2026-06-05"
     }
   ]
 }
