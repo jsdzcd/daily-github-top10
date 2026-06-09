@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "SigmaTradeLabs/aster-bot",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "Novaquant-labs/hyperliquid-trading-bot",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "UditAkhourii/adhd",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "lceminecraft-launcher/LCE-Emerald-Launcher",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "osulazerdownload/osulazer",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "OldenEraTemplateGenerator/Olden-Era-Template-Generator",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "Monke-Manager/MonkeModManager",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "neuralCPL/polymarket-trading-bot",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "007FirstLight/007-First-Light-Release",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "ObesidianQuant/polymarket-trade-engine",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "flutter/flutter",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "twbs/bootstrap",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "ollama/ollama",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "f/prompts.chat",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "huggingface/transformers",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "langflow-ai/langflow",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "vercel/next.js",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "SigmaTradeLabs/aster-bot",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "Novaquant-labs/hyperliquid-trading-bot",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "UditAkhourii/adhd",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "lceminecraft-launcher/LCE-Emerald-Launcher",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "neuralCPL/polymarket-trading-bot",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "ObesidianQuant/polymarket-trade-engine",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "NabilAziz99/agent-runtime",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "HeroicLauncher/HeroicGamesLauncher",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "foru17/make-x-great-again",
-      "date": "2026-05-25"
-    },
-    {
-      "name": "paraschopra/make-pages-interactive",
-      "date": "2026-05-25"
-    },
-    {
       "name": "5-m0cftvuvif/stake-monthly",
       "date": "2026-05-26"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "markrussinovich/LinkedIn-Formatter",
       "date": "2026-06-07"
+    },
+    {
+      "name": "apple/coreai-models",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "Tencent-Hunyuan/UniRL",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "jmmy9609-design/gpt-pp",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "secret-tools/secret-tool",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "NuvioMedia/NuvioDesktop",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "mythicguruforge/CapC-Pro",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "ai-best-git-apps/AI-Best-IMG-VID-Gen",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "valkor-ai/loom",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "amap-cvlab/ABot-Earth-0.5",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "mailfrsh409330/ios-jailbreak-software",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "flutter/flutter",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "twbs/bootstrap",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "ollama/ollama",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "f/prompts.chat",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "huggingface/transformers",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "vercel/next.js",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "react/react-native",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "apple/coreai-models",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "Tencent-Hunyuan/UniRL",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "jmmy9609-design/gpt-pp",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "valkor-ai/loom",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "Ryderwe/Sollin-Music-Desktop",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "Ye-yellow/ByteDanceliveauctioni",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "canwhite/MicroRAG",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "minjie05/KnowBase_AI",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "xuanyuanzhifeng/ai-video-agent",
+      "date": "2026-06-08"
+    },
+    {
+      "name": "borhen68/TokenTamer",
+      "date": "2026-06-08"
     }
   ]
 }
