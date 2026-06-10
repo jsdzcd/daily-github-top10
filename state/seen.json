@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "5-m0cftvuvif/stake-monthly",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "FlashML-org/flashlib",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "actuallyaridan/linux-devmgmt",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "cellinlab/how-pi-agent-works",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "ikeda042/PhenoPixel",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "Bhojendra-dev/LSFG-Desktop",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "ai-best-tools/ai-image-video-gen",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "zhristophe/Claude-Mythos-AI-Anthropic-App",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "Stellarwolf001/forza-horizon-6-spotify-radio",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "Dharyen/ryujinx-emu",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "langgenius/dify",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "langchain-ai/langchain",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "golang/go",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "microsoft/PowerToys",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "facebook/react-native",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "kubernetes/kubernetes",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "mattpocock/skills",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "FlashML-org/flashlib",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "ikeda042/PhenoPixel",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "zhristophe/Claude-Mythos-AI-Anthropic-App",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "Stellarwolf001/forza-horizon-6-spotify-radio",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "ace-trump-tech/DeltaForce-OBS-Locker",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "riyagoelrs/tiktok-scraper",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "hieunc229/mailflare",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "nekocode/filetree-skill",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "soumyagrawall/CMS",
-      "date": "2026-05-26"
-    },
-    {
-      "name": "nalltama/RAIV",
-      "date": "2026-05-26"
-    },
-    {
       "name": "op7418/guizang-social-card-skill",
       "date": "2026-05-27"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "borhen68/TokenTamer",
       "date": "2026-06-08"
+    },
+    {
+      "name": "MSNightmare/RoguePlanet",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "shadcn/improve",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "XiaomiMiMo/MiMo-Code",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "rino-kardianus-hamin/Valorant-UX",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "tusharunuddinar711-jpg/ai-video-gen",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "AI-NextGenApps/AI-IMG-VID-App",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "AI-CoolTools/AI-GoldenAPP",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "AbdelStark/awesome-jepa",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "plannotator/effective-html",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "AMAP-ML/roleagent",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "langgenius/dify",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "golang/go",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "mattpocock/skills",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "XiaomiMiMo/MiMo-Code",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "AMAP-ML/roleagent",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "superagents-lab/xcode27-skills",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "automationsmanufaktur-labs/open-invoice-germany",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "kanna12580/kk-knowledge-agent",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "alchaincyf/fanbox",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "cobusgreyling/loop-engineering",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "grzegorz-raczek-unit8/claude-quota",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "asz798838958/GeniusFKoai",
+      "date": "2026-06-09"
+    },
+    {
+      "name": "Sinotrade/shioaji-pro-app",
+      "date": "2026-06-09"
     }
   ]
 }
