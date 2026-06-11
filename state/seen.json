@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "op7418/guizang-social-card-skill",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "adelaideacfalle50838568946/ChatGPT-Pro-Desktop-2026",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "withkynam/vibecode-pro-max-kit",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "manuelageske58246958801/DeepFake-AI-2026-RealTime",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "Sophomoresty/gemini-web2api",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "ShadowSpread/polymarket-auto-trading",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "Noahmusahdevs/roblox-account-manager",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "Szili1994/create-aeronautics-minecraft-mod",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "oyunhacktr/Windows-Xbox-Mode",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "Bartates/lunar-client-minecraft",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "521xueweihan/HelloGitHub",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "electron/electron",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "nodejs/node",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "rust-lang/rust",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "d3/d3",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "withkynam/vibecode-pro-max-kit",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "manuelageske58246958801/DeepFake-AI-2026-RealTime",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "Sophomoresty/gemini-web2api",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "ShadowSpread/polymarket-auto-trading",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "Harkirat1462/claude-code-cli",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "Orange2019220/ReluPruner",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "SUZ-tsinghua/smp",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "MatinSenPai/SenPaiScanner",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "stagas/hallucinate",
-      "date": "2026-05-27"
-    },
-    {
-      "name": "alfiyahkamilah1239298/WallpaperDownloader-26",
-      "date": "2026-05-27"
-    },
-    {
       "name": "Michaelliv/pi-dynamic-workflows",
       "date": "2026-05-28"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Sinotrade/shioaji-pro-app",
       "date": "2026-06-09"
+    },
+    {
+      "name": "MSNightmare/GreatXML",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "SkyBlue997/enableMacosAI",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "BuilderIO/skills",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "taisly/agent",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "MiniMax-AI/MSA",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "orange2ai/orange-line-illustration",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "inbrainfun/inbrain",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "oomol-lab/LockIME",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "OpenSharing-IO/OpenSharing",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "cocktailpeanut/image-to-prompt",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "massgravel/Microsoft-Activation-Scripts",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "electron/electron",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "nodejs/node",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "rust-lang/rust",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "BuilderIO/skills",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "taisly/agent",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "MiniMax-AI/MSA",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "inbrainfun/inbrain",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "cocktailpeanut/image-to-prompt",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "joeseesun/qiaomu-goal-meta-skill",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "kaor333/Exodus-Fake-Balance",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "vinayaklatthe/microsoft-security-skills",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "rbrown101010/rilable",
+      "date": "2026-06-10"
+    },
+    {
+      "name": "Open-Builders/pumpfun-bundler-pump.fun-bundler-solana-token-bundler-bot",
+      "date": "2026-06-10"
     }
   ]
 }
