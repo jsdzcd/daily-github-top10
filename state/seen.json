@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Michaelliv/pi-dynamic-workflows",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "2aronS/Duel-Agents",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "Signal-Trade-Core/weather-prediction-bot",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "tor-browsers/tor-browser",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "Beam-NG-Drive/BeamMP",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "malk190/Romestead-Game-Release",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "Jadoox3/Mina-The-Hollower-Release",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "anthropic-claude-code-ai/free-claude-code-ai-desktop-app",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "Polymarket-DevRel/polymarket-devrel",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "PolyMomentum-Labs/.github",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "avelino/awesome-go",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "anthropics/skills",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "open-webui/open-webui",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "shadcn-ui/ui",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "rustdesk/rustdesk",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "mrdoob/three.js",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "Michaelliv/pi-dynamic-workflows",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "2aronS/Duel-Agents",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "Signal-Trade-Core/weather-prediction-bot",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "hydra-node/polymarket-weather-bot",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "modelstudioai/cli",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "bunnyos/base-agent",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "metavault-fi/solana-pumpfun-bundler",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "ATOM00blue/machine-learning-library",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "openfi-dao/kalshi-trading-bot",
-      "date": "2026-05-28"
-    },
-    {
-      "name": "Sophomoresty/bpc-fetch",
-      "date": "2026-05-28"
-    },
-    {
       "name": "bonus-2026/crypto-casino-bonus",
       "date": "2026-05-29"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Open-Builders/pumpfun-bundler-pump.fun-bundler-solana-token-bundler-bot",
       "date": "2026-06-10"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "skydoves/compose-nav-graph",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "LearnPrompt/luban-skill",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "synacktiv/DCOMIllusionist",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "baibanbao/x-made-easy-skill",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "lenucksi/aur-malware-check",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "zhengdian1/InterleaveThinker",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "joeseesun/qiaomu-ai-prd",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "recursive-org/first-steps-toward-automated-ai-research",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "pseudoku/Kotinos",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "avelino/awesome-go",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "mrdoob/three.js",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "zhengdian1/InterleaveThinker",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "joeseesun/qiaomu-ai-prd",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "recursive-org/first-steps-toward-automated-ai-research",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "TestSprite/testsprite-cli",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "Vverity/InpaintTranslator-Edge-Chrome",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "Sliverkiss/mimocode2api",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "liyupi/zhuanglema",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "desktop-hermes/hermes-agent-desktop",
+      "date": "2026-06-11"
+    },
+    {
+      "name": "zhinianboke/pdd-auto-reply",
+      "date": "2026-06-11"
     }
   ]
 }
