@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "b-nnett/goose",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "VAST-AI-Research/TripoSplat",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "tiantianGPU/reg-factory",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "krispuckett/SwiftUIShaders",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "Fullive-AI/Anima",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "0xABCD01/CVE-2026-41089",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "870238472001/Canva-Pro-Crack",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "S-Sigdel/vimhjkl",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "Ching0346mi7/Flash-USDT-Sender",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "Chalarangelo/30-seconds-of-code",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "VAST-AI-Research/TripoSplat",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "tiantianGPU/reg-factory",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "Fullive-AI/Anima",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "0xABCD01/CVE-2026-41089",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "S-Sigdel/vimhjkl",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "Ching0346mi7/Flash-USDT-Sender",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "tylerLiCodes/Flyguard",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "ANGJustinl/adb-gopay",
-      "date": "2026-06-01"
-    },
-    {
-      "name": "pontusab/message-ui",
-      "date": "2026-06-01"
-    },
-    {
       "name": "cpaczek/skylight",
       "date": "2026-06-02"
     },
@@ -1679,6 +1559,110 @@
     {
       "name": "vitaliikapliuk/modelharness",
       "date": "2026-06-14"
+    },
+    {
+      "name": "dongshuyan/compass-skills",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "Jabo1209/CC-Gen-Checker",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "Liunian06/ko-lesson",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "FeijiangHan/PaperForge",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "shreyashankar/plain-writing-skill",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "HuolalaTech/huolala-figma-mcp",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "nico81/iContainer",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "mohammed-sufiyan189/GTA-V-Panel",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "cooper238719831-glitch/CCL-Latest",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "TFommy/CapCut-Pro-26",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "Chalarangelo/30-seconds-of-code",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "dongshuyan/compass-skills",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "HuolalaTech/huolala-figma-mcp",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "Lekien082/AI-Photo-Background-Remover",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "sumawan-bmkg/Vortex-Luna-2",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "joeseesun/qiaomu-app-review-insights",
+      "date": "2026-06-15"
+    },
+    {
+      "name": "renee-jia/scholar-loop",
+      "date": "2026-06-15"
     }
   ]
 }
