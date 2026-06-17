@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "cpaczek/skylight",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "SenhorH/tab-labeler",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "jd-opensource/JoyAI-Echo",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "ni5arga/deanonymizer",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "torvalds/ScrollWheel",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "zonghaoyuan/infiplot",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "Soul-AILab/SoulX-Transcriber",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "Albert-Weasker/niubi_guard",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "enderzcx/pi-docs-playbook",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "sautrikroy17/DSA-Interview-Playbook",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "microsoft/TypeScript",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "cpaczek/skylight",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "SenhorH/tab-labeler",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "jd-opensource/JoyAI-Echo",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "ni5arga/deanonymizer",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "zonghaoyuan/infiplot",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "Soul-AILab/SoulX-Transcriber",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "Albert-Weasker/niubi_guard",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "openai/role-specific-plugins",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "mrdoob/draco.js",
-      "date": "2026-06-02"
-    },
-    {
-      "name": "TheStageAI/edge-lm",
-      "date": "2026-06-02"
-    },
-    {
       "name": "tastyeffectco/sandboxes",
       "date": "2026-06-03"
     },
@@ -1663,6 +1543,126 @@
     {
       "name": "renee-jia/scholar-loop",
       "date": "2026-06-15"
+    },
+    {
+      "name": "Plaer1/junction",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "vercel/eve",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "ApothecarySeize/Maya-2026-Animation-Workflow",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "rebel0789/codexpro",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "Tyxy-R/codex-referral-risk-research",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "boogu-project/Boogu-Image",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "cryingcheems/codex-team-oauth",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "dososo/chinese-traditional-patterns",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "halfof8/patterngen-oss",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "macton/differentiable-collisions-optc",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "github/spec-kit",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "Plaer1/junction",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "vercel/eve",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "rebel0789/codexpro",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "Tyxy-R/codex-referral-risk-research",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "boogu-project/Boogu-Image",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "cryingcheems/codex-team-oauth",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "halfof8/patterngen-oss",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "yolfinance/yolfi-agent",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "aresyn/codex-control-plane-mcp",
+      "date": "2026-06-16"
+    },
+    {
+      "name": "MichalZaniewicz/esphome-guition-jc3636k718c-va",
+      "date": "2026-06-16"
     }
   ]
 }
