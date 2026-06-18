@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "tastyeffectco/sandboxes",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "GalaxyGeneralRobotics/Humanoid-GPT",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "Jasionf/smart-home-button",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "boona13/glb-shrink",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "Mr-Un1k0d3r/AzureRedOps",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "jeff141/meatshell",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "Vkestsu/Adopt-Me-Script",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "forter/agentic-readiness-guide",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "punk2898/wechat-group-stats",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "boona13/sprite-lab",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "Significant-Gravitas/AutoGPT",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "clash-verge-rev/clash-verge-rev",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "tastyeffectco/sandboxes",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "GalaxyGeneralRobotics/Humanoid-GPT",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "boona13/glb-shrink",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "Mr-Un1k0d3r/AzureRedOps",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "forter/agentic-readiness-guide",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "punk2898/wechat-group-stats",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "boona13/sprite-lab",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "xevrion-v2/agent-playground",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "razr001/align-dev",
-      "date": "2026-06-03"
-    },
-    {
-      "name": "Speeduocupola/tg-ws-proxy",
-      "date": "2026-06-03"
-    },
-    {
       "name": "Jane-xiaoer/xiaoer-videolab",
       "date": "2026-06-04"
     },
@@ -1663,6 +1543,126 @@
     {
       "name": "MichalZaniewicz/esphome-guition-jc3636k718c-va",
       "date": "2026-06-16"
+    },
+    {
+      "name": "MstKail/polymarket-trading-bot-services-polyedge365",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "nnecrkvenuOX/formcms",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "ReulgeApmpetty0O/Back-End-Developer-Interview-Questions",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "kelleylenc/Seed-Generator",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "world-action-models/awesome-world-action-models",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "hbddevos/PumpFun-Trainer_V1",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "alkhudarigroupuae/PumpFun-Trainer_V1",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "LING71671/open-reverselab",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "Ar9av/gemini-nano-chrome",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "gakiyukr/Codex_team_auto",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "clash-verge-rev/clash-verge-rev",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "kelleylenc/Seed-Generator",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "hbddevos/PumpFun-Trainer_V1",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "alkhudarigroupuae/PumpFun-Trainer_V1",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "LING71671/open-reverselab",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "Ar9av/gemini-nano-chrome",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "gakiyukr/Codex_team_auto",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "Verdi38/Silent-Crypto-Miner",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "darialebedev8/Crypto-Clipper",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "yeet-src/httpinspect",
+      "date": "2026-06-17"
+    },
+    {
+      "name": "paid-tw/einvoice",
+      "date": "2026-06-17"
     }
   ]
 }
