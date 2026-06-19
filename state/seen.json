@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Jane-xiaoer/xiaoer-videolab",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "CWS6206/ai-coding-starter-kit",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "wy51ai/edulab",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "zenhosta/9drive",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "cellebrite-labs/ghidra-rpc",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "FengZi1221/proxy-installer",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "mikubaka88/CCFA-Skills",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "best-spicy-ai/ai-naughty-tools",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "marcj/papernews",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "Forlives/21-day-self-interview",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "microsoft/generative-ai-for-beginners",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "Jane-xiaoer/xiaoer-videolab",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "zenhosta/9drive",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "cellebrite-labs/ghidra-rpc",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "FengZi1221/proxy-installer",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "marcj/papernews",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "Forlives/21-day-self-interview",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "diendh/zca-bridge",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "pontusab/behindthecode",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "NetworkSystemMound/blooket-bot",
-      "date": "2026-06-04"
-    },
-    {
-      "name": "nv-tlabs/ArtiFixer",
-      "date": "2026-06-04"
-    },
-    {
       "name": "lbq110/weread-exporter",
       "date": "2026-06-05"
     },
@@ -1663,6 +1543,118 @@
     {
       "name": "paid-tw/einvoice",
       "date": "2026-06-17"
+    },
+    {
+      "name": "MstKail/wc2026-crypto-sportsbook",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "gasguardianarouse/SketchUp-Pro-2026",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "KeeperDefine/ExitLag-2026",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "ManacleBat38/QuickBooks-Desktop-2026",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "BanEngineerLabel/Malwarebytes-Premium-2026",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "ProsecutorLadle/Tenorshare-ReiBoot-2026",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "Pillartatrough/Acronis-True-Image-2026",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "ComponentGlazier/NordVPN-2026",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "RiverPremierCupola/Ableton-Live-2026",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "ScoutKhanStack/Microsoft-Word-2026",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "MstKail/wc2026-crypto-sportsbook",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "flatkey-ai/awesome-images",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "EstebanGitPro/Gothic1Remake_Trainer_v1",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "EstebanGitPro/Gothic1Remake_Trainer",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "Schmobi85/Gothic1Remake_Trainer",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "Schmobi85/Gothic1Remake_Trainer_v1",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "hbddevos/PumpFun-Trainer_V1",
+      "date": "2026-06-18"
+    },
+    {
+      "name": "alkhudarigroupuae/PumpFun-Trainer_V1",
+      "date": "2026-06-18"
     }
   ]
 }
