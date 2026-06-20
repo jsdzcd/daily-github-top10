@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "lbq110/weread-exporter",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "hoolulu/deep-research",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "iampedii/WhiteDNS-Wizard",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "KRYU2002/Gothic-1-Remake-Release",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "iliams2k1/tomodachi-pc",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "chaseai-yt/grill-me-codex",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "LeoLope-z/CrosshairX",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "DEV-krokodile/auto",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "elder-plinius/ENTHEA",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "Aluccard992ad/twitchdropminer-desktop-setup",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "microsoft/vscode",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "lbq110/weread-exporter",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "hoolulu/deep-research",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "iampedii/WhiteDNS-Wizard",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "yuzhworkhard-wq/image-to-code",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "zengxiao-he/tessera",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "FerroxLabs/wayland",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "TryHarder-L/NiniMenu",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "Forsy-AI/forsy-trace-skill",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "meishiwhy/Literature-Mind",
-      "date": "2026-06-05"
-    },
-    {
-      "name": "trynullsec/nullsec-s1-zk",
-      "date": "2026-06-05"
-    },
-    {
       "name": "Parcle-AI/parcle-memory",
       "date": "2026-06-06"
     },
@@ -1655,6 +1535,126 @@
     {
       "name": "alkhudarigroupuae/PumpFun-Trainer_V1",
       "date": "2026-06-18"
+    },
+    {
+      "name": "Forsy-AI/agent-apprenticeship",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "CWS6206/EasySSDTester",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "aidenybai/cnfast",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "dirocco55freeman/lsfg-git-3",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "Iwancof/HackRFOneSegTuner",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "qumariswinchester3/fortnite-version-26",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "mainkrafter-0224/Samsung-Magician-Driver",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "south-lopd/sharex-screen-V26",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "hotzarzimbade/activator-windows-10-11",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "dreamsmoke-qwenty/Winrar-FullVersion",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "microsoft/vscode",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "axios/axios",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "denoland/deno",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "aidenybai/cnfast",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "Iwancof/HackRFOneSegTuner",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "lucasfishh/vanta",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "itssosunny/im-not-strange-ai",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "lyra81604/zhengxi-views",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "eooce/transfer-api",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "alvinunreal/lazyskills",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "joeseesun/qiaomu-llm-mcp",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "zyn26/minimax-m3-desktop-app-free-api",
+      "date": "2026-06-19"
+    },
+    {
+      "name": "sumitgautam0101/Windows-Copilot-API",
+      "date": "2026-06-19"
     }
   ]
 }
