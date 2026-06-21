@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Parcle-AI/parcle-memory",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "JimLiu/baoyu-design",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "amElnagdy/guard-skills",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "ShoreAbleCorrect/Canva-Pro-Desktop-Windows",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "tryproduck/produck-oss",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "12britz/awesome-free-models",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "Phoenixx1202/Spectrum-Library",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "lopacachonda0891-art/honkaistarrailexternalcheatmenu-overlay",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "Shahamat21201839/sims4-dls-unlocker-desktop-2",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "beijingcao/binance-deribit-btc",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "yt-dlp/yt-dlp",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "JimLiu/baoyu-design",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "amElnagdy/guard-skills",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "beijingcao/binance-deribit-btc",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "trueugenee/ai-linux-webapp-wrapper",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "ForgetMeAI/FreeDeepseekAPI",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "realrenatto/take-over",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "Tansuo2021/ADtoKeil",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "ridgekhanice/undress-ai-image-video-generator",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "xiaorenwu234/faasflow",
-      "date": "2026-06-06"
-    },
-    {
-      "name": "CCpt5/ComfyUI-BerniniStudio",
-      "date": "2026-06-06"
-    },
-    {
       "name": "NoopApp/noop",
       "date": "2026-06-07"
     },
@@ -1655,6 +1535,126 @@
     {
       "name": "sumitgautam0101/Windows-Copilot-API",
       "date": "2026-06-19"
+    },
+    {
+      "name": "clent267/FUNCAPTCHAV3",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "overflowy/make-look-scanned",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "mallexibra-dev/clipforge",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "qwer-xyz/incudal",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "DatanoiseTV/ember-hackernews",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "Fixiied/Frbrik",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "binghe1980/AI-Canvas",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "WilonityProject/Wilonity",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "PieroSierra/SecondBrain",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "yo-WASSUP/Good-Badminton",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "yt-dlp/yt-dlp",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "google-gemini/gemini-cli",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "supabase/supabase",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "immich-app/immich",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "clent267/FUNCAPTCHAV3",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "overflowy/make-look-scanned",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "mallexibra-dev/clipforge",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "qwer-xyz/incudal",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "binghe1980/AI-Canvas",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "PieroSierra/SecondBrain",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "yo-WASSUP/Good-Badminton",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "HMDSimDev/heartmorrow",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "tianjiangqiji/nova-image-studio",
+      "date": "2026-06-20"
+    },
+    {
+      "name": "lishuangqiang/backend-agent-resume-scout",
+      "date": "2026-06-20"
     }
   ]
 }
