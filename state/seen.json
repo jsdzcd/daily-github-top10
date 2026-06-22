@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "NoopApp/noop",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "GordenSun/GordenSuperPPTSkills",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "JFGAtlas/aethergate-pro",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "vorpus/performativeUI",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "TwoSevenOneT/EDRChoker",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "chengtx007/fuckoai",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "supperzl/ita",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "FengZi1221/grok-reg-tool",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "xiaohuailabs/xiaohu-video-translate",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "jwangkun/claude-for-financial-services-cn",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "ultraworkers/claw-code",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "n8n-io/n8n",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "facebook/react",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "GordenSun/GordenSuperPPTSkills",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "JFGAtlas/aethergate-pro",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "vorpus/performativeUI",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "chengtx007/fuckoai",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "supperzl/ita",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "FengZi1221/grok-reg-tool",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "xiaohuailabs/xiaohu-video-translate",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "jwangkun/claude-for-financial-services-cn",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "Tools2U/AI-Website-Audit-CLI",
-      "date": "2026-06-07"
-    },
-    {
-      "name": "markrussinovich/LinkedIn-Formatter",
-      "date": "2026-06-07"
-    },
-    {
       "name": "apple/coreai-models",
       "date": "2026-06-08"
     },
@@ -1655,6 +1535,126 @@
     {
       "name": "lishuangqiang/backend-agent-resume-scout",
       "date": "2026-06-20"
+    },
+    {
+      "name": "kanavtwtgg/birds.cafe",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "HKUDS/AgentSpace",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "stoneclerkrevitalize/Lossless-Scaling-Download-2026",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "SarkAzia/baiyueguang-learning-skill",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "Mguelfedrigo/Jenny-Mod-Jar",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "rithwiksm77-wq/Spoof-Engine",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "yashaswini589/IDM-Manager-LifeTime",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "Combat-ankit-fit/fortnite-panel-latest",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "anfalalsarraf-cmyk/meccha-chameleon-project",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "Mitalii-2403/Lossless-Scaling-LatestVersion-2026",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "kanavtwtgg/birds.cafe",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "HKUDS/AgentSpace",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "Jackchen-code/007-First-Light-Trainer-And-Optimizer",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "muneeb1097m/007-First-Light-Trainer-And-Optimizer",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "Harsukh21/007-First-Light-Trainer-And-Optimizer",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "Zkarape/007-First-Light-Trainer-And-Optimizer",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "Jackchen-code/Arbitrum-Arbitrage-Bot-2026",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "kewayne/007-First-Light-Trainer-And-Optimizer",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "seh4835/Arbitrum-Arbitrage-Bot-2026",
+      "date": "2026-06-21"
+    },
+    {
+      "name": "nivednaveen123/007-First-Light-Trainer-And-Optimizer",
+      "date": "2026-06-21"
     }
   ]
 }
