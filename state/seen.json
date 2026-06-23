@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "apple/coreai-models",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "Tencent-Hunyuan/UniRL",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "jmmy9609-design/gpt-pp",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "secret-tools/secret-tool",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "NuvioMedia/NuvioDesktop",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "mythicguruforge/CapC-Pro",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "ai-best-git-apps/AI-Best-IMG-VID-Gen",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "valkor-ai/loom",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "amap-cvlab/ABot-Earth-0.5",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "mailfrsh409330/ios-jailbreak-software",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "flutter/flutter",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "twbs/bootstrap",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "ollama/ollama",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "f/prompts.chat",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "huggingface/transformers",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "langflow-ai/langflow",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "vercel/next.js",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "react/react-native",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "apple/coreai-models",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "Tencent-Hunyuan/UniRL",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "jmmy9609-design/gpt-pp",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "valkor-ai/loom",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "Ryderwe/Sollin-Music-Desktop",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "Ye-yellow/ByteDanceliveauctioni",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "canwhite/MicroRAG",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "minjie05/KnowBase_AI",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "xuanyuanzhifeng/ai-video-agent",
-      "date": "2026-06-08"
-    },
-    {
-      "name": "borhen68/TokenTamer",
-      "date": "2026-06-08"
-    },
-    {
       "name": "MSNightmare/RoguePlanet",
       "date": "2026-06-09"
     },
@@ -1655,6 +1535,126 @@
     {
       "name": "nivednaveen123/007-First-Light-Trainer-And-Optimizer",
       "date": "2026-06-21"
+    },
+    {
+      "name": "bozhouDev/codex-orange-book",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "samasante/liquid-glass",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "goehou/tabbit-toy",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "BohemiaInteractive/CWR",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "ma7mod7/Paralives-Ultimate-Trainer-2026_v_2",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "we9lii/Paralives-Ultimate-Trainer-2026_v_2",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "we9lii/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "we9lii/007-First-Light-Trainer-And-Optimizer_v_2",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "ma7mod7/007-First-Light-Trainer-And-Optimizer_v_2",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "flutter/flutter",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "ollama/ollama",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "twbs/bootstrap",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "f/prompts.chat",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "huggingface/transformers",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "Genymobile/scrcpy",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "vercel/next.js",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "react/react-native",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "samasante/liquid-glass",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "goehou/tabbit-toy",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "ma7mod7/Paralives-Ultimate-Trainer-2026_v_2",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "we9lii/Paralives-Ultimate-Trainer-2026_v_2",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "we9lii/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "we9lii/007-First-Light-Trainer-And-Optimizer_v_2",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "ma7mod7/007-First-Light-Trainer-And-Optimizer_v_2",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "Danu-Nur/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
+      "date": "2026-06-22"
+    },
+    {
+      "name": "Johell1NS/browser-search",
+      "date": "2026-06-22"
     }
   ]
 }
