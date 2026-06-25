@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "MSNightmare/GreatXML",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "SkyBlue997/enableMacosAI",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "BuilderIO/skills",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "taisly/agent",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "MiniMax-AI/MSA",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "orange2ai/orange-line-illustration",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "inbrainfun/inbrain",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "oomol-lab/LockIME",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "OpenSharing-IO/OpenSharing",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "cocktailpeanut/image-to-prompt",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "massgravel/Microsoft-Activation-Scripts",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "electron/electron",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "nodejs/node",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "rust-lang/rust",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "BuilderIO/skills",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "taisly/agent",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "MiniMax-AI/MSA",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "inbrainfun/inbrain",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "cocktailpeanut/image-to-prompt",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "joeseesun/qiaomu-goal-meta-skill",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "kaor333/Exodus-Fake-Balance",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "vinayaklatthe/microsoft-security-skills",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "rbrown101010/rilable",
-      "date": "2026-06-10"
-    },
-    {
-      "name": "Open-Builders/pumpfun-bundler-pump.fun-bundler-solana-token-bundler-bot",
-      "date": "2026-06-10"
-    },
-    {
       "name": "DietrichGebert/ponytail",
       "date": "2026-06-11"
     },
@@ -1655,6 +1535,126 @@
     {
       "name": "evo-design/proto-language",
       "date": "2026-06-23"
+    },
+    {
+      "name": "PMTraderAdam/pm-adam-trader",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "benlamiro/ShipGenAI",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "J-jaeyoung/bad-epoll",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "amplifthq/opentag",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "samuto69/claude-ai-desktop-app",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "aleishawei1983/Seed-Generator",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "killernay/HearYourVOICE",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "ZeKaiNie/universal-examprep-skill",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "FishCodeTech/muteki",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "GraeLefix/GITVERSE",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "electron/electron",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "nodejs/node",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "PMTraderAdam/pm-adam-trader",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "benlamiro/ShipGenAI",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "amplifthq/opentag",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "samuto69/claude-ai-desktop-app",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "aleishawei1983/Seed-Generator",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "killernay/HearYourVOICE",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "ZeKaiNie/universal-examprep-skill",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "FishCodeTech/muteki",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "GraeLefix/GITVERSE",
+      "date": "2026-06-24"
+    },
+    {
+      "name": "HKUST-C4G/DomainShuttle",
+      "date": "2026-06-24"
     }
   ]
 }
