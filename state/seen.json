@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "DietrichGebert/ponytail",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "skydoves/compose-nav-graph",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "LearnPrompt/luban-skill",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "synacktiv/DCOMIllusionist",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "baibanbao/x-made-easy-skill",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "lenucksi/aur-malware-check",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "zhengdian1/InterleaveThinker",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "joeseesun/qiaomu-ai-prd",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "recursive-org/first-steps-toward-automated-ai-research",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "pseudoku/Kotinos",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "avelino/awesome-go",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "open-webui/open-webui",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "shadcn-ui/ui",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "rustdesk/rustdesk",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "mrdoob/three.js",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "zhengdian1/InterleaveThinker",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "joeseesun/qiaomu-ai-prd",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "recursive-org/first-steps-toward-automated-ai-research",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "TestSprite/testsprite-cli",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "Vverity/InpaintTranslator-Edge-Chrome",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "Sliverkiss/mimocode2api",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "liyupi/zhuanglema",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "desktop-hermes/hermes-agent-desktop",
-      "date": "2026-06-11"
-    },
-    {
-      "name": "zhinianboke/pdd-auto-reply",
-      "date": "2026-06-11"
-    },
-    {
       "name": "orange2ai/renwei-writing",
       "date": "2026-06-12"
     },
@@ -1655,6 +1535,126 @@
     {
       "name": "HKUST-C4G/DomainShuttle",
       "date": "2026-06-24"
+    },
+    {
+      "name": "winsznx/theeleven",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "maria-rcks/dinorip",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "Pluviobyte/video-production-skills",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "xiaohuailabs/xiaohu-ip-studio",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "amney1992/Tech-Interview-University",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "Cuimao777/eterna-image2image-skill",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "KBRmau/linkedin-profile-optimizer",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "mnapoli/vibephp",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "xxniiinxx/coinflip-casino",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "ScoTtOkeLler/Crypto-Recovery",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "ossu/computer-science",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "avelino/awesome-go",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "winsznx/theeleven",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "maria-rcks/dinorip",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "Pluviobyte/video-production-skills",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "KBRmau/linkedin-profile-optimizer",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "xxniiinxx/coinflip-casino",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "ScoTtOkeLler/Crypto-Recovery",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "SlowFencerBushing/TG-WS-PROXY",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "rit3zh/expo-dynamic-toast",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "cclank/lanshu-animated-architecture-diagram",
+      "date": "2026-06-25"
+    },
+    {
+      "name": "donoaccestag/boilerplates",
+      "date": "2026-06-25"
     }
   ]
 }
