@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "orange2ai/renwei-writing",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "DanMcInerney/architect-loop",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "eli-labz/Third-Eye",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "mrtooher/fable-mode",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "bingook/bingo",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "nolangz/pixel2motion",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "SunJaycy/GoldenEye-Recomp",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "gsgpkazqyx/zapret-vpn-russia",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "buynao/aipath",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "blader/arbitrage",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "godotengine/godot",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "eli-labz/Third-Eye",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "bingook/bingo",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "nolangz/pixel2motion",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "buynao/aipath",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "newideas99/open-dungeon",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "m1ckc3s/nullframe",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "Jia-Ethan/github-solution-research",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "ABeehive/Annado",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "Braffolk/fable5-world-demo",
-      "date": "2026-06-12"
-    },
-    {
-      "name": "PentHertz/grimoire",
-      "date": "2026-06-12"
-    },
-    {
       "name": "EEliberto/IPA-Download",
       "date": "2026-06-13"
     },
@@ -1655,6 +1535,126 @@
     {
       "name": "donoaccestag/boilerplates",
       "date": "2026-06-25"
+    },
+    {
+      "name": "deepseek-ai/DeepSpec",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "playPlumtown/Plumtown",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "ivorpad/mercadona-cli",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "FossPrime/Steam-Controller-Auto-Charge",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "zanetanasta/Seed-Generator",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "CopilotKit/OpenTag",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "eli-labz/Godcoder",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "Lutschippi/DEHUB",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "Vanszs/qwencloud-generator",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "ValeriaVoronin11/Exodus-Fake-Balance",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "anthropics/skills",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "rust-lang/rust",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "mrdoob/three.js",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "godotengine/godot",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "deepseek-ai/DeepSpec",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "playPlumtown/Plumtown",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "ivorpad/mercadona-cli",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "zanetanasta/Seed-Generator",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "CopilotKit/OpenTag",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "eli-labz/Godcoder",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "Lutschippi/DEHUB",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "Vanszs/qwencloud-generator",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "ValeriaVoronin11/Exodus-Fake-Balance",
+      "date": "2026-06-26"
+    },
+    {
+      "name": "Josipaka2000/Flash-USDT-Tool",
+      "date": "2026-06-26"
     }
   ]
 }
