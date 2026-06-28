@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "EEliberto/IPA-Download",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "royalbhati/sqltoerdiagram",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "bjarneo/kli",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "duolahypercho/fusion-fable",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "privatenumber/mac-ocr",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "Vanquishervohonor25/Zapret-4.0",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "kernelstub/Ferrum",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "rotejin/tomari-guruguru",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "fivetaku/fablize",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "sgup/ai",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "trekhleb/javascript-algorithms",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "garrytan/gstack",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "2dust/v2rayN",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "tauri-apps/tauri",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "royalbhati/sqltoerdiagram",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "bjarneo/kli",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "Vanquishervohonor25/Zapret-4.0",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "kernelstub/Ferrum",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "rotejin/tomari-guruguru",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "alicankiraz1/CodexQB",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "ninaantonov/Flash-USDT-Sender",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "Poorna-Repos/opus-fable-mode",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "tamnd/kage",
-      "date": "2026-06-13"
-    },
-    {
-      "name": "wukongdaily/luci-app-run",
-      "date": "2026-06-13"
-    },
-    {
       "name": "alchaincyf/loop-engineering-orange-book",
       "date": "2026-06-14"
     },
@@ -1655,6 +1535,126 @@
     {
       "name": "Josipaka2000/Flash-USDT-Tool",
       "date": "2026-06-26"
+    },
+    {
+      "name": "downclash/clash",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "AdilMir1433/DBD-AutoGrind-Trainer-2026",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Extreme",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Extreme",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "XFaltixX/DBD-AutoGrind-Trainer-2026-Mega",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "XFaltixX/DBD-AutoGrind-Trainer-2026",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "Karan10010/DBD-AutoGrind-Trainer-2026-Pro",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "Karan10010/DBD-AutoGrind-Trainer-2026",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "Neverforgetme/DBD-AutoGrind-Trainer-2026-Elite",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Plus",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "2dust/v2rayN",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "tauri-apps/tauri",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "downclash/clash",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "AdilMir1433/DBD-AutoGrind-Trainer-2026",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Extreme",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Extreme",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "XFaltixX/DBD-AutoGrind-Trainer-2026-Mega",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "XFaltixX/DBD-AutoGrind-Trainer-2026",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "Karan10010/DBD-AutoGrind-Trainer-2026-Pro",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "Karan10010/DBD-AutoGrind-Trainer-2026",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "Neverforgetme/DBD-AutoGrind-Trainer-2026-Elite",
+      "date": "2026-06-27"
+    },
+    {
+      "name": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Plus",
+      "date": "2026-06-27"
     }
   ]
 }
