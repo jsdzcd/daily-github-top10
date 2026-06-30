@@ -1,110 +1,6 @@
 {
   "items": [
     {
-      "name": "dongshuyan/compass-skills",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "Jabo1209/CC-Gen-Checker",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "Liunian06/ko-lesson",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "FeijiangHan/PaperForge",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "shreyashankar/plain-writing-skill",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "HuolalaTech/huolala-figma-mcp",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "nico81/iContainer",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "mohammed-sufiyan189/GTA-V-Panel",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "cooper238719831-glitch/CCL-Latest",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "TFommy/CapCut-Pro-26",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "Chalarangelo/30-seconds-of-code",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "dongshuyan/compass-skills",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "HuolalaTech/huolala-figma-mcp",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "Lekien082/AI-Photo-Background-Remover",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "sumawan-bmkg/Vortex-Luna-2",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "joeseesun/qiaomu-app-review-insights",
-      "date": "2026-06-15"
-    },
-    {
-      "name": "renee-jia/scholar-loop",
-      "date": "2026-06-15"
-    },
-    {
       "name": "Plaer1/junction",
       "date": "2026-06-16"
     },
@@ -1655,6 +1551,106 @@
     {
       "name": "NagaaSaketh/Pet-Simulator-99-Auto-Farm-Trainer-2026-Nitro",
       "date": "2026-06-28"
+    },
+    {
+      "name": "TianhangZhuzth/Fundamental-Ava",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "frankchiu-dev/claude-codex-usage-dashboard",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "yashkhatri45/Meccha-Chameleon-Trainer-Mod-Overlay",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "meituan-longcat/LongCat-2.0",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "WidthEvokerKiln/Warzone-Vision",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "tony-devb/seed-phrase-generator",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "Sophomoresty/gemini-search-mcp",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "mcosic96/Solara-Execute-New-Update",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "GabrielaTqm/Nezur-Execute-New-Update",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "GiridharPilli0/Valex-Execute-New-Update",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "TianhangZhuzth/Fundamental-Ava",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "frankchiu-dev/claude-codex-usage-dashboard",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "yashkhatri45/Meccha-Chameleon-Trainer-Mod-Overlay",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "WidthEvokerKiln/Warzone-Vision",
+      "date": "2026-06-29"
+    },
+    {
+      "name": "Sophomoresty/gemini-search-mcp",
+      "date": "2026-06-29"
     }
   ]
 }
