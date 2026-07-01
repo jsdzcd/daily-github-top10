@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Plaer1/junction",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "vercel/eve",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "ApothecarySeize/Maya-2026-Animation-Workflow",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "rebel0789/codexpro",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "Tyxy-R/codex-referral-risk-research",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "boogu-project/Boogu-Image",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "cryingcheems/codex-team-oauth",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "dososo/chinese-traditional-patterns",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "halfof8/patterngen-oss",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "macton/differentiable-collisions-optc",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "github/spec-kit",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "Plaer1/junction",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "vercel/eve",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "rebel0789/codexpro",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "Tyxy-R/codex-referral-risk-research",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "boogu-project/Boogu-Image",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "cryingcheems/codex-team-oauth",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "halfof8/patterngen-oss",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "yolfinance/yolfi-agent",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "aresyn/codex-control-plane-mcp",
-      "date": "2026-06-16"
-    },
-    {
-      "name": "MichalZaniewicz/esphome-guition-jc3636k718c-va",
-      "date": "2026-06-16"
-    },
-    {
       "name": "MstKail/polymarket-trading-bot-services-polyedge365",
       "date": "2026-06-17"
     },
@@ -1651,6 +1531,126 @@
     {
       "name": "Sophomoresty/gemini-search-mcp",
       "date": "2026-06-29"
+    },
+    {
+      "name": "mekos2772/ios-location-spoofer",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "zhujingqi/Twitter_Engagement_Tool",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "StephanoEscobarLoayza/Spotify_Playlist_Booster",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "Zeeshan2899/System_Backup___Restore",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "SrSCK/Virtual_Machine_Manager",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "AnonymousDev1494/System_Information_Viewer",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "Fdani007/PUBG_Battlegrounds_ESP___Aimbot",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "zaidoonkamil/TikTok_Follower_Farm",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "zhaixiansen1023-cpu/QR_Code_Scanner",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "tangjiali/The_Witcher_3_God_Mode___Unlimited_Gold",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "mekos2772/ios-location-spoofer",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "zhujingqi/Twitter_Engagement_Tool",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "StephanoEscobarLoayza/Spotify_Playlist_Booster",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "Zeeshan2899/System_Backup___Restore",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "SrSCK/Virtual_Machine_Manager",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "AnonymousDev1494/System_Information_Viewer",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "Fdani007/PUBG_Battlegrounds_ESP___Aimbot",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "zaidoonkamil/TikTok_Follower_Farm",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "zhaixiansen1023-cpu/QR_Code_Scanner",
+      "date": "2026-06-30"
+    },
+    {
+      "name": "paulaengel/Telegram_Channel_Manager",
+      "date": "2026-06-30"
     }
   ]
 }
