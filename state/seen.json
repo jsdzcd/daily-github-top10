@@ -1,118 +1,6 @@
 {
   "items": [
     {
-      "name": "MstKail/wc2026-crypto-sportsbook",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "gasguardianarouse/SketchUp-Pro-2026",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "KeeperDefine/ExitLag-2026",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "ManacleBat38/QuickBooks-Desktop-2026",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "BanEngineerLabel/Malwarebytes-Premium-2026",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "ProsecutorLadle/Tenorshare-ReiBoot-2026",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "Pillartatrough/Acronis-True-Image-2026",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "ComponentGlazier/NordVPN-2026",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "RiverPremierCupola/Ableton-Live-2026",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "ScoutKhanStack/Microsoft-Word-2026",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "TheAlgorithms/Python",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "microsoft/generative-ai-for-beginners",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "MstKail/wc2026-crypto-sportsbook",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "flatkey-ai/awesome-images",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "EstebanGitPro/Gothic1Remake_Trainer_v1",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "EstebanGitPro/Gothic1Remake_Trainer",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "Schmobi85/Gothic1Remake_Trainer",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "Schmobi85/Gothic1Remake_Trainer_v1",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "hbddevos/PumpFun-Trainer_V1",
-      "date": "2026-06-18"
-    },
-    {
-      "name": "alkhudarigroupuae/PumpFun-Trainer_V1",
-      "date": "2026-06-18"
-    },
-    {
       "name": "Forsy-AI/agent-apprenticeship",
       "date": "2026-06-19"
     },
@@ -1651,6 +1539,126 @@
     {
       "name": "fadilr8/Bluesky_Auto-Reply___Like_Bot",
       "date": "2026-07-01"
+    },
+    {
+      "name": "xuchonglang/investing-for-beginners",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "uzairansaruzi/hermex",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "LinXiaoTao/FuckClaude",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "frecodecasti/gem5-branchpred",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "rolekkona/bghira-bark",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "jmerelnyc/Talos",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "SuperJJ007/CSswitch",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "akihitohyh/chatgpt-register-sub2api",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "Zsun79/ConferenceWatch",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "rit3zh/expo-dynamic-tray",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "uzairansaruzi/hermex",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "rolekkona/bghira-bark",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "jmerelnyc/Talos",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "SuperJJ007/CSswitch",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "akihitohyh/chatgpt-register-sub2api",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "rit3zh/expo-dynamic-tray",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "dzhng/skills",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "lzh-phd/topic-feasibility-screener",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "adithyaakrishna/ascii-fable",
+      "date": "2026-07-02"
+    },
+    {
+      "name": "Oft3r/agentic-trading-desk",
+      "date": "2026-07-02"
     }
   ]
 }
