@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "bozhouDev/codex-orange-book",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "samasante/liquid-glass",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "goehou/tabbit-toy",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "BohemiaInteractive/CWR",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "ma7mod7/Paralives-Ultimate-Trainer-2026_v_2",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "we9lii/Paralives-Ultimate-Trainer-2026_v_2",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "we9lii/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "we9lii/007-First-Light-Trainer-And-Optimizer_v_2",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "ma7mod7/007-First-Light-Trainer-And-Optimizer_v_2",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "flutter/flutter",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "ollama/ollama",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "twbs/bootstrap",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "f/prompts.chat",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "huggingface/transformers",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "langflow-ai/langflow",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "Genymobile/scrcpy",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "vercel/next.js",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "react/react-native",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "samasante/liquid-glass",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "goehou/tabbit-toy",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "ma7mod7/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "ma7mod7/Paralives-Ultimate-Trainer-2026_v_2",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "we9lii/Paralives-Ultimate-Trainer-2026_v_2",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "we9lii/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "we9lii/007-First-Light-Trainer-And-Optimizer_v_2",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "ma7mod7/007-First-Light-Trainer-And-Optimizer_v_2",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "Danu-Nur/Resident-Evil-Requiem-Ultimate-Trainer-2026_v_2",
-      "date": "2026-06-22"
-    },
-    {
-      "name": "Johell1NS/browser-search",
-      "date": "2026-06-22"
-    },
-    {
       "name": "nova452/ComfyUI-ConditioningKrea2Rebalance",
       "date": "2026-06-23"
     },
@@ -1659,6 +1539,126 @@
     {
       "name": "Ravvioli/browsertabs-talking",
       "date": "2026-07-05"
+    },
+    {
+      "name": "Shpigford/knockoff",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "Robbyant/lingbot-vision",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "V4bel/Januscape",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "SmtimesIWndr/gdid-reversal",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "kuskhan/jetendard",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "yaojingang/TokHub",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "jiguang132/storyai-3d-director-desk",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "olemeyer/rocketplaneIO",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "shlokkhemani/rabbithole",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "pillar-labs/sail-skill",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "flutter/flutter",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "ollama/ollama",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "twbs/bootstrap",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "f/prompts.chat",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "huggingface/transformers",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "vercel/next.js",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "react/react-native",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "Shpigford/knockoff",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "Robbyant/lingbot-vision",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "kuskhan/jetendard",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "yaojingang/TokHub",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "jiguang132/storyai-3d-director-desk",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "olemeyer/rocketplaneIO",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "shlokkhemani/rabbithole",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "nexu-io/motion-anything",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "OmarH-creator/Autonomous-Forge",
+      "date": "2026-07-06"
+    },
+    {
+      "name": "palemoky/cn-check",
+      "date": "2026-07-06"
     }
   ]
 }
