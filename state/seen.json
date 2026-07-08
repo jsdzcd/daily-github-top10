@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "nova452/ComfyUI-ConditioningKrea2Rebalance",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "Yu9191/wloc",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "dama-cyber/Casting-Workflow",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "benchflow-ai/awesome-evals",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "Reyzowter/Hello-Agents",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "lightbearco/tupper",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "Simpl3x3/ESEILANE",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "MaxBelov9/Crypto-Recovery",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "sherryf71/Exodus-Fake-Balance",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "NVIDIA-BioNeMo/bionemo-agent-toolkit",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "microsoft/markitdown",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "langgenius/dify",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "mattpocock/skills",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "langchain-ai/langchain",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "microsoft/PowerToys",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "golang/go",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "kubernetes/kubernetes",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "nova452/ComfyUI-ConditioningKrea2Rebalance",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "Yu9191/wloc",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "dama-cyber/Casting-Workflow",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "Reyzowter/Hello-Agents",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "lightbearco/tupper",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "Simpl3x3/ESEILANE",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "MaxBelov9/Crypto-Recovery",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "sherryf71/Exodus-Fake-Balance",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "NVIDIA-BioNeMo/bionemo-agent-toolkit",
-      "date": "2026-06-23"
-    },
-    {
-      "name": "evo-design/proto-language",
-      "date": "2026-06-23"
-    },
-    {
       "name": "PMTraderAdam/pm-adam-trader",
       "date": "2026-06-24"
     },
@@ -1659,6 +1539,126 @@
     {
       "name": "palemoky/cn-check",
       "date": "2026-07-06"
+    },
+    {
+      "name": "op7418/guizang-material-illustration",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "Robbyant/lingbot-vla-v2",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "WeZZard/jlens-qwen36",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "xiaotianfotos/homerail",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "sunflower-of-parchman/codex-hygiene",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "CWS6206/EasyLastSkill",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "Liquid4All/antidoom",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "adriflex/autoremesher-blender-bridge",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "PitShipwrightGraph/MecchaPhantom",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "CylinderFoal/MecchaUltraCheat",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "mattpocock/skills",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "langgenius/dify",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "Genymobile/scrcpy",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "golang/go",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "op7418/guizang-material-illustration",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "Robbyant/lingbot-vla-v2",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "WeZZard/jlens-qwen36",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "xiaotianfotos/homerail",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "CWS6206/EasyLastSkill",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "Liquid4All/antidoom",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "adriflex/autoremesher-blender-bridge",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "PitShipwrightGraph/MecchaPhantom",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "CylinderFoal/MecchaUltraCheat",
+      "date": "2026-07-07"
+    },
+    {
+      "name": "PlankParakeetFoyer/Meccha-Camouflage-Pro",
+      "date": "2026-07-07"
     }
   ]
 }
