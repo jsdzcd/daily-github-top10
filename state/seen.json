@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "PMTraderAdam/pm-adam-trader",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "benlamiro/ShipGenAI",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "J-jaeyoung/bad-epoll",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "amplifthq/opentag",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "samuto69/claude-ai-desktop-app",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "aleishawei1983/Seed-Generator",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "killernay/HearYourVOICE",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "ZeKaiNie/universal-examprep-skill",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "FishCodeTech/muteki",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "GraeLefix/GITVERSE",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "codecrafters-io/build-your-own-x",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "electron/electron",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "nodejs/node",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "PMTraderAdam/pm-adam-trader",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "benlamiro/ShipGenAI",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "amplifthq/opentag",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "samuto69/claude-ai-desktop-app",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "aleishawei1983/Seed-Generator",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "killernay/HearYourVOICE",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "ZeKaiNie/universal-examprep-skill",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "FishCodeTech/muteki",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "GraeLefix/GITVERSE",
-      "date": "2026-06-24"
-    },
-    {
-      "name": "HKUST-C4G/DomainShuttle",
-      "date": "2026-06-24"
-    },
-    {
       "name": "winsznx/theeleven",
       "date": "2026-06-25"
     },
@@ -1659,6 +1539,126 @@
     {
       "name": "PlankParakeetFoyer/Meccha-Camouflage-Pro",
       "date": "2026-07-07"
+    },
+    {
+      "name": "withmarbleapp/os-taxonomy",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "Robbyant/lingbot-world-v2",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "Robbyant/lingbot-video",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "x4gKing/3x-ui-Upgrade",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "Nanako0129/pilotfish",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "Moore-developers/moore-wechat-article-downloader",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "gostonx/uninstally",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "opencoredev/login-with-chatgpt",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "DexCrancer/pm-ninesoulx",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "Alice53211/auth-codex-plugin",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "electron/electron",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "nodejs/node",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "withmarbleapp/os-taxonomy",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "Robbyant/lingbot-world-v2",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "Robbyant/lingbot-video",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "Moore-developers/moore-wechat-article-downloader",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "opencoredev/login-with-chatgpt",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "Alice53211/auth-codex-plugin",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "angieruiz17/claude-fintech-skills",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "Alice53211/arc-fintech-app",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "angieruiz17/codex-gpt-plugin",
+      "date": "2026-07-08"
+    },
+    {
+      "name": "bkingfilm/lapian-notes",
+      "date": "2026-07-08"
     }
   ]
 }
