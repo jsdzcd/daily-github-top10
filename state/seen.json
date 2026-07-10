@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "winsznx/theeleven",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "maria-rcks/dinorip",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "Pluviobyte/video-production-skills",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "xiaohuailabs/xiaohu-ip-studio",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "amney1992/Tech-Interview-University",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "Cuimao777/eterna-image2image-skill",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "KBRmau/linkedin-profile-optimizer",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "mnapoli/vibephp",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "xxniiinxx/coinflip-casino",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "ScoTtOkeLler/Crypto-Recovery",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "ossu/computer-science",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "ultraworkers/claw-code",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "avelino/awesome-go",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "open-webui/open-webui",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "shadcn-ui/ui",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "rustdesk/rustdesk",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "codecrafters-io/build-your-own-x",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "winsznx/theeleven",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "maria-rcks/dinorip",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "Pluviobyte/video-production-skills",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "KBRmau/linkedin-profile-optimizer",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "xxniiinxx/coinflip-casino",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "ScoTtOkeLler/Crypto-Recovery",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "SlowFencerBushing/TG-WS-PROXY",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "rit3zh/expo-dynamic-toast",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "cclank/lanshu-animated-architecture-diagram",
-      "date": "2026-06-25"
-    },
-    {
-      "name": "donoaccestag/boilerplates",
-      "date": "2026-06-25"
-    },
-    {
       "name": "deepseek-ai/DeepSpec",
       "date": "2026-06-26"
     },
@@ -1659,6 +1539,126 @@
     {
       "name": "bkingfilm/lapian-notes",
       "date": "2026-07-08"
+    },
+    {
+      "name": "Elias569/fintech-app",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "adamholter/hive-mind-landing-page",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "imchine/FinTech-Solution",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "KORAYTEACHER/fintech-advisor",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "KORAYTEACHER/fintech-forge",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "Elias569/fintech-dashboard",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "imchine/FinTech-Wallet",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "Litun/bloomy-linkedin-outreach",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "OpenEnvision/WorldFoundry",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "avelino/awesome-go",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "garrytan/gstack",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "Elias569/fintech-app",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "imchine/FinTech-Solution",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "KORAYTEACHER/fintech-advisor",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "KORAYTEACHER/fintech-forge",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "Elias569/fintech-dashboard",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "imchine/FinTech-Wallet",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "OpenEnvision/WorldFoundry",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "FuelMagistrateLead/photoshop-ai-smart-enhance",
+      "date": "2026-07-09"
+    },
+    {
+      "name": "SilentFleetKK/ai-market-pulse",
+      "date": "2026-07-09"
     }
   ]
 }
