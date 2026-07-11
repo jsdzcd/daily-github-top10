@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "deepseek-ai/DeepSpec",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "playPlumtown/Plumtown",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "ivorpad/mercadona-cli",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "FossPrime/Steam-Controller-Auto-Charge",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "zanetanasta/Seed-Generator",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "CopilotKit/OpenTag",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "eli-labz/Godcoder",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "Lutschippi/DEHUB",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "Vanszs/qwencloud-generator",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "ValeriaVoronin11/Exodus-Fake-Balance",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "anthropics/skills",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "rust-lang/rust",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "mrdoob/three.js",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "godotengine/godot",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "deepseek-ai/DeepSpec",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "playPlumtown/Plumtown",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "ivorpad/mercadona-cli",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "zanetanasta/Seed-Generator",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "CopilotKit/OpenTag",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "eli-labz/Godcoder",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "Lutschippi/DEHUB",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "Vanszs/qwencloud-generator",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "ValeriaVoronin11/Exodus-Fake-Balance",
-      "date": "2026-06-26"
-    },
-    {
-      "name": "Josipaka2000/Flash-USDT-Tool",
-      "date": "2026-06-26"
-    },
-    {
       "name": "downclash/clash",
       "date": "2026-06-27"
     },
@@ -1659,6 +1539,126 @@
     {
       "name": "SilentFleetKK/ai-market-pulse",
       "date": "2026-07-09"
+    },
+    {
+      "name": "yetone/kill-ai-slop",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "dongguatanglinux/grok-build-auth",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "CoscoAI/luxy-aisre",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "Jane-xiaoer/paper-collage-ad-codex",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "nhevers/project-r0x",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "chordswallowthrust/undress-design",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "maxucheng0/grok-auto-register",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "Shpaldik/OpenIELTS-AI",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "GradePsychologist62/Meccha-Chameleon-MecchaStrix",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "myfanhua/turb-gpt-free-register",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "rust-lang/rust",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "godotengine/godot",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "mrdoob/three.js",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "yetone/kill-ai-slop",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "dongguatanglinux/grok-build-auth",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "CoscoAI/luxy-aisre",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "Jane-xiaoer/paper-collage-ad-codex",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "nhevers/project-r0x",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "maxucheng0/grok-auto-register",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "Shpaldik/OpenIELTS-AI",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "myfanhua/turb-gpt-free-register",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "Alisa0808/vox-director",
+      "date": "2026-07-10"
+    },
+    {
+      "name": "huey1in/ClaudeX",
+      "date": "2026-07-10"
     }
   ]
 }
