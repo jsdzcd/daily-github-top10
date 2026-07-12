@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "downclash/clash",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "AdilMir1433/DBD-AutoGrind-Trainer-2026",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Extreme",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Extreme",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "XFaltixX/DBD-AutoGrind-Trainer-2026-Mega",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "XFaltixX/DBD-AutoGrind-Trainer-2026",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "Karan10010/DBD-AutoGrind-Trainer-2026-Pro",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "Karan10010/DBD-AutoGrind-Trainer-2026",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "Neverforgetme/DBD-AutoGrind-Trainer-2026-Elite",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Plus",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "2dust/v2rayN",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "farion1231/cc-switch",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "tauri-apps/tauri",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "downclash/clash",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "AdilMir1433/DBD-AutoGrind-Trainer-2026",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Extreme",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "AdilMir1433/DBD-AutoGrind-Trainer-2026-Extreme",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "XFaltixX/DBD-AutoGrind-Trainer-2026-Mega",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "XFaltixX/DBD-AutoGrind-Trainer-2026",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "Karan10010/DBD-AutoGrind-Trainer-2026-Pro",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "Karan10010/DBD-AutoGrind-Trainer-2026",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "Neverforgetme/DBD-AutoGrind-Trainer-2026-Elite",
-      "date": "2026-06-27"
-    },
-    {
-      "name": "deltabarbershopofficial-cloud/DBD-AutoGrind-Trainer-2026-Plus",
-      "date": "2026-06-27"
-    },
-    {
       "name": "Krishnagangwal/CS-Fundamentals",
       "date": "2026-06-28"
     },
@@ -1659,6 +1539,126 @@
     {
       "name": "huey1in/ClaudeX",
       "date": "2026-07-10"
+    },
+    {
+      "name": "mereyabdenbekuly-ctrl/clodex-ide",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "Git-creat7/grokRegister-cpa",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "BryanLunduke/LCOS",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "djfksjd/ir-search",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "Subhan-code/Amicro--Micro-transitions-",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "xsser/cliproxyapi-cloudflare-stack",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "mrbear1024/ai-content-kb",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "MDX-Tom/gpt-5.6-instruct",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "fayazara/pdfstudio",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "lilxyzw/NonToon",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "2dust/v2rayN",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "tauri-apps/tauri",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "fatedier/frp",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "immich-app/immich",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "mereyabdenbekuly-ctrl/clodex-ide",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "Git-creat7/grokRegister-cpa",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "djfksjd/ir-search",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "Subhan-code/Amicro--Micro-transitions-",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "MDX-Tom/gpt-5.6-instruct",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "fayazara/pdfstudio",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "kitforai/kitforai",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "NextWeb4/lan-file-transfer",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "rit3zh/expo-morphing-menu",
+      "date": "2026-07-11"
+    },
+    {
+      "name": "MarvinSchwaibold/mri-grid-viewer",
+      "date": "2026-07-11"
     }
   ]
 }
