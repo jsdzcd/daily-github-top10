@@ -1,106 +1,6 @@
 {
   "items": [
     {
-      "name": "TianhangZhuzth/Fundamental-Ava",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "frankchiu-dev/claude-codex-usage-dashboard",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "yashkhatri45/Meccha-Chameleon-Trainer-Mod-Overlay",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "meituan-longcat/LongCat-2.0",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "WidthEvokerKiln/Warzone-Vision",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "tony-devb/seed-phrase-generator",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "Sophomoresty/gemini-search-mcp",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "mcosic96/Solara-Execute-New-Update",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "GabrielaTqm/Nezur-Execute-New-Update",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "GiridharPilli0/Valex-Execute-New-Update",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "TianhangZhuzth/Fundamental-Ava",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "frankchiu-dev/claude-codex-usage-dashboard",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "yashkhatri45/Meccha-Chameleon-Trainer-Mod-Overlay",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "WidthEvokerKiln/Warzone-Vision",
-      "date": "2026-06-29"
-    },
-    {
-      "name": "Sophomoresty/gemini-search-mcp",
-      "date": "2026-06-29"
-    },
-    {
       "name": "mekos2772/ios-location-spoofer",
       "date": "2026-06-30"
     },
@@ -1659,6 +1559,126 @@
     {
       "name": "NextWeb4/folder-locker",
       "date": "2026-07-12"
+    },
+    {
+      "name": "WAYLON/ashare-quant-strategies",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "vybenetwork/solana-pyth-api",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "marcelpanse/youtube-guitar-tab-parser",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "x4gKing/Free-Panel",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "TobiasLee/Rebuttal-Skill",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "oil-oil/beautify-github-readme",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "Stormeye85/robinhood-token-launcher",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "Stormeye85/robinhood-token-sniper",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "pueschel88/Tradingview-MCP",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "Stormeye85/robinhood-token-bundler",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "ossu/computer-science",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "anthropics/skills",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "WAYLON/ashare-quant-strategies",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "marcelpanse/youtube-guitar-tab-parser",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "oil-oil/beautify-github-readme",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "Stormeye85/robinhood-token-launcher",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "Stormeye85/robinhood-token-sniper",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "pueschel88/Tradingview-MCP",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "Stormeye85/robinhood-token-bundler",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "Extraltodeus/J-Wash",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "andry-lebedev/neobank-primitives",
+      "date": "2026-07-13"
+    },
+    {
+      "name": "yeet-src/sigwire",
+      "date": "2026-07-13"
     }
   ]
 }
