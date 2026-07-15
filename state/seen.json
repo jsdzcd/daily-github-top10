@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "mekos2772/ios-location-spoofer",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "zhujingqi/Twitter_Engagement_Tool",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "StephanoEscobarLoayza/Spotify_Playlist_Booster",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "Zeeshan2899/System_Backup___Restore",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "SrSCK/Virtual_Machine_Manager",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "AnonymousDev1494/System_Information_Viewer",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "Fdani007/PUBG_Battlegrounds_ESP___Aimbot",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "zaidoonkamil/TikTok_Follower_Farm",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "zhaixiansen1023-cpu/QR_Code_Scanner",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "tangjiali/The_Witcher_3_God_Mode___Unlimited_Gold",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "mekos2772/ios-location-spoofer",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "zhujingqi/Twitter_Engagement_Tool",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "StephanoEscobarLoayza/Spotify_Playlist_Booster",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "Zeeshan2899/System_Backup___Restore",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "SrSCK/Virtual_Machine_Manager",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "AnonymousDev1494/System_Information_Viewer",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "Fdani007/PUBG_Battlegrounds_ESP___Aimbot",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "zaidoonkamil/TikTok_Follower_Farm",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "zhaixiansen1023-cpu/QR_Code_Scanner",
-      "date": "2026-06-30"
-    },
-    {
-      "name": "paulaengel/Telegram_Channel_Manager",
-      "date": "2026-06-30"
-    },
-    {
       "name": "asz798838958/FrciblyK12",
       "date": "2026-07-01"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "yeet-src/sigwire",
       "date": "2026-07-13"
+    },
+    {
+      "name": "CluvexStudio/Aether",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "QuantumByteOSS/quantumbyte",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "MatinSenPai/Aether-GUI",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "gabriel-azara/hyperliquid-tracker",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "my-take-dev/inspired-mino-design-skills",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "v-modal/vmodal_sdk_android",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "MSNightmare/LegacyHive",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "novixgroup/abc",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "arcships/light-ocr",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "VitSoonYoung/SpriteStack2D",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "QuantumByteOSS/quantumbyte",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "MatinSenPai/Aether-GUI",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "gabriel-azara/hyperliquid-tracker",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "HSJ-BanFan/grok-register-web",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "jbarach2012/AuthProbe",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "perplexityai/wandr",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "pyang5166/gbro-collage-broll",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "pixel-point/toolcraft",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "vshulcz/deja-vu",
+      "date": "2026-07-14"
+    },
+    {
+      "name": "SAGAR-TAMANG/ultron-by-sagar-builds",
+      "date": "2026-07-14"
     }
   ]
 }
