@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "xuchonglang/investing-for-beginners",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "uzairansaruzi/hermex",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "LinXiaoTao/FuckClaude",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "frecodecasti/gem5-branchpred",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "rolekkona/bghira-bark",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "jmerelnyc/Talos",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "SuperJJ007/CSswitch",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "akihitohyh/chatgpt-register-sub2api",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "Zsun79/ConferenceWatch",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "rit3zh/expo-dynamic-tray",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "microsoft/generative-ai-for-beginners",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "uzairansaruzi/hermex",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "rolekkona/bghira-bark",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "jmerelnyc/Talos",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "SuperJJ007/CSswitch",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "akihitohyh/chatgpt-register-sub2api",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "rit3zh/expo-dynamic-tray",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "dzhng/skills",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "lzh-phd/topic-feasibility-screener",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "adithyaakrishna/ascii-fable",
-      "date": "2026-07-02"
-    },
-    {
-      "name": "Oft3r/agentic-trading-desk",
-      "date": "2026-07-02"
-    },
-    {
       "name": "jamesob/local-llm",
       "date": "2026-07-03"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "SunkenCost/grok-regkit",
       "date": "2026-07-15"
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "h9-tec/Awesome_ai_learning",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "thesysdev/appless",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "v-modal/vmodal_sdk_flutter",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "kunchenguid/whathappened",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "KlaatAI/klaatcode",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "MIgHTy-alIeN/Trading-Bot",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "Finderchangchang/codex-autoskin",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "x4gKing/Telegram-Proxy",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "rs-4/labs",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "thesysdev/appless",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "KlaatAI/klaatcode",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "MIgHTy-alIeN/Trading-Bot",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "Finderchangchang/codex-autoskin",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "rs-4/labs",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "stephenleo/OpenMicro",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "opencoredev/sandbox-sdk",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "lofty14/restaurant-digitalization-blueprint",
+      "date": "2026-07-16"
+    },
+    {
+      "name": "Jingyi-Wu-Richael/rachel-digital-human-production",
+      "date": "2026-07-16"
     }
   ]
 }
