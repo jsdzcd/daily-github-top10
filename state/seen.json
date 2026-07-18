@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "jamesob/local-llm",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "Kulaxyz/token-diet",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "antiwork/chromeless",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "yynxxxxx/Codex-X",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "100yenadmin/fable-token-saving-skills-orchestrator",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "Jamonygr/certified-terraform-associate-azure-edition",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "loyal-studio/Honami-Animation-System",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "Leveeyuneedle2/anyunlock-ios-patcher",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "Coralflalast/imobie-anyunlock",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "CylinderFighterBear/cheat-engine",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "practical-tutorials/project-based-learning",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "microsoft/vscode",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "massgravel/Microsoft-Activation-Scripts",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "denoland/deno",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "yynxxxxx/Codex-X",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "100yenadmin/fable-token-saving-skills-orchestrator",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "lxh77721/k12-reg",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "ylvachifu1992/Silent-Crypto-Miner",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "7-e1even/learn-agent",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "KyrieCheungYep/ky-markdown-rebuilder",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "xsser/codex-jailbreak-guide",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "ai4s-research/open-science",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "akseolabs-seo/fable-soul",
-      "date": "2026-07-03"
-    },
-    {
-      "name": "joeseesun/qiaomu-youtube-ai-podcast",
-      "date": "2026-07-03"
-    },
-    {
       "name": "ammaarreshi/Generals-Mac-iOS-iPad",
       "date": "2026-07-04"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Jingyi-Wu-Richael/rachel-digital-human-production",
       "date": "2026-07-16"
+    },
+    {
+      "name": "nethical6/conversation-steganography",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "JustinGamer191/Holo",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "Icex0/wp2shell-poc",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "thebuggeddev/football-stadium",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "xiejunjie524/handdraw-story-video",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "Faradworks/Pinscope",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "h9-tec/production-ai-stack",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "clayboxerreproduce/meccha-chameleon-tool",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "CircuitSpawnIndicate/FIFA-Mod-Manager-Pro",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "afghan127/Palworld-Extreme-Cheat",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "microsoft/vscode",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "krahets/hello-algo",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "nethical6/conversation-steganography",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "Icex0/wp2shell-poc",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "xiejunjie524/handdraw-story-video",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "Faradworks/Pinscope",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "clayboxerreproduce/meccha-chameleon-tool",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "CircuitSpawnIndicate/FIFA-Mod-Manager-Pro",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "afghan127/Palworld-Extreme-Cheat",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "DantasCodes/Palworld-Evolution-Hack",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "ShrugDeveloperNL/Meccha-Nova-X",
+      "date": "2026-07-17"
+    },
+    {
+      "name": "yaswanth-sri-naga-sai/Palworld-God-Tool",
+      "date": "2026-07-17"
     }
   ]
 }
