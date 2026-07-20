@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "514-labs/dnsglobe",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "MaximeRivest/riddle",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "majidmanzarpour/threejs-procedural-dungeon",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "simonlin1212/Vibe-Research",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "lucid-softworks/lumen",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "starmiaoa/chatgpt-register-k12",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "BFanSYe/K12-Space-Automation",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "NUber-dev/YTubic",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "karola3vax/CS2FOW",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "zjp1997720/wechat-article-search",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "n8n-io/n8n",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "practical-tutorials/project-based-learning",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "majidmanzarpour/threejs-procedural-dungeon",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "simonlin1212/Vibe-Research",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "starmiaoa/chatgpt-register-k12",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "BFanSYe/K12-Space-Automation",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "NUber-dev/YTubic",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "zjp1997720/wechat-article-search",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "jfoboston/email-to-print",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "sanketsahu/tinbase",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "shaohua-pan/StarWAM",
-      "date": "2026-07-05"
-    },
-    {
-      "name": "Ravvioli/browsertabs-talking",
-      "date": "2026-07-05"
-    },
-    {
       "name": "Shpigford/knockoff",
       "date": "2026-07-06"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "An0nUD4Y/Offensive-COM",
       "date": "2026-07-18"
+    },
+    {
+      "name": "paxlabs-inc/machine-genome",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "chenjin-cmd/xhs-virtual-product",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "rjx18/codor",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "lyu0805/OpenBrowser",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "duolahypercho/codex-router",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "elysiumintellegence/elysium-intelligence",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "NullLabTests/software-periodic-table",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "MiaAI-Lab/sparkDash",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "Jacoblauritzen/Openreach",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "0xtbug/unofficial-pddikti-api",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "paxlabs-inc/machine-genome",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "rjx18/codor",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "lyu0805/OpenBrowser",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "duolahypercho/codex-router",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "elysiumintellegence/elysium-intelligence",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "NullLabTests/software-periodic-table",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "MiaAI-Lab/sparkDash",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "0xtbug/unofficial-pddikti-api",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "smixs/mentor",
+      "date": "2026-07-19"
+    },
+    {
+      "name": "drpwchen/textbook-to-note",
+      "date": "2026-07-19"
     }
   ]
 }
