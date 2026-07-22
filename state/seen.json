@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "op7418/guizang-material-illustration",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "Robbyant/lingbot-vla-v2",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "WeZZard/jlens-qwen36",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "xiaotianfotos/homerail",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "sunflower-of-parchman/codex-hygiene",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "CWS6206/EasyLastSkill",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "Liquid4All/antidoom",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "adriflex/autoremesher-blender-bridge",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "PitShipwrightGraph/MecchaPhantom",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "CylinderFoal/MecchaUltraCheat",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "mattpocock/skills",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "langgenius/dify",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "Genymobile/scrcpy",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "langchain-ai/langchain",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "microsoft/PowerToys",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "golang/go",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "kubernetes/kubernetes",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "op7418/guizang-material-illustration",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "Robbyant/lingbot-vla-v2",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "WeZZard/jlens-qwen36",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "xiaotianfotos/homerail",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "CWS6206/EasyLastSkill",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "Liquid4All/antidoom",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "adriflex/autoremesher-blender-bridge",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "PitShipwrightGraph/MecchaPhantom",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "CylinderFoal/MecchaUltraCheat",
-      "date": "2026-07-07"
-    },
-    {
-      "name": "PlankParakeetFoyer/Meccha-Camouflage-Pro",
-      "date": "2026-07-07"
-    },
-    {
       "name": "withmarbleapp/os-taxonomy",
       "date": "2026-07-08"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "CrepitusAgent/Crepitus",
       "date": "2026-07-20"
+    },
+    {
+      "name": "Jakubantalik/thinking-orbs",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "0xhype/hyperliquid-tracker",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "gnipbao/story-to-handdrawn-video",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "chartup-solana-volume-bot/solanavolumebot",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "AdelanSupport/adelan-support",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "0xwilliamortiz/andrej-karpathy-skills",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "risa-labs-inc/BossConsole",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "tanishq-dubey/macos-laguna-s2.1",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "FlowsealObhod/Zapret-Flowseal-obhod",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "RainPPR/china-llms-anecdote-0721",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "mattpocock/skills",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "langgenius/dify",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "golang/go",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "react/react-native",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "Jakubantalik/thinking-orbs",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "0xhype/hyperliquid-tracker",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "gnipbao/story-to-handdrawn-video",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "AdelanSupport/adelan-support",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "risa-labs-inc/BossConsole",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "tanishq-dubey/macos-laguna-s2.1",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "innae1121-bit/gsghwp",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "lov-team/dagoujiao",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "infometa/workbuddyskills",
+      "date": "2026-07-21"
+    },
+    {
+      "name": "ddcat-ai/open-ai-canvas",
+      "date": "2026-07-21"
     }
   ]
 }
