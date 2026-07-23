@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "withmarbleapp/os-taxonomy",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "Robbyant/lingbot-world-v2",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "Robbyant/lingbot-video",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "x4gKing/3x-ui-Upgrade",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "Nanako0129/pilotfish",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "Moore-developers/moore-wechat-article-downloader",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "gostonx/uninstally",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "opencoredev/login-with-chatgpt",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "DexCrancer/pm-ninesoulx",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "Alice53211/auth-codex-plugin",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "electron/electron",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "nodejs/node",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "withmarbleapp/os-taxonomy",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "Robbyant/lingbot-world-v2",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "Robbyant/lingbot-video",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "Moore-developers/moore-wechat-article-downloader",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "opencoredev/login-with-chatgpt",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "Alice53211/auth-codex-plugin",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "angieruiz17/claude-fintech-skills",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "Alice53211/arc-fintech-app",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "angieruiz17/codex-gpt-plugin",
-      "date": "2026-07-08"
-    },
-    {
-      "name": "bkingfilm/lapian-notes",
-      "date": "2026-07-08"
-    },
-    {
       "name": "Elias569/fintech-app",
       "date": "2026-07-09"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "ddcat-ai/open-ai-canvas",
       "date": "2026-07-21"
+    },
+    {
+      "name": "berabuddies/redis-poc",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "yokel1121/muyang-flat-animation",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "NextWeb4/official-document-ai-assistant",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "finna/Finn-loop",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "steelbrain/metal2vulkan",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "davidmokos/expo-glass-tabs",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "Evanli21/token-factory",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "neural-maze/production-ocr-course",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "earendil-works/pi-review-loop",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "zhuang2002/Self_Gradient_Forcing",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "github/gitignore",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "electron/electron",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "berabuddies/redis-poc",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "yokel1121/muyang-flat-animation",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "NextWeb4/official-document-ai-assistant",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "finna/Finn-loop",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "davidmokos/expo-glass-tabs",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "Evanli21/token-factory",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "earendil-works/pi-review-loop",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "zhuang2002/Self_Gradient_Forcing",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "hyhang915/gptfree-register",
+      "date": "2026-07-22"
+    },
+    {
+      "name": "dmitrykurash/holocloth",
+      "date": "2026-07-22"
     }
   ]
 }
