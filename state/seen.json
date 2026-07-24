@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Elias569/fintech-app",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "adamholter/hive-mind-landing-page",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "imchine/FinTech-Solution",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "KORAYTEACHER/fintech-advisor",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "KORAYTEACHER/fintech-forge",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "Elias569/fintech-dashboard",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "imchine/FinTech-Wallet",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "Litun/bloomy-linkedin-outreach",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "OpenEnvision/WorldFoundry",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "avelino/awesome-go",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "open-webui/open-webui",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "garrytan/gstack",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "shadcn-ui/ui",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "rustdesk/rustdesk",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "Elias569/fintech-app",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "imchine/FinTech-Solution",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "KORAYTEACHER/fintech-advisor",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "KORAYTEACHER/fintech-forge",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "Elias569/fintech-dashboard",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "imchine/FinTech-Wallet",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "OpenEnvision/WorldFoundry",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "FuelMagistrateLead/photoshop-ai-smart-enhance",
-      "date": "2026-07-09"
-    },
-    {
-      "name": "SilentFleetKK/ai-market-pulse",
-      "date": "2026-07-09"
-    },
-    {
       "name": "yetone/kill-ai-slop",
       "date": "2026-07-10"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "dmitrykurash/holocloth",
       "date": "2026-07-22"
+    },
+    {
+      "name": "slvDev/esp32-ai",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "RongleCat/grok-app",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "CWS6206/EasySystemCleaner",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "dboudreau00/Conformiti",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "rrrjqy66/BlackHoleTrash",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "sunny-glow/Auto-BenchMax",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "aniqfakhrul/CVE-2026-54121",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "giovannibrees/travel-roamradar",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "codejunkie99/graph-engineering",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "tyedalwaves/HuggingHack",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "slvDev/esp32-ai",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "RongleCat/grok-app",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "dboudreau00/Conformiti",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "sunny-glow/Auto-BenchMax",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "aniqfakhrul/CVE-2026-54121",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "tyedalwaves/HuggingHack",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "batubozkan/pods-head-tracker",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "0xtresser/Transcript-of-Liang-Wenfengs-DeepSeek-Founder-4-Hour-Investor-Meeting",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "kingenbomb/Nodes",
+      "date": "2026-07-23"
+    },
+    {
+      "name": "daimon3332/OutlookRegister",
+      "date": "2026-07-23"
     }
   ]
 }
