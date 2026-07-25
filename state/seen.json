@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "yetone/kill-ai-slop",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "dongguatanglinux/grok-build-auth",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "CoscoAI/luxy-aisre",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "Jane-xiaoer/paper-collage-ad-codex",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "nhevers/project-r0x",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "chordswallowthrust/undress-design",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "maxucheng0/grok-auto-register",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "Shpaldik/OpenIELTS-AI",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "GradePsychologist62/Meccha-Chameleon-MecchaStrix",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "myfanhua/turb-gpt-free-register",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "rust-lang/rust",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "godotengine/godot",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "mrdoob/three.js",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "yetone/kill-ai-slop",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "dongguatanglinux/grok-build-auth",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "CoscoAI/luxy-aisre",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "Jane-xiaoer/paper-collage-ad-codex",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "nhevers/project-r0x",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "maxucheng0/grok-auto-register",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "Shpaldik/OpenIELTS-AI",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "myfanhua/turb-gpt-free-register",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "Alisa0808/vox-director",
-      "date": "2026-07-10"
-    },
-    {
-      "name": "huey1in/ClaudeX",
-      "date": "2026-07-10"
-    },
-    {
       "name": "mereyabdenbekuly-ctrl/clodex-ide",
       "date": "2026-07-11"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "daimon3332/OutlookRegister",
       "date": "2026-07-23"
+    },
+    {
+      "name": "mikiarlo3/ai-copywriter",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "melloworchid8rr6g/TG-Polymarket-bot",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "mikehasa/agentacct",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "anton-hq96g4/Meccha-Medusa",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "rustyharbor308774/Ethereum-bot",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "dunefalcon1qrj/Telegram-Bot",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "NextWeb4/gw",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "jazzzooo/buz",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "rockthemike712/mission-control-board",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "amnotyoung/slide-meme-inserter",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "avelino/awesome-go",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "nodejs/node",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "rust-lang/rust",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "godotengine/godot",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "mrdoob/three.js",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "mikiarlo3/ai-copywriter",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "melloworchid8rr6g/TG-Polymarket-bot",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "mikehasa/agentacct",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "dunefalcon1qrj/Telegram-Bot",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "amnotyoung/slide-meme-inserter",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "Noz2/RootHound",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "PrimeAdilekarli1216/Seed-Generator",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "Jia-Ethan/grok-keysmith",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "pi0/mermaid-compact",
+      "date": "2026-07-24"
+    },
+    {
+      "name": "rcnsnr/job-search-workflow",
+      "date": "2026-07-24"
     }
   ]
 }
