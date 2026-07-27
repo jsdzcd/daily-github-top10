@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "littledivy/mimic",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "x4gKing/Marzban-Panel",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "x4gKing/Marzban-Node",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "BloxHubSSS/Game-Copier",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "opencoredev/domain-sdk",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "Kappaemme-git/codex-first-customer-finder-skill",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "x-spy/CVE-2026-43499-popsicle",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "LonghornSilicon/awesome-ai-accelerators",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "Paresh-Maheshwari/morphe-ai",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "kigner/audio.cpp-webui",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "ohmyzsh/ohmyzsh",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "excalidraw/excalidraw",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "practical-tutorials/project-based-learning",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "littledivy/mimic",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "opencoredev/domain-sdk",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "Kappaemme-git/codex-first-customer-finder-skill",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "domanski-ai/headroom",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "igorbarshteyn/jlens-gguf",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "schlae/BeavisUltrasound",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "ray4rt/yt-clip",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "rengwu/wayfinder-maps",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "jiuwovo-ai/xiaopingguo",
-      "date": "2026-07-12"
-    },
-    {
-      "name": "NextWeb4/folder-locker",
-      "date": "2026-07-12"
-    },
-    {
       "name": "WAYLON/ashare-quant-strategies",
       "date": "2026-07-13"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Stepha1983/Crypto-Checker",
       "date": "2026-07-25"
+    },
+    {
+      "name": "MoonshotAI/Kimi-K3",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "0xwilliamortiz/openclaude-improved",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "dboudreau00/NocTORnal",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "wassgha/rescript",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "chokcoco/teach-yourself-skill",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "provencher/codex-skills",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "OneInterface/stormy-cookbook",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "ahmedemad3/arch-wiki",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "sii-research/tau-0-vla",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "xshaduwulfx/proton-linuwux",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "ohmyzsh/ohmyzsh",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "0xwilliamortiz/openclaude-improved",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "dboudreau00/NocTORnal",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "wassgha/rescript",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "chokcoco/teach-yourself-skill",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "ahmedemad3/arch-wiki",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "sii-research/tau-0-vla",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "bytec-ai/book-video-factory",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "yaoleifly/ai-stock-pool",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "mufengyuan666/Hearth",
+      "date": "2026-07-26"
+    },
+    {
+      "name": "meepo-it/letsfinddomain-skill",
+      "date": "2026-07-26"
     }
   ]
 }
