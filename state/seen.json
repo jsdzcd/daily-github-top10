@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "WAYLON/ashare-quant-strategies",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "vybenetwork/solana-pyth-api",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "marcelpanse/youtube-guitar-tab-parser",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "x4gKing/Free-Panel",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "TobiasLee/Rebuttal-Skill",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "oil-oil/beautify-github-readme",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "Stormeye85/robinhood-token-launcher",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "Stormeye85/robinhood-token-sniper",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "pueschel88/Tradingview-MCP",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "Stormeye85/robinhood-token-bundler",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "ossu/computer-science",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "anthropics/skills",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "practical-tutorials/project-based-learning",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "WAYLON/ashare-quant-strategies",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "marcelpanse/youtube-guitar-tab-parser",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "oil-oil/beautify-github-readme",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "Stormeye85/robinhood-token-launcher",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "Stormeye85/robinhood-token-sniper",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "pueschel88/Tradingview-MCP",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "Stormeye85/robinhood-token-bundler",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "Extraltodeus/J-Wash",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "andry-lebedev/neobank-primitives",
-      "date": "2026-07-13"
-    },
-    {
-      "name": "yeet-src/sigwire",
-      "date": "2026-07-13"
-    },
-    {
       "name": "CluvexStudio/Aether",
       "date": "2026-07-14"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "meepo-it/letsfinddomain-skill",
       "date": "2026-07-26"
+    },
+    {
+      "name": "0xwilliamortiz/ponytail-improved",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "achimala/TheLongSilence",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "ChrisMack32/Locus",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "AmazingAng/old-coder",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "mufengyuan666/Gazette",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "mufengyuan666/Breaker",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "SangLuoCN/OneStep4",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "zaoan0/funf-pro-relay",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "averywinston/Context0f74",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "averywinston/Z8d69",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "521xueweihan/HelloGitHub",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "excalidraw/excalidraw",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "0xwilliamortiz/ponytail-improved",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "achimala/TheLongSilence",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "AmazingAng/old-coder",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "mufengyuan666/Gazette",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "mufengyuan666/Breaker",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "zaoan0/funf-pro-relay",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "averywinston/Context0f74",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "averywinston/Z8d69",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "averywinston/Model7c84",
+      "date": "2026-07-27"
+    },
+    {
+      "name": "mintdotgg/bookshelf",
+      "date": "2026-07-27"
     }
   ]
 }
