@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "CluvexStudio/Aether",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "QuantumByteOSS/quantumbyte",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "MatinSenPai/Aether-GUI",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "gabriel-azara/hyperliquid-tracker",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "my-take-dev/inspired-mino-design-skills",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "v-modal/vmodal_sdk_android",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "MSNightmare/LegacyHive",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "novixgroup/abc",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "arcships/light-ocr",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "VitSoonYoung/SpriteStack2D",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "codecrafters-io/build-your-own-x",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "QuantumByteOSS/quantumbyte",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "MatinSenPai/Aether-GUI",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "gabriel-azara/hyperliquid-tracker",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "HSJ-BanFan/grok-register-web",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "jbarach2012/AuthProbe",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "perplexityai/wandr",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "pyang5166/gbro-collage-broll",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "pixel-point/toolcraft",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "vshulcz/deja-vu",
-      "date": "2026-07-14"
-    },
-    {
-      "name": "SAGAR-TAMANG/ultron-by-sagar-builds",
-      "date": "2026-07-14"
-    },
-    {
       "name": "Fei-Away/Codex-Dream-Skin",
       "date": "2026-07-15"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "mintdotgg/bookshelf",
       "date": "2026-07-27"
+    },
+    {
+      "name": "xikhar/persona",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "talivia-group/talivia",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "gavamedia/deltafin",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "twalichiewicz/HNewhere",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "Infatoshi/netherite",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "robbin/wechat-exporter",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "lij768423-svg/grok-register-panel",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "Noniv/snowflow_demo",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "elayadesign/ai-design-skills",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "starling-build/starling",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "jackfrued/Python-100-Days",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "yangshun/tech-interview-handbook",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "justjavac/free-programming-books-zh_CN",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "xikhar/persona",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "talivia-group/talivia",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "gavamedia/deltafin",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "twalichiewicz/HNewhere",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "lij768423-svg/grok-register-panel",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "Noniv/snowflow_demo",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "starling-build/starling",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "alxgntv/substack-api-mcp",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "lixooo00-lab/mingruis-miya",
+      "date": "2026-07-28"
+    },
+    {
+      "name": "amirmushichge/tea-leaf-scroll-world",
+      "date": "2026-07-28"
     }
   ]
 }
