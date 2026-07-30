@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Fei-Away/Codex-Dream-Skin",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "tandpfun/wardrobe",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "robinhood-ape/robinhood-sniper-bot",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "robinhood-ape/robinhood-noxa-bundler",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "oversecured/Samsung_Vulnerabilities",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "PengZhang64/circuit-framework",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "kitlangton/skills",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "Blueturboguy07/cue",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "CodeDrobe/skills",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "HeiGeAi/heige-codex-skin-studio",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "DigitalPlatDev/FreeDomain",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "Significant-Gravitas/AutoGPT",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "clash-verge-rev/clash-verge-rev",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "github/spec-kit",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "tandpfun/wardrobe",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "robinhood-ape/robinhood-sniper-bot",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "robinhood-ape/robinhood-noxa-bundler",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "PengZhang64/circuit-framework",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "Blueturboguy07/cue",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "HeiGeAi/heige-codex-skin-studio",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "yuwen-cool/yuwen-publish-precheck",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "shibadogcap/dpgk",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "alexafinode/claude-arbitrage-bot",
-      "date": "2026-07-15"
-    },
-    {
-      "name": "SunkenCost/grok-regkit",
-      "date": "2026-07-15"
-    },
-    {
       "name": "pablostanley/yoinks",
       "date": "2026-07-16"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "amirmushichge/tea-leaf-scroll-world",
       "date": "2026-07-28"
+    },
+    {
+      "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "codermyxiaoc/sub2api-guardian",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "0xwilliamortiz/FlashKDA",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "Audio8-AI/Audio8_TTS",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "aigclink/geolook",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "Kenton-GMI/sakura-crossing",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "awplanets/awplanet",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "dcatanzaro/aoweb",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "rw-r-r-0644/bc250-core-unlock",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "0rangec3t/Black-cat",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "clash-verge-rev/clash-verge-rev",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "github/spec-kit",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "codermyxiaoc/sub2api-guardian",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "Audio8-AI/Audio8_TTS",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "aigclink/geolook",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "Kenton-GMI/sakura-crossing",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "awplanets/awplanet",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "dcatanzaro/aoweb",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "rw-r-r-0644/bc250-core-unlock",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "yc-software/qm",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "eveacla11/fingertips",
+      "date": "2026-07-29"
+    },
+    {
+      "name": "cvg/vidmap",
+      "date": "2026-07-29"
     }
   ]
 }
