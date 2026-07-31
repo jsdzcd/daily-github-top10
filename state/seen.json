@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "pablostanley/yoinks",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "h9-tec/Awesome_ai_learning",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "thesysdev/appless",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "v-modal/vmodal_sdk_flutter",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "kunchenguid/whathappened",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "KlaatAI/klaatcode",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "MIgHTy-alIeN/Trading-Bot",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "Finderchangchang/codex-autoskin",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "x4gKing/Telegram-Proxy",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "rs-4/labs",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "microsoft/generative-ai-for-beginners",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "pablostanley/yoinks",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "thesysdev/appless",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "KlaatAI/klaatcode",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "MIgHTy-alIeN/Trading-Bot",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "Finderchangchang/codex-autoskin",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "rs-4/labs",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "stephenleo/OpenMicro",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "opencoredev/sandbox-sdk",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "lofty14/restaurant-digitalization-blueprint",
-      "date": "2026-07-16"
-    },
-    {
-      "name": "Jingyi-Wu-Richael/rachel-digital-human-production",
-      "date": "2026-07-16"
-    },
-    {
       "name": "nethical6/conversation-steganography",
       "date": "2026-07-17"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "cvg/vidmap",
       "date": "2026-07-29"
+    },
+    {
+      "name": "bashalarmistalt/decimen-optical-transfer",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "WilonityDev/WilonityLoader",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "ddoemonn/interior",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "Packets/tew",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "deedy/qr-data-transfer",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "ZihangDong/toolknit-desktop",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "kylek-lab1996c2/Halo-Campaign-Evolved-FPS-Booster",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "romanson-xo8/Palworld-Optimizer-2026",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "Apex-Accelerator/apexcli",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "shuaiplus/inkstone",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "bashalarmistalt/decimen-optical-transfer",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "ddoemonn/interior",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "deedy/qr-data-transfer",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "ZihangDong/toolknit-desktop",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "Apex-Accelerator/apexcli",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "shuaiplus/inkstone",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "YuJunZhiXue/Cline-proxy",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "tonbistudio/buzz-skills",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "PauliusOS/pallet-town-3d",
+      "date": "2026-07-30"
+    },
+    {
+      "name": "FrontisAI/OpenRSI",
+      "date": "2026-07-30"
     }
   ]
 }
