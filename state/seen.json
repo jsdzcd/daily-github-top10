@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "nethical6/conversation-steganography",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "JustinGamer191/Holo",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "Icex0/wp2shell-poc",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "thebuggeddev/football-stadium",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "xiejunjie524/handdraw-story-video",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "Faradworks/Pinscope",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "h9-tec/production-ai-stack",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "clayboxerreproduce/meccha-chameleon-tool",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "CircuitSpawnIndicate/FIFA-Mod-Manager-Pro",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "afghan127/Palworld-Extreme-Cheat",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "microsoft/vscode",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "microsoft/markitdown",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "krahets/hello-algo",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "nethical6/conversation-steganography",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "Icex0/wp2shell-poc",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "xiejunjie524/handdraw-story-video",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "Faradworks/Pinscope",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "clayboxerreproduce/meccha-chameleon-tool",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "CircuitSpawnIndicate/FIFA-Mod-Manager-Pro",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "afghan127/Palworld-Extreme-Cheat",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "DantasCodes/Palworld-Evolution-Hack",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "ShrugDeveloperNL/Meccha-Nova-X",
-      "date": "2026-07-17"
-    },
-    {
-      "name": "yaswanth-sri-naga-sai/Palworld-God-Tool",
-      "date": "2026-07-17"
-    },
-    {
       "name": "lopopolo/harness-engineering",
       "date": "2026-07-18"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "FrontisAI/OpenRSI",
       "date": "2026-07-30"
+    },
+    {
+      "name": "0xwilliamortiz/ratchet",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "elder-plinius/GL4SS",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "s1dashu/animated-voiceover",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "l00sed/termixer",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "openai/ten-proofs",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "johnpetrov-1996k1/CS2-Xone-UNDETECTED",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "asdafgs419/Extreme-FPS-Boost",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "luckyzyx/LuckyTool",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "Anionex/codex-deepseek-vision",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "liangnjupt/VisTouch",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "microsoft/vscode",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "0xwilliamortiz/ratchet",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "elder-plinius/GL4SS",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "Anionex/codex-deepseek-vision",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "liangnjupt/VisTouch",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "KingSparta69/chainlink-twap-research",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "x4gKing/3x-ui-multi",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "yuanshuacpu/robot_futuring_rl",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "paid-tw/payment",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "thinkany-ai/dscode",
+      "date": "2026-07-31"
+    },
+    {
+      "name": "Meghamittal0920/itachi",
+      "date": "2026-07-31"
     }
   ]
 }
