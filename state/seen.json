@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "lopopolo/harness-engineering",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "PostmanReminisce/Wisp-VPN",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "joeseesun/qiaomu-cut-skill",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "KinetiNode/claude-fable-5-system-prompt-clean",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "RinDig/icm-architect",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "timethrough/xiaohei-Chrome",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "Gheat1/tuistore",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "tetsuo-ai/voice_clone_lab",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "SeanJ1ang/design-judge-skills",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "kinueluci1992/Seed-Generator",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "axios/axios",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "denoland/deno",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "lopopolo/harness-engineering",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "joeseesun/qiaomu-cut-skill",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "timethrough/xiaohei-Chrome",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "Gheat1/tuistore",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "tetsuo-ai/voice_clone_lab",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "SeanJ1ang/design-judge-skills",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "kinueluci1992/Seed-Generator",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "sanjayragavendra/MecchaChameleon-AutoPaintTool",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "JaMieUb1984/Crypto-Checker",
-      "date": "2026-07-18"
-    },
-    {
-      "name": "An0nUD4Y/Offensive-COM",
-      "date": "2026-07-18"
-    },
-    {
       "name": "paxlabs-inc/machine-genome",
       "date": "2026-07-19"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Meghamittal0920/itachi",
       "date": "2026-07-31"
+    },
+    {
+      "name": "DannyMac180/sol-advisor",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "0xwilliamortiz/humanizer-cli",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "WilonityBooster/Wilonity-GameFPS-Booster",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "brookfacehe2421/flashloan-scalper-bot",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "Anionex/codex-vision-proxy",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "MengTo/complete-shelf",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "thebuggeddev/anatomy",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "chenjin-cmd/wechat-miniprogram-builder",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "romanson-xo8/xeno-executor-roblox",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "denoland/deno",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "supabase/supabase",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "google-gemini/gemini-cli",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "openai/codex",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "0xwilliamortiz/humanizer-cli",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "brookfacehe2421/flashloan-scalper-bot",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "Anionex/codex-vision-proxy",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "thebuggeddev/anatomy",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "lij768423-svg/grok2api-egress-enhancements",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "talivia-group/agent",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "catcat222222/twchips",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "StarKnightt/jungle-trail",
+      "date": "2026-08-01"
+    },
+    {
+      "name": "guillermolg00/morphicons",
+      "date": "2026-08-01"
     }
   ]
 }
