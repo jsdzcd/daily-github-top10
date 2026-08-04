@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Blaizzy/nativ",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "powerycy/goutoujunshi",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "eli-labz/Agent-Execution-Partnership",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "Kritt-ai/open-kritt",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "realfishsam/agent-notch",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "CatsJuice/sticker-forge",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "ni5arga/protestchat",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "dinosn/fastjson-jsontype-rce-lab",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "janisbelozerovs-dev/murmur",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "0xwilliamortiz/agents-council",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "TheAlgorithms/Python",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "yt-dlp/yt-dlp",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "flutter/flutter",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "ollama/ollama",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "twbs/bootstrap",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "f/prompts.chat",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "huggingface/transformers",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "langflow-ai/langflow",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "vercel/next.js",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "Chalarangelo/30-seconds-of-code",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "powerycy/goutoujunshi",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "eli-labz/Agent-Execution-Partnership",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "Kritt-ai/open-kritt",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "CatsJuice/sticker-forge",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "ni5arga/protestchat",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "dinosn/fastjson-jsontype-rce-lab",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "0xwilliamortiz/agents-council",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "TryCaspian/caspian-sdk",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "hahhforest/pi-textbook",
-      "date": "2026-07-20"
-    },
-    {
-      "name": "CrepitusAgent/Crepitus",
-      "date": "2026-07-20"
-    },
-    {
       "name": "Jakubantalik/thinking-orbs",
       "date": "2026-07-21"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "xyaz1313/phoenix",
       "date": "2026-08-02"
+    },
+    {
+      "name": "firecrawl/anydoc",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "Packets/Vanta",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "HaidarJbeily7/cargo-frisk",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "leonickson1/Swiftlet",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "alexan0618/zkky",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "nfzerox/VirtualMacOniPad",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "EcZachly/databricks-ai-bootcamp-capstone",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "AMAP-ML/LongHorizon-Harness",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "Mr-funny/hbg-classical-poem-silk-video",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "yuhuangerdi/InduSecAgent",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "yt-dlp/yt-dlp",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "flutter/flutter",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "ollama/ollama",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "twbs/bootstrap",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "f/prompts.chat",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "huggingface/transformers",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "vercel/next.js",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "alexan0618/zkky",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "AMAP-ML/LongHorizon-Harness",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "xmarre/ComfyUI-Spectrum-MiniMax-H3",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "kijai/ComfyUI-SolAttn_triton",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "kaibush/grok-register",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "edopandoyo/wilayah-indonesia-api",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "ryanzhou/deepseek-v4-flash-mi300x",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "achrefelouafi/AvatarCastingAbilitiesThreeJS",
+      "date": "2026-08-03"
+    },
+    {
+      "name": "Tr1dae/ComfyUI-MiniMaxH3_LatentUpscaler",
+      "date": "2026-08-03"
     }
   ]
 }
