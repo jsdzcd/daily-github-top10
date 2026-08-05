@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Jakubantalik/thinking-orbs",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "0xhype/hyperliquid-tracker",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "gnipbao/story-to-handdrawn-video",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "chartup-solana-volume-bot/solanavolumebot",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "AdelanSupport/adelan-support",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "0xwilliamortiz/andrej-karpathy-skills",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "risa-labs-inc/BossConsole",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "tanishq-dubey/macos-laguna-s2.1",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "FlowsealObhod/Zapret-Flowseal-obhod",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "RainPPR/china-llms-anecdote-0721",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "mattpocock/skills",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "langgenius/dify",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "langchain-ai/langchain",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "microsoft/PowerToys",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "golang/go",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "react/react-native",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "kubernetes/kubernetes",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "Jakubantalik/thinking-orbs",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "0xhype/hyperliquid-tracker",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "gnipbao/story-to-handdrawn-video",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "AdelanSupport/adelan-support",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "risa-labs-inc/BossConsole",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "tanishq-dubey/macos-laguna-s2.1",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "innae1121-bit/gsghwp",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "lov-team/dagoujiao",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "infometa/workbuddyskills",
-      "date": "2026-07-21"
-    },
-    {
-      "name": "ddcat-ai/open-ai-canvas",
-      "date": "2026-07-21"
-    },
-    {
       "name": "berabuddies/redis-poc",
       "date": "2026-07-22"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Tr1dae/ComfyUI-MiniMaxH3_LatentUpscaler",
       "date": "2026-08-03"
+    },
+    {
+      "name": "KKKKhazix/human-writing",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "Binaryify/open-kimi-ppt-skill",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "mikiarlo3/awesome-growth-hacking-skills",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "criptogus/HermesOffice",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "SandAI-org/MAGI-2-preview",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "fuxicodex/Fuxi",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "ZzzLc0405/photo-abstract-editorial",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "cristicretu/diri",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "jd-opensource/JoyAI-Video-Edit",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "oil-oil/codex-deepseek-subagent",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "mattpocock/skills",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "langgenius/dify",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "golang/go",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "react/react-native",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "KKKKhazix/human-writing",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "Binaryify/open-kimi-ppt-skill",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "criptogus/HermesOffice",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "SandAI-org/MAGI-2-preview",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "jd-opensource/JoyAI-Video-Edit",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "oil-oil/codex-deepseek-subagent",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "domaup/coldcard-poc",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "x4gKing/bot-telegram",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "lincwang123-bot/moonlit-stories",
+      "date": "2026-08-04"
+    },
+    {
+      "name": "mika50000/gpt-link",
+      "date": "2026-08-04"
     }
   ]
 }
