@@ -1,246 +1,6 @@
 {
   "items": [
     {
-      "name": "berabuddies/redis-poc",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "yokel1121/muyang-flat-animation",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "NextWeb4/official-document-ai-assistant",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "finna/Finn-loop",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "steelbrain/metal2vulkan",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "davidmokos/expo-glass-tabs",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "Evanli21/token-factory",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "neural-maze/production-ocr-course",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "earendil-works/pi-review-loop",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "zhuang2002/Self_Gradient_Forcing",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "github/gitignore",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "electron/electron",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "berabuddies/redis-poc",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "yokel1121/muyang-flat-animation",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "NextWeb4/official-document-ai-assistant",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "finna/Finn-loop",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "davidmokos/expo-glass-tabs",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "Evanli21/token-factory",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "earendil-works/pi-review-loop",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "zhuang2002/Self_Gradient_Forcing",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "hyhang915/gptfree-register",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "dmitrykurash/holocloth",
-      "date": "2026-07-22"
-    },
-    {
-      "name": "slvDev/esp32-ai",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "RongleCat/grok-app",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "CWS6206/EasySystemCleaner",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "dboudreau00/Conformiti",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "rrrjqy66/BlackHoleTrash",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "sunny-glow/Auto-BenchMax",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "aniqfakhrul/CVE-2026-54121",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "giovannibrees/travel-roamradar",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "codejunkie99/graph-engineering",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "tyedalwaves/HuggingHack",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "open-webui/open-webui",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "shadcn-ui/ui",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "slvDev/esp32-ai",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "RongleCat/grok-app",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "dboudreau00/Conformiti",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "sunny-glow/Auto-BenchMax",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "aniqfakhrul/CVE-2026-54121",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "tyedalwaves/HuggingHack",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "batubozkan/pods-head-tracker",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "0xtresser/Transcript-of-Liang-Wenfengs-DeepSeek-Founder-4-Hour-Investor-Meeting",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "kingenbomb/Nodes",
-      "date": "2026-07-23"
-    },
-    {
-      "name": "daimon3332/OutlookRegister",
-      "date": "2026-07-23"
-    },
-    {
       "name": "mikiarlo3/ai-copywriter",
       "date": "2026-07-24"
     },
@@ -1679,6 +1439,126 @@
     {
       "name": "mika50000/gpt-link",
       "date": "2026-08-04"
+    },
+    {
+      "name": "Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "eternityspring/shuohao-skills",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "context-labs/i-need-h200s",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "oliverb-io1902e8/agent-skills-collection",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "BreezeSolicitorMap/NodeTopicss",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "RidgeRookPattern/comix-autoclipper",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "chunkithwang/design-playful-app-icons",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "maliubiao/dgx-spark-2-deepseek-flash-0731",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "bozhouDev/x-growth-handbook",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "shiqiaoshangxue/aetheris",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "anthropics/skills",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "electron/electron",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "Larryvrh/ComfyUI-MiniMax-H3-Turbo",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "eternityspring/shuohao-skills",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "oliverb-io1902e8/agent-skills-collection",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "BreezeSolicitorMap/NodeTopicss",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "RidgeRookPattern/comix-autoclipper",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "shiqiaoshangxue/aetheris",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "erikfiala/google-maps-scraper",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "wanmol/goal-flow",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "2023782whl/Mem-kb",
+      "date": "2026-08-06"
+    },
+    {
+      "name": "lingbol088-spec/codex-gpt-5.6-5.5-instruct",
+      "date": "2026-08-06"
     }
   ]
 }
