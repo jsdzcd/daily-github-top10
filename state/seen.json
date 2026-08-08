@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "mikiarlo3/ai-copywriter",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "melloworchid8rr6g/TG-Polymarket-bot",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "mikehasa/agentacct",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "anton-hq96g4/Meccha-Medusa",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "rustyharbor308774/Ethereum-bot",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "dunefalcon1qrj/Telegram-Bot",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "NextWeb4/gw",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "jazzzooo/buz",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "rockthemike712/mission-control-board",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "amnotyoung/slide-meme-inserter",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "avelino/awesome-go",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "rustdesk/rustdesk",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "nodejs/node",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "rust-lang/rust",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "godotengine/godot",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "mrdoob/three.js",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "mikiarlo3/ai-copywriter",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "melloworchid8rr6g/TG-Polymarket-bot",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "mikehasa/agentacct",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "dunefalcon1qrj/Telegram-Bot",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "amnotyoung/slide-meme-inserter",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "Noz2/RootHound",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "PrimeAdilekarli1216/Seed-Generator",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "Jia-Ethan/grok-keysmith",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "pi0/mermaid-compact",
-      "date": "2026-07-24"
-    },
-    {
-      "name": "rcnsnr/job-search-workflow",
-      "date": "2026-07-24"
-    },
-    {
       "name": "mshumer/Claude-of-Duty",
       "date": "2026-07-25"
     },
@@ -1559,6 +1439,126 @@
     {
       "name": "lingbol088-spec/codex-gpt-5.6-5.5-instruct",
       "date": "2026-08-06"
+    },
+    {
+      "name": "oil-oil/oil-motion",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "MengTo/kage",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "Samin100/codex-ios-assistant",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "alfiecg24/Titan",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "3169657175/gpt-webcodex",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "GOROman/vibewatch",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "NikoDemon80/ComfyUI-H3-Motion-Context",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "aashaexo/soundshuman",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "xinwithyu/dwell-on-something",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "paoloanzn/pi-black",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "avelino/awesome-go",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "Chalarangelo/30-seconds-of-code",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "garrytan/gstack",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "nodejs/node",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "oil-oil/oil-motion",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "Samin100/codex-ios-assistant",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "3169657175/gpt-webcodex",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "GOROman/vibewatch",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "NikoDemon80/ComfyUI-H3-Motion-Context",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "aashaexo/soundshuman",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "paoloanzn/pi-black",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "shift-labs-ai/pi-peer",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "tanishqkancharla/calldiff",
+      "date": "2026-08-07"
+    },
+    {
+      "name": "sosoj92/jarvis-assistant-vocal",
+      "date": "2026-08-07"
     }
   ]
 }
