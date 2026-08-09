@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "mshumer/Claude-of-Duty",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "dr-Crimson-Smoke39/Discord-Nitro-Generator",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "realchendahuang/pi-config",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "lingbol088-spec/5.6-JAILBREAK-NERV",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "deerwork-ai/deer-workflow",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "fuadmefleh/Shared-Claude-Chats",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "steelbrain/reims-vgpu",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "erenciracioglu-dotcom/hermes-self-evolution",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "notkeepitreal/UnicoreRustPrivate",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "dotneet/image-to-3d",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "trekhleb/javascript-algorithms",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "farion1231/cc-switch",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "Hack-with-Github/Awesome-Hacking",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "2dust/v2rayN",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "tauri-apps/tauri",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "immich-app/immich",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "mshumer/Claude-of-Duty",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "lingbol088-spec/5.6-JAILBREAK-NERV",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "deerwork-ai/deer-workflow",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "fuadmefleh/Shared-Claude-Chats",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "dotneet/image-to-3d",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "sandeepbazar/ocm-mcp-server",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "lololerigolo60/Prompt-architect",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "ringhyacinth/Meow-Generator",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "artembelov1990/Flash-USDT-Sender",
-      "date": "2026-07-25"
-    },
-    {
-      "name": "Stepha1983/Crypto-Checker",
-      "date": "2026-07-25"
-    },
-    {
       "name": "MoonshotAI/Kimi-K3",
       "date": "2026-07-26"
     },
@@ -1559,6 +1439,126 @@
     {
       "name": "sosoj92/jarvis-assistant-vocal",
       "date": "2026-08-07"
+    },
+    {
+      "name": "Sateezg/codex-bridge",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "Appllama/top-welcome-screens",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "i3T4AN/KADATH",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "Kylin010/tcpfit",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "jmarshall23/tech5",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "liyue-aigc/xianxia-visual-director",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "Wandering-reef413000/Mev-Terminal-Bot",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "JayJokerr/arknights-pixel-autofill",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "andrewpollack/linkedin-feed-blocker",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "liyue-aigc/xianxia-cinematic-video-director",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "rust-lang/rust",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "mrdoob/three.js",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "2dust/v2rayN",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "immich-app/immich",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "tauri-apps/tauri",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "Appllama/top-welcome-screens",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "i3T4AN/KADATH",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "JayJokerr/arknights-pixel-autofill",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "MengMengCode/VoCat",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "swaroop2004/Proven-Viral-Content-System",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "mateusdcc/pi-gpt-search",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "forever94yu/icloud-prime",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "qin1473692580-ux/oh-story-claudecode",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "kasturikhanke/generative-loaders",
+      "date": "2026-08-08"
+    },
+    {
+      "name": "GOROman/vibewatch",
+      "date": "2026-08-08"
     }
   ]
 }
