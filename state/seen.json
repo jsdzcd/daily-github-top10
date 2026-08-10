@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "MoonshotAI/Kimi-K3",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "0xwilliamortiz/openclaude-improved",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "dboudreau00/NocTORnal",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "wassgha/rescript",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "chokcoco/teach-yourself-skill",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "provencher/codex-skills",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "OneInterface/stormy-cookbook",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "ahmedemad3/arch-wiki",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "sii-research/tau-0-vla",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "xshaduwulfx/proton-linuwux",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "ohmyzsh/ohmyzsh",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "practical-tutorials/project-based-learning",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "0xwilliamortiz/openclaude-improved",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "dboudreau00/NocTORnal",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "wassgha/rescript",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "chokcoco/teach-yourself-skill",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "ahmedemad3/arch-wiki",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "sii-research/tau-0-vla",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "bytec-ai/book-video-factory",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "yaoleifly/ai-stock-pool",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "mufengyuan666/Hearth",
-      "date": "2026-07-26"
-    },
-    {
-      "name": "meepo-it/letsfinddomain-skill",
-      "date": "2026-07-26"
-    },
-    {
       "name": "0xwilliamortiz/ponytail-improved",
       "date": "2026-07-27"
     },
@@ -1559,6 +1439,126 @@
     {
       "name": "GOROman/vibewatch",
       "date": "2026-08-08"
+    },
+    {
+      "name": "SMNETSTUDIO/WeChat-AI",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "SaladDay/pi-from-scratch",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "MkThingsHQ/mkdirs",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "nutllwhy/seedance-tvc-director",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "antirez/h3.c",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "rit3zh/expo-content-transition",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "shinyquagsire23/Klepton",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "eagerwrenmey8308/UNISWAP-ARBITRAGE-BOT",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "iLearn-Agent/Janus",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "ohmyzsh/ohmyzsh",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "godotengine/godot",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "SMNETSTUDIO/WeChat-AI",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "SaladDay/pi-from-scratch",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "MkThingsHQ/mkdirs",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "wild-canyonhoxo3344/AI-Trading-Bot-Codepen",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "eagerwrenmey8308/UNISWAP-ARBITRAGE-BOT",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "iLearn-Agent/Janus",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "swping999/scene-card-studio",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "iktok90-design/ai-smart-contract-auditor",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "p-e-w/lophius",
+      "date": "2026-08-09"
+    },
+    {
+      "name": "zhiningsun/industrial-mcp",
+      "date": "2026-08-09"
     }
   ]
 }
