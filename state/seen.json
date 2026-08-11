@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "0xwilliamortiz/ponytail-improved",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "achimala/TheLongSilence",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "ChrisMack32/Locus",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "AmazingAng/old-coder",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "mufengyuan666/Gazette",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "mufengyuan666/Breaker",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "SangLuoCN/OneStep4",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "zaoan0/funf-pro-relay",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "averywinston/Context0f74",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "averywinston/Z8d69",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "521xueweihan/HelloGitHub",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "excalidraw/excalidraw",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "practical-tutorials/project-based-learning",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "0xwilliamortiz/ponytail-improved",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "achimala/TheLongSilence",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "AmazingAng/old-coder",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "mufengyuan666/Gazette",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "mufengyuan666/Breaker",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "zaoan0/funf-pro-relay",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "averywinston/Context0f74",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "averywinston/Z8d69",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "averywinston/Model7c84",
-      "date": "2026-07-27"
-    },
-    {
-      "name": "mintdotgg/bookshelf",
-      "date": "2026-07-27"
-    },
-    {
       "name": "xikhar/persona",
       "date": "2026-07-28"
     },
@@ -1559,6 +1439,126 @@
     {
       "name": "zhiningsun/industrial-mcp",
       "date": "2026-08-09"
+    },
+    {
+      "name": "gvzdv/claudish-to-english",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "shadcn-ui/chatbot-template",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "ayi-ai/nie-grassroots-logic",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "0xnyn/airship",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "zhangzf1119/financial_intelligence_system_web",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "0xjohnnydev/FilzaSlop",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "zhangzf1119/financial-intelligence-system",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "CureJe/sedentary-reminder",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "ZinkLu/Orca-Orchestration",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "50kg/image-to-slice",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "excalidraw/excalidraw",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "shadcn-ui/chatbot-template",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "0xnyn/airship",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "ZinkLu/Orca-Orchestration",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "50kg/image-to-slice",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "Lichtspektrum/liang-intensity-calibrator",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "wanshuiyin/HERO-Anti-OverDefense",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "ericzakariasson/gloss",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "TheRealYT/git-knife",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "jordyidk/slopkit",
+      "date": "2026-08-10"
+    },
+    {
+      "name": "kkx94/oss-init",
+      "date": "2026-08-10"
     }
   ]
 }
