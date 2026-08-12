@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "xikhar/persona",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "talivia-group/talivia",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "gavamedia/deltafin",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "twalichiewicz/HNewhere",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "Infatoshi/netherite",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "robbin/wechat-exporter",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "lij768423-svg/grok-register-panel",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "Noniv/snowflow_demo",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "elayadesign/ai-design-skills",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "starling-build/starling",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "jackfrued/Python-100-Days",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "yangshun/tech-interview-handbook",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "justjavac/free-programming-books-zh_CN",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "xikhar/persona",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "talivia-group/talivia",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "gavamedia/deltafin",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "twalichiewicz/HNewhere",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "lij768423-svg/grok-register-panel",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "Noniv/snowflow_demo",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "starling-build/starling",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "alxgntv/substack-api-mcp",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "lixooo00-lab/mingruis-miya",
-      "date": "2026-07-28"
-    },
-    {
-      "name": "amirmushichge/tea-leaf-scroll-world",
-      "date": "2026-07-28"
-    },
-    {
       "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
       "date": "2026-07-29"
     },
@@ -1559,6 +1439,126 @@
     {
       "name": "kkx94/oss-init",
       "date": "2026-08-10"
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "sohaibdevv/youtube-music",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "MSNightmare/ShieldBreak",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "dmmulroy/anti-slop",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "frs0n/GestaltEdit",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "elonbiz/hackoctoberfest",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "sgnihttcejbo/chainlink-example",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "Hisn00w/ASu-skills",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "RadishXN/run-abroad",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "sohaibdevv/youtube-music",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "dmmulroy/anti-slop",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "RadishXN/run-abroad",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "Xie0s/Xie0s-Code",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "Yixuan-Wu39/bandminton",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "mikiane/claude-watermark-cleaner",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "thebuggeddev/empire",
+      "date": "2026-08-11"
+    },
+    {
+      "name": "dengzi008/DramaLens",
+      "date": "2026-08-11"
     }
   ]
 }
