@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "bashalarmistalt/decimen-optical-transfer",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "WilonityDev/WilonityLoader",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "ddoemonn/interior",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "Packets/tew",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "deedy/qr-data-transfer",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "ZihangDong/toolknit-desktop",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "kylek-lab1996c2/Halo-Campaign-Evolved-FPS-Booster",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "romanson-xo8/Palworld-Optimizer-2026",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "Apex-Accelerator/apexcli",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "shuaiplus/inkstone",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "microsoft/generative-ai-for-beginners",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "bashalarmistalt/decimen-optical-transfer",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "ddoemonn/interior",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "deedy/qr-data-transfer",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "ZihangDong/toolknit-desktop",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "Apex-Accelerator/apexcli",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "shuaiplus/inkstone",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "YuJunZhiXue/Cline-proxy",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "tonbistudio/buzz-skills",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "PauliusOS/pallet-town-3d",
-      "date": "2026-07-30"
-    },
-    {
-      "name": "FrontisAI/OpenRSI",
-      "date": "2026-07-30"
-    },
-    {
       "name": "0xwilliamortiz/ratchet",
       "date": "2026-07-31"
     },
@@ -1559,6 +1439,126 @@
     {
       "name": "Small-tailqwq/dsh-deep-whale",
       "date": "2026-08-12"
+    },
+    {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "ccch1mneyyy/dsh-TUI",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "alchaincyf/deepseek-harness-orange-book",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "decionis/agent-safe-pipeline",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "NousResearch/Hermes-Bot-Mode",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "pemarine/cve-2026-41940-PoC",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "Electricitysheep/dsh-handbook",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "xiaobright/dsh-anchored-standard",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "N-allpass/modex-mh-agent",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "Genymobile/scrcpy",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "ccch1mneyyy/dsh-TUI",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "decionis/agent-safe-pipeline",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "NousResearch/Hermes-Bot-Mode",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "pemarine/cve-2026-41940-PoC",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "Electricitysheep/dsh-handbook",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "xiaobright/dsh-anchored-standard",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "turtle2209/Bigfish",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "dataelement/dsh-desktop",
+      "date": "2026-08-13"
+    },
+    {
+      "name": "smontlouis/bible-strong-avatar-lab",
+      "date": "2026-08-13"
     }
   ]
 }
