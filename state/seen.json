@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "DannyMac180/sol-advisor",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "0xwilliamortiz/humanizer-cli",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "WilonityBooster/Wilonity-GameFPS-Booster",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "brookfacehe2421/flashloan-scalper-bot",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "Anionex/codex-vision-proxy",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "MengTo/complete-shelf",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "thebuggeddev/anatomy",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "chenjin-cmd/wechat-miniprogram-builder",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "FareedKhan-dev/kimi-k3-in-c",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "romanson-xo8/xeno-executor-roblox",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "jaywcjlove/awesome-mac",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "denoland/deno",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "supabase/supabase",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "google-gemini/gemini-cli",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "openai/codex",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "0xwilliamortiz/humanizer-cli",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "brookfacehe2421/flashloan-scalper-bot",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "Anionex/codex-vision-proxy",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "thebuggeddev/anatomy",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "FareedKhan-dev/kimi-k3-in-c",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "lij768423-svg/grok2api-egress-enhancements",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "talivia-group/agent",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "catcat222222/twchips",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "StarKnightt/jungle-trail",
-      "date": "2026-08-01"
-    },
-    {
-      "name": "guillermolg00/morphicons",
-      "date": "2026-08-01"
-    },
-    {
       "name": "patchy631/time-to-first-token",
       "date": "2026-08-02"
     },
@@ -1559,6 +1439,126 @@
     {
       "name": "anoslide/dsh-vscode-layout",
       "date": "2026-08-14"
+    },
+    {
+      "name": "Yousuf-developer/Viscose-carousel",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "Nervercc/gpt_nerver",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "fufankeji/deepseek-harness-studio",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "opaxial/CVE-2026-9830",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "voyb/aegis-vault",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "antinomie-lab/dsh-explore",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "anonrig/router",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "LeonQ8/ComfyUI-ALLinONE-MinimaxH3",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "cocofhu/anime-find",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "x4gpanell/X4G",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "jaywcjlove/awesome-mac",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "mattpocock/skills",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "Yousuf-developer/Viscose-carousel",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "Nervercc/gpt_nerver",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "fufankeji/deepseek-harness-studio",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "opaxial/CVE-2026-9830",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "anonrig/router",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "LeonQ8/ComfyUI-ALLinONE-MinimaxH3",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "cocofhu/anime-find",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "x4gpanell/X4G",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "wanonewan/wanwan",
+      "date": "2026-08-15"
+    },
+    {
+      "name": "m1ckc3s/procedural-sounds",
+      "date": "2026-08-15"
     }
   ]
 }
