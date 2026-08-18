@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "firecrawl/anydoc",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "Packets/Vanta",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "HaidarJbeily7/cargo-frisk",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "leonickson1/Swiftlet",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "alexan0618/zkky",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "nfzerox/VirtualMacOniPad",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "EcZachly/databricks-ai-bootcamp-capstone",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "AMAP-ML/LongHorizon-Harness",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "Mr-funny/hbg-classical-poem-silk-video",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "yuhuangerdi/InduSecAgent",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "TheAlgorithms/Python",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "yt-dlp/yt-dlp",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "flutter/flutter",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "ollama/ollama",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "twbs/bootstrap",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "f/prompts.chat",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "huggingface/transformers",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "langflow-ai/langflow",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "vercel/next.js",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "alexan0618/zkky",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "AMAP-ML/LongHorizon-Harness",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "xmarre/ComfyUI-Spectrum-MiniMax-H3",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "kijai/ComfyUI-SolAttn_triton",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "kaibush/grok-register",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "HELPMEEADICE/TE-Speed-MiniMaxH3-OSS",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "edopandoyo/wilayah-indonesia-api",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "ryanzhou/deepseek-v4-flash-mi300x",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "achrefelouafi/AvatarCastingAbilitiesThreeJS",
-      "date": "2026-08-03"
-    },
-    {
-      "name": "Tr1dae/ComfyUI-MiniMaxH3_LatentUpscaler",
-      "date": "2026-08-03"
-    },
-    {
       "name": "KKKKhazix/human-writing",
       "date": "2026-08-04"
     },
@@ -1559,6 +1439,126 @@
     {
       "name": "chengyi-ai/native-subtitle-quote-image",
       "date": "2026-08-16"
+    },
+    {
+      "name": "browser-use/macos-harness",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "SigmanticAI/apex-inference-chip",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "jdshfhds/northcinder",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "BigPengSays/bigpeng-hot-gzh",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "s1dashu/ip-as-logo-skill",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "op7418/pilot-harness",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "wang2122/sprix-sage-router",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "MengTo/sylva",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "MirroS-Lab/HarnessEval-W",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "skydashnet/material-design-3-ui-skill",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "yt-dlp/yt-dlp",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "flutter/flutter",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "twbs/bootstrap",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "f/prompts.chat",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "huggingface/transformers",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "vercel/next.js",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "krahets/hello-algo",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "browser-use/macos-harness",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "SigmanticAI/apex-inference-chip",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "jdshfhds/northcinder",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "op7418/pilot-harness",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "wang2122/sprix-sage-router",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "MirroS-Lab/HarnessEval-W",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "amitshekhariitbhu/llm-inference-engineering",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "d4ncboz/qoder-workflow",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "xianxie6/stamp-edge-skill",
+      "date": "2026-08-17"
+    },
+    {
+      "name": "liyue-aigc/seedance-2-5-video-director",
+      "date": "2026-08-17"
     }
   ]
 }
