@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "KKKKhazix/human-writing",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "Binaryify/open-kimi-ppt-skill",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "mikiarlo3/awesome-growth-hacking-skills",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "criptogus/HermesOffice",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "SandAI-org/MAGI-2-preview",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "fuxicodex/Fuxi",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "ZzzLc0405/photo-abstract-editorial",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "cristicretu/diri",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "jd-opensource/JoyAI-Video-Edit",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "oil-oil/codex-deepseek-subagent",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "mattpocock/skills",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "langgenius/dify",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "langchain-ai/langchain",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "microsoft/PowerToys",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "golang/go",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "react/react-native",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "kubernetes/kubernetes",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "KKKKhazix/human-writing",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "Binaryify/open-kimi-ppt-skill",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "criptogus/HermesOffice",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "SandAI-org/MAGI-2-preview",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "jd-opensource/JoyAI-Video-Edit",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "oil-oil/codex-deepseek-subagent",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "domaup/coldcard-poc",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "x4gKing/bot-telegram",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "lincwang123-bot/moonlit-stories",
-      "date": "2026-08-04"
-    },
-    {
-      "name": "mika50000/gpt-link",
-      "date": "2026-08-04"
-    },
-    {
       "name": "Larryvrh/ComfyUI-MiniMax-H3-Turbo",
       "date": "2026-08-06"
     },
@@ -1559,6 +1439,126 @@
     {
       "name": "liyue-aigc/seedance-2-5-video-director",
       "date": "2026-08-17"
+    },
+    {
+      "name": "DenisSergeevitch/desktop-fly",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "vvxw/deploy-vercel",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "missuo/herdrm",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "Leutenegger/watermarks-remover",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "littledivy/dgit",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "air-embodied-brain/Zetta-Embodiment",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "zyrexdz/cyberleek-leak-research",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "iAmCorey/Wake",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "JouJouoo/agent-campus",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "ollama/ollama",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "langgenius/dify",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "golang/go",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "react/react-native",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "vvxw/deploy-vercel",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "Leutenegger/watermarks-remover",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "littledivy/dgit",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "air-embodied-brain/Zetta-Embodiment",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "JouJouoo/agent-campus",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "trungdq88/mechanical-deployables-treejs",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "Jc007zZ/discord-screen",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "sam70361/emotion-ball",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "xuanyuanzhifeng/dsh-plugin-agent-workflow",
+      "date": "2026-08-18"
+    },
+    {
+      "name": "asen-goat-mine/boujoy-harness",
+      "date": "2026-08-18"
     }
   ]
 }
