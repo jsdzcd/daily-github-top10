@@ -1559,6 +1559,126 @@
     {
       "name": "asen-goat-mine/boujoy-harness",
       "date": "2026-08-18"
+    },
+    {
+      "name": "xdreizein666/getcontact-cli",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "lanicer/cve-2026-41940-PoC",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "s0lness/awesome-esp32",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "Alioces/chinese-core-building",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "jsongmax/oci-core",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "oil-oil/dsh-oil-creator",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "d4ncboz/github-farm",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "AinxietyLab/VidScribe",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "hexquic/Freevlessvpnrussia",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "xdreizein666/getcontact-cli",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "lanicer/cve-2026-41940-PoC",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "jsongmax/oci-core",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "oil-oil/dsh-oil-creator",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "d4ncboz/github-farm",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "AinxietyLab/VidScribe",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "jinzijian/EvoTrace",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "YuJunZhiXue/dsh-purge",
+      "date": "2026-08-19"
+    },
+    {
+      "name": "huacnlee/omamail",
+      "date": "2026-08-19"
     }
   ]
 }
