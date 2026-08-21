@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Larryvrh/ComfyUI-MiniMax-H3-Turbo",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "eternityspring/shuohao-skills",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "context-labs/i-need-h200s",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "oliverb-io1902e8/agent-skills-collection",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "BreezeSolicitorMap/NodeTopicss",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "RidgeRookPattern/comix-autoclipper",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "chunkithwang/design-playful-app-icons",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "maliubiao/dgx-spark-2-deepseek-flash-0731",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "bozhouDev/x-growth-handbook",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "shiqiaoshangxue/aetheris",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "ultraworkers/claw-code",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "anthropics/skills",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "open-webui/open-webui",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "electron/electron",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "shadcn-ui/ui",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "Larryvrh/ComfyUI-MiniMax-H3-Turbo",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "eternityspring/shuohao-skills",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "oliverb-io1902e8/agent-skills-collection",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "BreezeSolicitorMap/NodeTopicss",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "RidgeRookPattern/comix-autoclipper",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "shiqiaoshangxue/aetheris",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "erikfiala/google-maps-scraper",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "wanmol/goal-flow",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "2023782whl/Mem-kb",
-      "date": "2026-08-06"
-    },
-    {
-      "name": "lingbol088-spec/codex-gpt-5.6-5.5-instruct",
-      "date": "2026-08-06"
-    },
-    {
       "name": "oil-oil/oil-motion",
       "date": "2026-08-07"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "huacnlee/omamail",
       "date": "2026-08-19"
+    },
+    {
+      "name": "Leutenegger/vanity-eth",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "Leutenegger/coldcard-airgap",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "cclank/lanshu-create-ai-presenter-video",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "MengTo/threeui",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "OpenLabs-so/oa-design",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "Neofollower/Neofollower-SMM-Panel-API",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "turkiyeyapayzekaakademisi/computer-vision-workshop",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "GamePhanes/GamePhanes",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "kunchenguid/grok-ship",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "anthropics/skills",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "electron/electron",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "Leutenegger/vanity-eth",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "Leutenegger/coldcard-airgap",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "cclank/lanshu-create-ai-presenter-video",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "MengTo/threeui",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "OpenLabs-so/oa-design",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "turkiyeyapayzekaakademisi/computer-vision-workshop",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "GamePhanes/GamePhanes",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "vivekhaldar/seed",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "abligail/narralume",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark",
+      "date": "2026-08-20"
     }
   ]
 }
