@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Sateezg/codex-bridge",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "Appllama/top-welcome-screens",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "i3T4AN/KADATH",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "Kylin010/tcpfit",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "jmarshall23/tech5",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "liyue-aigc/xianxia-visual-director",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "Wandering-reef413000/Mev-Terminal-Bot",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "JayJokerr/arknights-pixel-autofill",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "andrewpollack/linkedin-feed-blocker",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "liyue-aigc/xianxia-cinematic-video-director",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "farion1231/cc-switch",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "rust-lang/rust",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "mrdoob/three.js",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "2dust/v2rayN",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "immich-app/immich",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "tauri-apps/tauri",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "Appllama/top-welcome-screens",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "i3T4AN/KADATH",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "JayJokerr/arknights-pixel-autofill",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "MengMengCode/VoCat",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "swaroop2004/Proven-Viral-Content-System",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "mateusdcc/pi-gpt-search",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "forever94yu/icloud-prime",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "qin1473692580-ux/oh-story-claudecode",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "kasturikhanke/generative-loaders",
-      "date": "2026-08-08"
-    },
-    {
-      "name": "GOROman/vibewatch",
-      "date": "2026-08-08"
-    },
-    {
       "name": "SMNETSTUDIO/WeChat-AI",
       "date": "2026-08-09"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "zhaoxuya520/MeshLAN",
       "date": "2026-08-21"
+    },
+    {
+      "name": "duty1g/x64dbg-mcp-server",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "nateherkai/scroll-craft",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "Forsy-AI/biosecurity-agent",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "aj-2-c-2-a/undress-designses",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "localai-org/kimodo.cpp",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "josiah-nelson/eidos",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "bam-bam-2/solo-skills",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "kgoedecke/doop",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "programasweights/claudish",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "preporato/claude-certification-guide",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "nodejs/node",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "rust-lang/rust",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "openai/codex",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "mrdoob/three.js",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "2dust/v2rayN",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "immich-app/immich",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "nateherkai/scroll-craft",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "Forsy-AI/biosecurity-agent",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "bam-bam-2/solo-skills",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "kgoedecke/doop",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "programasweights/claudish",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "luke321/vault-graph",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "feyzilim/clipfactory",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "totec448-spec/chat-on-steroids",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "ripmilla/netwalk",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "Cripacx/mediagen",
+      "date": "2026-08-22"
     }
   ]
 }
