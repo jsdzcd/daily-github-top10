@@ -1,246 +1,6 @@
 {
   "items": [
     {
-      "name": "deepseek-ai/deepseek-harness",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "Leutenegger/book-to-skill",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "cordiverse/paper",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "xoreaxeaxeax/skitter-creek-bath-salts",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "zhu1090093659/dsh-web-ui",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "gfodor/legal-skills",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "wbh604/fund-guy-skill",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "ccch1mneyyy/dsh-cc-tui",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "Anionex/dsh-vision-toolkit",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "stanuwu/Sunrise",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "Significant-Gravitas/AutoGPT",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "clash-verge-rev/clash-verge-rev",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "github/spec-kit",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "deepseek-ai/deepseek-harness",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "Leutenegger/book-to-skill",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "zhu1090093659/dsh-web-ui",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "gfodor/legal-skills",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "ccch1mneyyy/dsh-cc-tui",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "Anionex/dsh-vision-toolkit",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "elie222/rakazo",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "wzchav/tokentab",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "xinxinshuhao-create/grok-register",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "Small-tailqwq/dsh-deep-whale",
-      "date": "2026-08-12"
-    },
-    {
-      "name": "anywhere-labs/deepseek-harness-desktop",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "ccch1mneyyy/dsh-TUI",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "alchaincyf/deepseek-harness-orange-book",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "decionis/agent-safe-pipeline",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "NousResearch/Hermes-Bot-Mode",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "pemarine/cve-2026-41940-PoC",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "Electricitysheep/dsh-handbook",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "xiaobright/dsh-anchored-standard",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "N-allpass/modex-mh-agent",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "Genymobile/scrcpy",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "microsoft/generative-ai-for-beginners",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "anywhere-labs/deepseek-harness-desktop",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "ccch1mneyyy/dsh-TUI",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "decionis/agent-safe-pipeline",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "NousResearch/Hermes-Bot-Mode",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "pemarine/cve-2026-41940-PoC",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "Electricitysheep/dsh-handbook",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "xiaobright/dsh-anchored-standard",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "turtle2209/Bigfish",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "dataelement/dsh-desktop",
-      "date": "2026-08-13"
-    },
-    {
-      "name": "smontlouis/bible-strong-avatar-lab",
-      "date": "2026-08-13"
-    },
-    {
       "name": "yjh051108/dsh-routing-suite",
       "date": "2026-08-14"
     },
@@ -1679,6 +1439,126 @@
     {
       "name": "ooocooc/open-skill-sunset",
       "date": "2026-08-25"
+    },
+    {
+      "name": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "dmitryd-ops1996m6/Wilonity",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "mouredev/hello-sdd",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "damejan80/tokentab",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "Cleverfuxaqo1668/Polymarket-Telegram-Bot",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "crmne/fastpotify",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "LuxUmbra697/luxumbra-ai-learn",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "MUJI0807/RK3588-Dual-Camera-AI-Perception-System",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "soumatheusgomes/buscandomilhao",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "Blackwindow6/linuxdo-wecom-ui",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "521xueweihan/HelloGitHub",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "clash-verge-rev/clash-verge-rev",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "github/spec-kit",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "mouredev/hello-sdd",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "damejan80/tokentab",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "Cleverfuxaqo1668/Polymarket-Telegram-Bot",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "LuxUmbra697/luxumbra-ai-learn",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "Blackwindow6/linuxdo-wecom-ui",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "OnlyTerp/opengrok",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "Realaoleep/SigDeck",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "brooxiacaigonv/AIrecall",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "blazux/qwen3.8-Flash-DGX",
+      "date": "2026-08-27"
+    },
+    {
+      "name": "thebuggeddev/controller",
+      "date": "2026-08-27"
     }
   ]
 }
