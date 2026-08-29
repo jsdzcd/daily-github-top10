@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "yjh051108/dsh-routing-suite",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "dsh-market/dsh-market",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "zouyuxuan122/Deepseek-Harness-EAC",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "SheberDavid/v4-flash-godmode-opencode-go",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "sjc88661/multi-agent-discuss",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "hairyf/deepseek-harness-desktop",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "ZSvirt/zsvirt",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "soloists25wipe/Roblox-Pack-Executor-2026",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "fornarwhal/deepseek-whale-girl-icon",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "yjh051108/dsh-router-standard",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "microsoft/vscode",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "browser-use/browser-use",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "n8n-io/n8n",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "dsh-market/dsh-market",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "zouyuxuan122/Deepseek-Harness-EAC",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "SheberDavid/v4-flash-godmode-opencode-go",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "sjc88661/multi-agent-discuss",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "yjh051108/dsh-router-standard",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "morsyxbt/nft-public-mint",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "flickzoz/mcp-guard",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "liceses/dsh-gitbash-preset",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "emailhayday10-coder/agent-doctor",
-      "date": "2026-08-14"
-    },
-    {
-      "name": "anoslide/dsh-vscode-layout",
-      "date": "2026-08-14"
-    },
-    {
       "name": "Yousuf-developer/Viscose-carousel",
       "date": "2026-08-15"
     },
@@ -1559,6 +1439,122 @@
     {
       "name": "thebuggeddev/controller",
       "date": "2026-08-27"
+    },
+    {
+      "name": "Nanako0129/sepia",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "XiaoDuoYa/codex-with-chatgpt",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "MetaMask-AI/metamask-desktop",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "Leveetememorialize/gta-6-download-cyberleek",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "chrisgreg/boop",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "camilleroux/genart-skill",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "sgyno09-source/reference-video-director",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "d4ncboz/jailbreak",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "TheHaloDeveloper/vortex-docs",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "Inch-high/unifi-support-file-analyzer",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "microsoft/vscode",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "Nanako0129/sepia",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "XiaoDuoYa/codex-with-chatgpt",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "chrisgreg/boop",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "camilleroux/genart-skill",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "Inch-high/unifi-support-file-analyzer",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "ZJU-REAL/Easel",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "mhtsec/nacos-authscope-poc",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "baidu-baige/LoongSage",
+      "date": "2026-08-28"
+    },
+    {
+      "name": "LIN-ZECHENG/Atour_Collection",
+      "date": "2026-08-28"
     }
   ]
 }
