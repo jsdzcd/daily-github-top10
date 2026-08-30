@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Yousuf-developer/Viscose-carousel",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "Nervercc/gpt_nerver",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "fufankeji/deepseek-harness-studio",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "opaxial/CVE-2026-9830",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "voyb/aegis-vault",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "antinomie-lab/dsh-explore",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "anonrig/router",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "LeonQ8/ComfyUI-ALLinONE-MinimaxH3",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "cocofhu/anime-find",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "x4gpanell/X4G",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "jaywcjlove/awesome-mac",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "mattpocock/skills",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "Yousuf-developer/Viscose-carousel",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "Nervercc/gpt_nerver",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "fufankeji/deepseek-harness-studio",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "opaxial/CVE-2026-9830",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "anonrig/router",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "LeonQ8/ComfyUI-ALLinONE-MinimaxH3",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "cocofhu/anime-find",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "x4gpanell/X4G",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "wanonewan/wanwan",
-      "date": "2026-08-15"
-    },
-    {
-      "name": "m1ckc3s/procedural-sounds",
-      "date": "2026-08-15"
-    },
-    {
       "name": "yetone/cumora",
       "date": "2026-08-16"
     },
@@ -1655,6 +1535,94 @@
     {
       "name": "camilleroux/genart-skill",
       "date": "2026-08-28"
+    },
+    {
+      "name": "jlrouzies-fr/DLSS5-Feeder",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "useagenthq/useagent",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "aimen08/noty",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "Samyak2605/Crusader-Kings-III-Save-File-Editor-Free-PC-Download",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "hsasinai/tModLoader-Mod-Menu-PC-Free-Community-Release",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "zituhossain/Total-War-WARHAMMER-III-Character-Editor-Edit-Your-Character-Save-Free-",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "ArseneBeats/Rocket-League-Trainer-Free-Unlimited-Health-Money-More",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "christiandlbanzon/The-Binding-of-Isaac-Rebirth-Save-File-Editor-Free-PC-Download",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "soundernarayanasamy/Path-of-Exile-Character-Editor-Free-Download",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "clusterassets/Attack-on-Titan-Revolution-Script-Pastebin-Loadstring-Free-2026",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "useagenthq/useagent",
+      "date": "2026-08-29"
+    },
+    {
+      "name": "Vuk97/forward-implementation-first",
+      "date": "2026-08-29"
     }
   ]
 }
