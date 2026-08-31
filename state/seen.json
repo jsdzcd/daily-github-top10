@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "yetone/cumora",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "b-nnett/codex-subscription-router",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "RopemakerEnd/ds4windows-lab-2026",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "zjp1997720/zhijian-ai-bluebook-workbuddy-harness",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "missuo/kumone",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "byteforge9190/trusted-project",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "CharlesHoskinson/anthropies",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "Yevanchen/reclaim-code-entropy",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "bawadou/ai-data-extractor",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "practical-tutorials/project-based-learning",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "yetone/cumora",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "b-nnett/codex-subscription-router",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "CharlesHoskinson/anthropies",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "bawadou/ai-data-extractor",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "floflo777/open-crypto-puzzles",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "Glitch-Cat-Club/graph-memory-starter",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "norio/three-stylized-water",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "DFarm6/Prism-Browser-Community",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "LBH-123-AI/Comfyui_Minimax_h3_latent_Upscaler",
-      "date": "2026-08-16"
-    },
-    {
-      "name": "chengyi-ai/native-subtitle-quote-image",
-      "date": "2026-08-16"
-    },
-    {
       "name": "browser-use/macos-harness",
       "date": "2026-08-17"
     },
@@ -1623,6 +1503,126 @@
     {
       "name": "Vuk97/forward-implementation-first",
       "date": "2026-08-29"
+    },
+    {
+      "name": "GangTailorUpgrade/CoomeRtool",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "siknet/FreePEP",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "reactor-team/infinite-livestream",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "slightbasebo/fragment-api-dev",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "daffainfo/vol-rs",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "MSNightmare/PrettyPrague",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "KorekKayu/IKONA-Security",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "blendi-remade/interdimensional-game",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "mizorewww/course2md",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "profullstack/hqtui",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "GangTailorUpgrade/CoomeRtool",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "siknet/FreePEP",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "reactor-team/infinite-livestream",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "KorekKayu/IKONA-Security",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "blendi-remade/interdimensional-game",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "profullstack/hqtui",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "sharptoolbox/ontology-driven-dev",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "subsy/skill-cabinet",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "AMAP-ML/LoopArena",
+      "date": "2026-08-30"
+    },
+    {
+      "name": "Tyche-MKR/scientific-agent-skills",
+      "date": "2026-08-30"
     }
   ]
 }
