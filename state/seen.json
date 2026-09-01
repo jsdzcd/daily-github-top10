@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "browser-use/macos-harness",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "SigmanticAI/apex-inference-chip",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "jdshfhds/northcinder",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "BigPengSays/bigpeng-hot-gzh",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "s1dashu/ip-as-logo-skill",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "op7418/pilot-harness",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "wang2122/sprix-sage-router",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "MengTo/sylva",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "MirroS-Lab/HarnessEval-W",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "skydashnet/material-design-3-ui-skill",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "yt-dlp/yt-dlp",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "flutter/flutter",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "twbs/bootstrap",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "f/prompts.chat",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "huggingface/transformers",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "langflow-ai/langflow",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "vercel/next.js",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "krahets/hello-algo",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "browser-use/macos-harness",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "SigmanticAI/apex-inference-chip",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "jdshfhds/northcinder",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "op7418/pilot-harness",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "wang2122/sprix-sage-router",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "MirroS-Lab/HarnessEval-W",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "amitshekhariitbhu/llm-inference-engineering",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "d4ncboz/qoder-workflow",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "xianxie6/stamp-edge-skill",
-      "date": "2026-08-17"
-    },
-    {
-      "name": "liyue-aigc/seedance-2-5-video-director",
-      "date": "2026-08-17"
-    },
-    {
       "name": "DenisSergeevitch/desktop-fly",
       "date": "2026-08-18"
     },
@@ -1623,6 +1503,126 @@
     {
       "name": "Tyche-MKR/scientific-agent-skills",
       "date": "2026-08-30"
+    },
+    {
+      "name": "2akouwu/codex-cli-portable-setup-kit",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "faisalkindi/DLSS5oneclick",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "tsouth89/omakade",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "Sharonh43297/cloudflare-turnstile-examples",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "AMAP-ML/DreamX-Creator",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "yilujian/easy-writing",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "mahdidavoodi7/react-native-continued-task",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "productdevbook/cizgile",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "CircuitSavage/cloudflare-turnstile-reversed",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "AlephAITech/DoubaoWorkGuide",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "flutter/flutter",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "twbs/bootstrap",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "f/prompts.chat",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "huggingface/transformers",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "vercel/next.js",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "2akouwu/codex-cli-portable-setup-kit",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "mahdidavoodi7/react-native-continued-task",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "productdevbook/cizgile",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "CircuitSavage/cloudflare-turnstile-reversed",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "AlephAITech/DoubaoWorkGuide",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "niawjunior/aipass-bridge",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "Chandrabhanu-Prusty/jarvis-frontend",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "ara-mkr/Wonder-Pill",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "basketikun/claude2api",
+      "date": "2026-08-31"
+    },
+    {
+      "name": "lihaoyun6/ComfyUI-H3VAE_TRT",
+      "date": "2026-08-31"
     }
   ]
 }
