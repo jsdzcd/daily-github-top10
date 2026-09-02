@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "DenisSergeevitch/desktop-fly",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "vvxw/deploy-vercel",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "missuo/herdrm",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "Leutenegger/watermarks-remover",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "littledivy/dgit",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "air-embodied-brain/Zetta-Embodiment",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "zyrexdz/cyberleek-leak-research",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "iAmCorey/Wake",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "JouJouoo/agent-campus",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "ollama/ollama",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "langgenius/dify",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "langchain-ai/langchain",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "microsoft/PowerToys",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "golang/go",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "react/react-native",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "kubernetes/kubernetes",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "vvxw/deploy-vercel",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "Leutenegger/watermarks-remover",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "littledivy/dgit",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "air-embodied-brain/Zetta-Embodiment",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "JouJouoo/agent-campus",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "trungdq88/mechanical-deployables-treejs",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "Jc007zZ/discord-screen",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "sam70361/emotion-ball",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "xuanyuanzhifeng/dsh-plugin-agent-workflow",
-      "date": "2026-08-18"
-    },
-    {
-      "name": "asen-goat-mine/boujoy-harness",
-      "date": "2026-08-18"
-    },
-    {
       "name": "xdreizein666/getcontact-cli",
       "date": "2026-08-19"
     },
@@ -1623,6 +1503,126 @@
     {
       "name": "lihaoyun6/ComfyUI-H3VAE_TRT",
       "date": "2026-08-31"
+    },
+    {
+      "name": "dreamers-laboratory/agent-fleet-manager",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "joeseesun/qiaomu-book-reader",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "c22dev/badnotes",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "kydlikebtc/awesome-grokbot",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "LunarXuan/image-prompt-reverse",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "yczz/oc-english",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "lisitskyaa/ComfyUI-DLSS5-NR",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "LIUFelix2004/God-minmax-H3",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "Mercor-Intelligence/ApexAgents-SkyRL-Recipe",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "slightlyuseless/pons-launch-engine",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "ollama/ollama",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "langgenius/dify",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "golang/go",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "react/react-native",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "dreamers-laboratory/agent-fleet-manager",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "joeseesun/qiaomu-book-reader",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "yczz/oc-english",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "Mercor-Intelligence/ApexAgents-SkyRL-Recipe",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "slightlyuseless/pons-launch-engine",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "Maas6696/cloudflare-challenge-clearance",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "hebertporto/appstore-forge",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "kowalski76057/cf-turnstile-token",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "ZekunCheng/novoweave",
+      "date": "2026-09-01"
+    },
+    {
+      "name": "lnkiai/m3e-canvas",
+      "date": "2026-09-01"
     }
   ]
 }
