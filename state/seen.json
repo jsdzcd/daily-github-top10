@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "xdreizein666/getcontact-cli",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "lanicer/cve-2026-41940-PoC",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "s0lness/awesome-esp32",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "Alioces/chinese-core-building",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "jsongmax/oci-core",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "oil-oil/dsh-oil-creator",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "d4ncboz/github-farm",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "AinxietyLab/VidScribe",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "hexquic/Freevlessvpnrussia",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "microsoft/markitdown",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "xdreizein666/getcontact-cli",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "lanicer/cve-2026-41940-PoC",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "jsongmax/oci-core",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "oil-oil/dsh-oil-creator",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "d4ncboz/github-farm",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "AinxietyLab/VidScribe",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "jinzijian/EvoTrace",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "YuJunZhiXue/dsh-purge",
-      "date": "2026-08-19"
-    },
-    {
-      "name": "huacnlee/omamail",
-      "date": "2026-08-19"
-    },
-    {
       "name": "Leutenegger/vanity-eth",
       "date": "2026-08-20"
     },
@@ -1623,6 +1503,126 @@
     {
       "name": "lnkiai/m3e-canvas",
       "date": "2026-09-01"
+    },
+    {
+      "name": "MSNightmare/FalconFlank",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "PhiloLabs/fable51-worlds",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "codejunkie99/fable-orchestrator",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "dreamers-laboratory/image-to-3d-pipeline",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "aaronyi97/image-story-video-wizard",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "OpenVDN/vdn-minimax-h3",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "gozen3ji/consulting-pptx-skill",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "thisisgm/flea",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "dreamers-laboratory/timeseries-atlas",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "nahrek/polyledger",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "Genymobile/scrcpy",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "Chalarangelo/30-seconds-of-code",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "PhiloLabs/fable51-worlds",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "dreamers-laboratory/image-to-3d-pipeline",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "aaronyi97/image-story-video-wizard",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "OpenVDN/vdn-minimax-h3",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "gozen3ji/consulting-pptx-skill",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "dreamers-laboratory/timeseries-atlas",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "nahrek/polyledger",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "op7418/guizang-yingzao-skill",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "Albert-Weasker/niubigeo",
+      "date": "2026-09-02"
+    },
+    {
+      "name": "dreamers-laboratory/ai-evaluation-framework",
+      "date": "2026-09-02"
     }
   ]
 }
