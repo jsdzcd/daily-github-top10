@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Leutenegger/vanity-eth",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "Leutenegger/coldcard-airgap",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "cclank/lanshu-create-ai-presenter-video",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "MengTo/threeui",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "OpenLabs-so/oa-design",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "Neofollower/Neofollower-SMM-Reseller-API-for-Woocommerce",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "Neofollower/Neofollower-SMM-Panel-API",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "turkiyeyapayzekaakademisi/computer-vision-workshop",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "GamePhanes/GamePhanes",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "kunchenguid/grok-ship",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "anthropics/skills",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "open-webui/open-webui",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "electron/electron",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "shadcn-ui/ui",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "Leutenegger/vanity-eth",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "Leutenegger/coldcard-airgap",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "cclank/lanshu-create-ai-presenter-video",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "MengTo/threeui",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "OpenLabs-so/oa-design",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "turkiyeyapayzekaakademisi/computer-vision-workshop",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "GamePhanes/GamePhanes",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "vivekhaldar/seed",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "abligail/narralume",
-      "date": "2026-08-20"
-    },
-    {
-      "name": "MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark",
-      "date": "2026-08-20"
-    },
-    {
       "name": "Leutenegger/claudish-to-english",
       "date": "2026-08-21"
     },
@@ -1623,6 +1503,126 @@
     {
       "name": "dreamers-laboratory/ai-evaluation-framework",
       "date": "2026-09-02"
+    },
+    {
+      "name": "danielblnc/DLSS-NR-on-AMD",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "ahujasid/camera-to-blender",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "R44VC0RP/superlocal",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "KJGX66F/usque-custom-pro",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "0x6rss/instagram-private-graph",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "kajisho5/ffmpeg-skill",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "blendi-remade/unreel",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "blakeshao/p5-playground",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "Saganaki22/ComfyUI-VDN-H3",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "bjarneo/omarchy-workspace-layout",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "anthropics/skills",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "ahujasid/camera-to-blender",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "R44VC0RP/superlocal",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "KJGX66F/usque-custom-pro",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "0x6rss/instagram-private-graph",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "kajisho5/ffmpeg-skill",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "blendi-remade/unreel",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "blakeshao/p5-playground",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "Saganaki22/ComfyUI-VDN-H3",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "bjarneo/omarchy-workspace-layout",
+      "date": "2026-09-03"
+    },
+    {
+      "name": "sohu-mptc/FlashRec",
+      "date": "2026-09-03"
     }
   ]
 }
