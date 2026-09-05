@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Leutenegger/claudish-to-english",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "LB623/no-negative-echo",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "adnanakil/nobuzz",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "dcouple/terminal-minceraft",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "web7x/facebook-reporting-bot",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "ChenShuo2004/cs-board",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "khydrogenous/lightspeed",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "Nour-yahyaoui/c-road",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "ZSeven-W/dsh-android",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "soul-99/SU_IMD",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "TheAlgorithms/Python",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "avelino/awesome-go",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "garrytan/gstack",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "rustdesk/rustdesk",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "LB623/no-negative-echo",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "dcouple/terminal-minceraft",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "ChenShuo2004/cs-board",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "khydrogenous/lightspeed",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "Nour-yahyaoui/c-road",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "ZSeven-W/dsh-android",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "me-links-onion-for-tor/links-onion-for-tor",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "unclecode/modelprint",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "marksvia/usbliter8Remote",
-      "date": "2026-08-21"
-    },
-    {
-      "name": "zhaoxuya520/MeshLAN",
-      "date": "2026-08-21"
-    },
-    {
       "name": "duty1g/x64dbg-mcp-server",
       "date": "2026-08-22"
     },
@@ -1623,6 +1503,126 @@
     {
       "name": "sohu-mptc/FlashRec",
       "date": "2026-09-03"
+    },
+    {
+      "name": "anthropics/fermats-last-theorem",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "Rion-Wu-tech/wechat-intelligence-hub",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "byJoey/warp-masque-actions",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "ashemag/human-atlas",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "brendazure/balena-simple",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "Appllama/liquid-glass-screens",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "34306/vphone-web",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "joe-bell/skills",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "vinzdg/codenotch",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "avelino/awesome-go",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "garrytan/gstack",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "Rion-Wu-tech/wechat-intelligence-hub",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "byJoey/warp-masque-actions",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "ashemag/human-atlas",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "Appllama/liquid-glass-screens",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "Mantitup-Org/vista",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "AndranikFutureLabs/VoiceTransleter_V3",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "aaravshah1311/Agent-2",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "pierrenade/short-video-generator-AI",
+      "date": "2026-09-04"
+    },
+    {
+      "name": "kitlangton/rolling-number",
+      "date": "2026-09-04"
     }
   ]
 }
