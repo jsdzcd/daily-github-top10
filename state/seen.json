@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "duty1g/x64dbg-mcp-server",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "nateherkai/scroll-craft",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "Forsy-AI/biosecurity-agent",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "aj-2-c-2-a/undress-designses",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "localai-org/kimodo.cpp",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "josiah-nelson/eidos",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "bam-bam-2/solo-skills",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "kgoedecke/doop",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "programasweights/claudish",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "preporato/claude-certification-guide",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "nodejs/node",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "rust-lang/rust",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "openai/codex",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "mrdoob/three.js",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "2dust/v2rayN",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "immich-app/immich",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "nateherkai/scroll-craft",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "Forsy-AI/biosecurity-agent",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "bam-bam-2/solo-skills",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "kgoedecke/doop",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "programasweights/claudish",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "luke321/vault-graph",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "feyzilim/clipfactory",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "totec448-spec/chat-on-steroids",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "ripmilla/netwalk",
-      "date": "2026-08-22"
-    },
-    {
-      "name": "Cripacx/mediagen",
-      "date": "2026-08-22"
-    },
-    {
       "name": "b-nnett/grok-bot-0.18-reconstructed",
       "date": "2026-08-23"
     },
@@ -1623,6 +1503,126 @@
     {
       "name": "kitlangton/rolling-number",
       "date": "2026-09-04"
+    },
+    {
+      "name": "okf-memory/okf-agent-memory",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "evangelosvlachos96-dotcom/booking-microservices",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "biusberline/cloudflare-turnstile-solver",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "donvito/codex-astra-luna-orchestrator",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "Jarvis322/macos-sysdata",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "hsandhu/mobilecode",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "RhuanCruz/swiftui-logo-draw",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "brinkravenmodify/How-To-Fish-Trainer",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "evangelosvlachos96-dotcom/microservices-tracing-kafka-opentelemetry",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "yang0/handraw-style",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "electron/electron",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "openai/codex",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "nodejs/node",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "rust-lang/rust",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "2dust/v2rayN",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "okf-memory/okf-agent-memory",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "biusberline/cloudflare-turnstile-solver",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "hsandhu/mobilecode",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "RhuanCruz/swiftui-logo-draw",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "0x-IHRR/Xiaobai-Skills",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "ramazancetinkaya/global-timezone-tracker",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "scottstts/Jelly-Baby",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "shaheer-00/claude-adhd",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "v-modal/vmodal_sdk_robotics",
+      "date": "2026-09-05"
+    },
+    {
+      "name": "Nicholas2519/python-cloudflare-turnstile",
+      "date": "2026-09-05"
     }
   ]
 }
