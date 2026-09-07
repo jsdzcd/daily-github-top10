@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "b-nnett/grok-bot-0.18-reconstructed",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "tobi/walgit",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "ShadowAqueduct/watermark-remover",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "rome-os/rome",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "TarunTomar122/better-voice",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "blendmaidintrigue/e621",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "fzakaria/selfdb",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "alchaincyf/huashu-excel",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "itshen/source-reading-methodology",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "sqzw-x/amane",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "ohmyzsh/ohmyzsh",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "farion1231/cc-switch",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "godotengine/godot",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "practical-tutorials/project-based-learning",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "b-nnett/grok-bot-0.18-reconstructed",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "ShadowAqueduct/watermark-remover",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "rome-os/rome",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "alchaincyf/huashu-excel",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "itshen/source-reading-methodology",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "sqzw-x/amane",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "lxf746/outlook-auto-register",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "TeleHuman/WNM-3D",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "hirotomasato/jiofarm",
-      "date": "2026-08-23"
-    },
-    {
-      "name": "MervLis/chatgpt-rebind-standalone",
-      "date": "2026-08-23"
-    },
-    {
       "name": "bryllim/workout-guide",
       "date": "2026-08-24"
     },
@@ -1623,6 +1503,126 @@
     {
       "name": "Nicholas2519/python-cloudflare-turnstile",
       "date": "2026-09-05"
+    },
+    {
+      "name": "EverettFish/holo-card-studio",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "jtydhr88/screenwriting-skills",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "kunchenguid/kun",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "alchaincyf/huashu-mac-use",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "Tejashmakwana/astra-chatgpt-hyperframes",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "wz1119/Codex-Minecraft-Gameplay",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "alvinunreal/awesome-submitlist",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "Theclues/TradeGenuis-box",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "VII-Cae/hyalite--liquid-glass",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "achimala/dream-loop",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "ohmyzsh/ohmyzsh",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "EverettFish/holo-card-studio",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "Tejashmakwana/astra-chatgpt-hyperframes",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "wz1119/Codex-Minecraft-Gameplay",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "Theclues/TradeGenuis-box",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "VII-Cae/hyalite--liquid-glass",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "aizhimou/javranking-extension",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "OpenWAM-Official/OpenWAM",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "chadhurley25075-png/pd-bridge",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "xflare-bot/pokemonlive",
+      "date": "2026-09-06"
+    },
+    {
+      "name": "LuckinSven/8086-xcheck-system",
+      "date": "2026-09-06"
     }
   ]
 }
