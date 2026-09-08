@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "bryllim/workout-guide",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "amosblomqvist/learn",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "lvgalvao/projeto-dados-ia-databricks",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "yding-git/personal-edge-proxy",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "czm15053/linuxdo-idea-ui",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "yizhiyanhua-ai/fireworks-open-eli5",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "dragthelake/ambient-context",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "Straniero44/wenai",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "zhuyifang/tonghuasun-agent",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "achrefelouafi/LinearAbilityExtThreeJS",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "github/gitignore",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "excalidraw/excalidraw",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "practical-tutorials/project-based-learning",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "mattpocock/skills",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "amosblomqvist/learn",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "lvgalvao/projeto-dados-ia-databricks",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "czm15053/linuxdo-idea-ui",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "yizhiyanhua-ai/fireworks-open-eli5",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "zhuyifang/tonghuasun-agent",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "achrefelouafi/LinearAbilityExtThreeJS",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "zunmax/technocore-did-starter",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "Jingyi-Wu-Richael/replicate-video-ad",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "ericlitman/open-pstack",
-      "date": "2026-08-24"
-    },
-    {
-      "name": "Stupidoodle/swissdevjobs-cli",
-      "date": "2026-08-24"
-    },
-    {
       "name": "wide-trace/open-higgsfield",
       "date": "2026-08-25"
     },
@@ -1623,6 +1503,126 @@
     {
       "name": "LuckinSven/8086-xcheck-system",
       "date": "2026-09-06"
+    },
+    {
+      "name": "openai/NavierStokesAndEuler",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "Sophomoresty/turnstile-bypass",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "henryzawadzki6542/cloudflare-turnstile-bypass",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "lfzk550/fanzha-ai-proxy",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "gazijarin/itsgiving",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "LerSent001/holo-card",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "noskillish/bankmcp",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "cclank/clay-safari",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "tristanbuckmaster/fluid_lean",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "LBEILC/RhineLabUI",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "github/gitignore",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "excalidraw/excalidraw",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "Sophomoresty/turnstile-bypass",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "henryzawadzki6542/cloudflare-turnstile-bypass",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "gazijarin/itsgiving",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "LerSent001/holo-card",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "noskillish/bankmcp",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "cclank/clay-safari",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "LBEILC/RhineLabUI",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "HRuiCcc/RuiC-card-skill",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "mubix/cyber-resume-reviewer-skill",
+      "date": "2026-09-07"
+    },
+    {
+      "name": "hanyang9/UMR",
+      "date": "2026-09-07"
     }
   ]
 }
