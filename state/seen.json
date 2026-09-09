@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "wide-trace/open-higgsfield",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "oboroge0/hayamimi",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "gtlhuyidan-sketch/life-ipo",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "Tencent/WeMM-Embedding",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "techcomet122583/Polymarket-Telegram-Bot",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "KurosawaGeeker/femboy-skill",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "seedleap/zing-world-model",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "HRuiCcc/music-geshizhuanhuan",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "ooocooc/open-skill-sunset",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "wide-trace/open-higgsfield",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "oboroge0/hayamimi",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "gtlhuyidan-sketch/life-ipo",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "Tencent/WeMM-Embedding",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "techcomet122583/Polymarket-Telegram-Bot",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "KurosawaGeeker/femboy-skill",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "seedleap/zing-world-model",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "HRuiCcc/music-geshizhuanhuan",
-      "date": "2026-08-25"
-    },
-    {
-      "name": "ooocooc/open-skill-sunset",
-      "date": "2026-08-25"
-    },
-    {
       "name": "HEJustinSun/my-girlfriend-jingtian-latex",
       "date": "2026-08-27"
     },
@@ -1623,6 +1503,126 @@
     {
       "name": "hanyang9/UMR",
       "date": "2026-09-07"
+    },
+    {
+      "name": "com-phantom/Phantom-Wallet-Desktop",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "nagisanzenin/truanayangi",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "jaskirat1616/mactap-app",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "jnz/INSLIB",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "andrewroxby/claude-style-patch",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "SpinnerAppreciate/glm-flash-offline-client",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "daishuge/pcb-skill",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "masihsultani/whiteboard-animator",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "skydoves/nowinandroid-kmp",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "sashyo/minidauth",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "nagisanzenin/truanayangi",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "daishuge/pcb-skill",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "masihsultani/whiteboard-animator",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "Surge-Org/Surge",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "Colafornia/short-video-generator-AI",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "paveldevyatov/refund-anything-ai-prompt",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "ashelygierisch/React_dash_tremor_Tailwind",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "VaderChen/YourDesk",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "ashelygierisch/ESP32-AI",
+      "date": "2026-09-08"
+    },
+    {
+      "name": "ashelygierisch/Time_plottimeseries_CLI_tool",
+      "date": "2026-09-08"
     }
   ]
 }
