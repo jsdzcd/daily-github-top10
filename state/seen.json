@@ -1,94 +1,6 @@
 {
   "items": [
     {
-      "name": "jlrouzies-fr/DLSS5-Feeder",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "useagenthq/useagent",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "aimen08/noty",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "Samyak2605/Crusader-Kings-III-Save-File-Editor-Free-PC-Download",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "hsasinai/tModLoader-Mod-Menu-PC-Free-Community-Release",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "zituhossain/Total-War-WARHAMMER-III-Character-Editor-Edit-Your-Character-Save-Free-",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "ArseneBeats/Rocket-League-Trainer-Free-Unlimited-Health-Money-More",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "christiandlbanzon/The-Binding-of-Isaac-Rebirth-Save-File-Editor-Free-PC-Download",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "soundernarayanasamy/Path-of-Exile-Character-Editor-Free-Download",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "clusterassets/Attack-on-Titan-Revolution-Script-Pastebin-Loadstring-Free-2026",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "TheAlgorithms/Python",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "useagenthq/useagent",
-      "date": "2026-08-29"
-    },
-    {
-      "name": "Vuk97/forward-implementation-first",
-      "date": "2026-08-29"
-    },
-    {
       "name": "GangTailorUpgrade/CoomeRtool",
       "date": "2026-08-30"
     },
@@ -1647,6 +1559,126 @@
     {
       "name": "atbender/deepseek-v41-flash-mac-mini",
       "date": "2026-09-11"
+    },
+    {
+      "name": "rizqinrr/viserys-agent",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "yifanzhang-pro/recurrent-looped-tranformer",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "zjwzcx/Awesome-Astra-Embodied-AI",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "Qiuner/birdview",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "cobanov/awesome-fly",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "max99x/wutw-public",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "danieldeer/seriousdb",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "suoha888/CJ-DeFi-Handbook",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "jcx396905-gif/DuoFold-Android",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "govin-ai/dunhuang-aura-skill",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "rizqinrr/viserys-agent",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "Qiuner/birdview",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "danieldeer/seriousdb",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "govin-ai/dunhuang-aura-skill",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "linguo2625469/workbuddy2api-panel",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "ivyfan-toowell/IvyClaw",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "romanj-io99y5/marvel-performance-kit-2026",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "lidge-jun/aside-codemode",
+      "date": "2026-09-12"
+    },
+    {
+      "name": "Xu123-Bob/Baize",
+      "date": "2026-09-12"
     }
   ]
 }
