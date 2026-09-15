@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "2akouwu/codex-cli-portable-setup-kit",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "faisalkindi/DLSS5oneclick",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "tsouth89/omakade",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "Sharonh43297/cloudflare-turnstile-examples",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "AMAP-ML/DreamX-Creator",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "yilujian/easy-writing",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "mahdidavoodi7/react-native-continued-task",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "productdevbook/cizgile",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "CircuitSavage/cloudflare-turnstile-reversed",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "AlephAITech/DoubaoWorkGuide",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "flutter/flutter",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "twbs/bootstrap",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "f/prompts.chat",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "huggingface/transformers",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "langflow-ai/langflow",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "vercel/next.js",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "2akouwu/codex-cli-portable-setup-kit",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "mahdidavoodi7/react-native-continued-task",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "productdevbook/cizgile",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "CircuitSavage/cloudflare-turnstile-reversed",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "AlephAITech/DoubaoWorkGuide",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "niawjunior/aipass-bridge",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "Chandrabhanu-Prusty/jarvis-frontend",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "ara-mkr/Wonder-Pill",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "basketikun/claude2api",
-      "date": "2026-08-31"
-    },
-    {
-      "name": "lihaoyun6/ComfyUI-H3VAE_TRT",
-      "date": "2026-08-31"
-    },
-    {
       "name": "dreamers-laboratory/agent-fleet-manager",
       "date": "2026-09-01"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "yifanzhang-pro/FlashREINFORCE",
       "date": "2026-09-13"
+    },
+    {
+      "name": "ai-sucks-butt/ai-sucks-butt",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "letorig/video-generator-client",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "FSECDEV/Threat-Intelligence-Hackers-Forums",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "999sian/melee-pc",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "Frankweb33/flybrain-robot-bridge",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "0xjohnnydev/airlift",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "mpociot/claude-siri-ai",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "githubuser420x/FGOAC-scooby",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "KillaBoi/BrokenPipe",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "ERRRC/kaogongzhentizhengliu",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "donnemartin/system-design-primer",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "mattpocock/skills",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "flutter/flutter",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "twbs/bootstrap",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "huggingface/transformers",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "vercel/next.js",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "letorig/video-generator-client",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "Frankweb33/flybrain-robot-bridge",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "Work-Fisher/AIFISHER",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "opencoredev/bg0",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "janice20435/cf-turnstile-token",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "RocYan98/CodexBoard",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "anmolkapil/plexo",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "Shellishack/infinite-pokemon",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "rkelly51/Flash-USDT-Tool",
+      "date": "2026-09-14"
+    },
+    {
+      "name": "neonthorn22/kalshi-trading-bot",
+      "date": "2026-09-14"
     }
   ]
 }
