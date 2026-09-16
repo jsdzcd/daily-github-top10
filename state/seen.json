@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "dreamers-laboratory/agent-fleet-manager",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "joeseesun/qiaomu-book-reader",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "c22dev/badnotes",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "kydlikebtc/awesome-grokbot",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "LunarXuan/image-prompt-reverse",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "yczz/oc-english",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "lisitskyaa/ComfyUI-DLSS5-NR",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "LIUFelix2004/God-minmax-H3",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "Mercor-Intelligence/ApexAgents-SkyRL-Recipe",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "slightlyuseless/pons-launch-engine",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "ollama/ollama",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "langgenius/dify",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "langchain-ai/langchain",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "microsoft/PowerToys",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "golang/go",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "react/react-native",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "kubernetes/kubernetes",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "sindresorhus/awesome",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "dreamers-laboratory/agent-fleet-manager",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "joeseesun/qiaomu-book-reader",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "yczz/oc-english",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "Mercor-Intelligence/ApexAgents-SkyRL-Recipe",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "slightlyuseless/pons-launch-engine",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "Maas6696/cloudflare-challenge-clearance",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "hebertporto/appstore-forge",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "kowalski76057/cf-turnstile-token",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "ZekunCheng/novoweave",
-      "date": "2026-09-01"
-    },
-    {
-      "name": "lnkiai/m3e-canvas",
-      "date": "2026-09-01"
-    },
-    {
       "name": "MSNightmare/FalconFlank",
       "date": "2026-09-02"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "neonthorn22/kalshi-trading-bot",
       "date": "2026-09-14"
+    },
+    {
+      "name": "saragordic/window-sweaters",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "Marcos66236/github-stars-history",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "theoephraim/awesome-cloudflare-selfhosted",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "vinnylarouge/jevlike",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "YongshengWin/VpsCT",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "hirakujira/NEIN",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "GraafHenk/numberwang",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "FLModel/flm",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "ForrestKnight/omarchy-key-promoter",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "davidmokos/expo-gpt-live",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "yt-dlp/yt-dlp",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "ollama/ollama",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "langgenius/dify",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "golang/go",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "Marcos66236/github-stars-history",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "vinnylarouge/jevlike",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "YongshengWin/VpsCT",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "GraafHenk/numberwang",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "davidmokos/expo-gpt-live",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "greentfrapp/panel",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "fiedri/awesome-android-apps",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "longer-sausage/OK-AzurPromilia",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "dofastted/vm2api",
+      "date": "2026-09-15"
+    },
+    {
+      "name": "murattahtaci/turkish-bank-logos-svg",
+      "date": "2026-09-15"
     }
   ]
 }
