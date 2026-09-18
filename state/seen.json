@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "danielblnc/DLSS-NR-on-AMD",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "ahujasid/camera-to-blender",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "R44VC0RP/superlocal",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "KJGX66F/usque-custom-pro",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "0x6rss/instagram-private-graph",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "kajisho5/ffmpeg-skill",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "blendi-remade/unreel",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "blakeshao/p5-playground",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "Saganaki22/ComfyUI-VDN-H3",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "bjarneo/omarchy-workspace-layout",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "anthropics/skills",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "open-webui/open-webui",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "ahujasid/camera-to-blender",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "R44VC0RP/superlocal",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "KJGX66F/usque-custom-pro",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "0x6rss/instagram-private-graph",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "kajisho5/ffmpeg-skill",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "blendi-remade/unreel",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "blakeshao/p5-playground",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "Saganaki22/ComfyUI-VDN-H3",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "bjarneo/omarchy-workspace-layout",
-      "date": "2026-09-03"
-    },
-    {
-      "name": "sohu-mptc/FlashRec",
-      "date": "2026-09-03"
-    },
-    {
       "name": "anthropics/fermats-last-theorem",
       "date": "2026-09-04"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "devagrawal09/jev-review",
       "date": "2026-09-16"
+    },
+    {
+      "name": "tamaratran/fast-jev-compaction",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "TianyuCodings/NanoJev",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "AbdelStark/awesome-typesafe",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "anthropics/uplifting-biomolecular-modeling",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "dabit3/jev-experiments",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "NandhaKishorM/laya",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "kitze/skillbox",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "sabbircode-dev/learning-python",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "realZachi/pg-jev",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "tamaratran/fast-jev-compaction",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "TianyuCodings/NanoJev",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "Continuum-AI-Corp/OrcaBonsai-27B-Uncensored",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "AbdelStark/awesome-typesafe",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "anthropics/uplifting-biomolecular-modeling",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "dabit3/jev-experiments",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "kitze/skillbox",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "sabbircode-dev/learning-python",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "ekzhang/openjev-sglang",
+      "date": "2026-09-17"
+    },
+    {
+      "name": "repoboost-hq/github-launch-checklist",
+      "date": "2026-09-17"
     }
   ]
 }
