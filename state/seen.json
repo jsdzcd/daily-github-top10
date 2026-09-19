@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "anthropics/fermats-last-theorem",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "Rion-Wu-tech/wechat-intelligence-hub",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "byJoey/warp-masque-actions",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "ashemag/human-atlas",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "brendazure/balena-simple",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "Appllama/liquid-glass-screens",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "34306/vphone-web",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "joe-bell/skills",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "vinzdg/codenotch",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "avelino/awesome-go",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "garrytan/gstack",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "shadcn-ui/ui",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "Rion-Wu-tech/wechat-intelligence-hub",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "byJoey/warp-masque-actions",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "ashemag/human-atlas",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "Appllama/liquid-glass-screens",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "Mantitup-Org/vista",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "AndranikFutureLabs/VoiceTransleter_V3",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "aaravshah1311/Agent-2",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "pierrenade/short-video-generator-AI",
-      "date": "2026-09-04"
-    },
-    {
-      "name": "kitlangton/rolling-number",
-      "date": "2026-09-04"
-    },
-    {
       "name": "okf-memory/okf-agent-memory",
       "date": "2026-09-05"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "repoboost-hq/github-launch-checklist",
       "date": "2026-09-17"
+    },
+    {
+      "name": "arvindear/wp2shell-PoC",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "githubnext/localjev",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "gylive/ccodex-sleep-state",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "bespokelabsai/nimble",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "incoai/splash",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "Sac-Y/Jev-cu",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "eliasstravik/herdr-projects",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "featherless-ai/simple-jev",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "kyotofin/tax-doc-classifier",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "cobanov/awesome-jev",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "avelino/awesome-go",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "garrytan/gstack",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "arvindear/wp2shell-PoC",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "githubnext/localjev",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "gylive/ccodex-sleep-state",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "bespokelabsai/nimble",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "incoai/splash",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "Sac-Y/Jev-cu",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "featherless-ai/simple-jev",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "kyotofin/tax-doc-classifier",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "VDERR/echocat-skill-panel-3.0",
+      "date": "2026-09-18"
+    },
+    {
+      "name": "wy-coliney/jev-browser-use",
+      "date": "2026-09-18"
     }
   ]
 }
