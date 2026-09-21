@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "EverettFish/holo-card-studio",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "jtydhr88/screenwriting-skills",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "kunchenguid/kun",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "alchaincyf/huashu-mac-use",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "Tejashmakwana/astra-chatgpt-hyperframes",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "wz1119/Codex-Minecraft-Gameplay",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "alvinunreal/awesome-submitlist",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "Theclues/TradeGenuis-box",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "VII-Cae/hyalite--liquid-glass",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "achimala/dream-loop",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "ohmyzsh/ohmyzsh",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "farion1231/cc-switch",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "practical-tutorials/project-based-learning",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "EverettFish/holo-card-studio",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "Tejashmakwana/astra-chatgpt-hyperframes",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "wz1119/Codex-Minecraft-Gameplay",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "Theclues/TradeGenuis-box",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "VII-Cae/hyalite--liquid-glass",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "aizhimou/javranking-extension",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "OpenWAM-Official/OpenWAM",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "chadhurley25075-png/pd-bridge",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "xflare-bot/pokemonlive",
-      "date": "2026-09-06"
-    },
-    {
-      "name": "LuckinSven/8086-xcheck-system",
-      "date": "2026-09-06"
-    },
-    {
       "name": "openai/NavierStokesAndEuler",
       "date": "2026-09-07"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Heman10x-NGU/openJev-verdict-2.0",
       "date": "2026-09-19"
+    },
+    {
+      "name": "zai-org/ZCode",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "Finderchangchang/jev-chat-JARVIS",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "caxete/crypto-tax-calculator",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "wuyoscar/jev-skill",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "mabdulre9/electrical-engineering",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "minorun365/minorun-marp-skill",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "kloxeld/xscrape",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "Rizzo-AI-Academy/rizzo-flow",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "FBddcz/embodied-jev",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "amitshekhariitbhu/ai-engineer-roadmap",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "ohmyzsh/ohmyzsh",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "zai-org/ZCode",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "caxete/crypto-tax-calculator",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "wuyoscar/jev-skill",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "minorun365/minorun-marp-skill",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "kloxeld/xscrape",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "Rizzo-AI-Academy/rizzo-flow",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "FBddcz/embodied-jev",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "shhivv/arc-cua",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "FerryCorleone/crush-monitor",
+      "date": "2026-09-20"
+    },
+    {
+      "name": "wquguru/dasheng",
+      "date": "2026-09-20"
     }
   ]
 }
