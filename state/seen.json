@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "openai/NavierStokesAndEuler",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "Sophomoresty/turnstile-bypass",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "henryzawadzki6542/cloudflare-turnstile-bypass",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "lfzk550/fanzha-ai-proxy",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "gazijarin/itsgiving",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "LerSent001/holo-card",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "noskillish/bankmcp",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "cclank/clay-safari",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "tristanbuckmaster/fluid_lean",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "LBEILC/RhineLabUI",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "github/gitignore",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "excalidraw/excalidraw",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "practical-tutorials/project-based-learning",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "Sophomoresty/turnstile-bypass",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "henryzawadzki6542/cloudflare-turnstile-bypass",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "gazijarin/itsgiving",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "LerSent001/holo-card",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "noskillish/bankmcp",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "cclank/clay-safari",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "LBEILC/RhineLabUI",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "HRuiCcc/RuiC-card-skill",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "mubix/cyber-resume-reviewer-skill",
-      "date": "2026-09-07"
-    },
-    {
-      "name": "hanyang9/UMR",
-      "date": "2026-09-07"
-    },
-    {
       "name": "com-phantom/Phantom-Wallet-Desktop",
       "date": "2026-09-08"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "wquguru/dasheng",
       "date": "2026-09-20"
+    },
+    {
+      "name": "jev-chat/jev-chat-jarvis",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "unreallabsai/unreal-agent",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "jev-chat/jev-chat-windows",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "freestylefly/WeChatBridge",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "deepopen-com/deepopen",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "malevrigns/agent-jev",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "jev-chat/jev-chat-jarvis-mac",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "TianyuCodings/JevHarness",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "CTNicholas/jev-workflow-builder",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "miuuyy/Astra-Ares",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "anthropics/skills",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "excalidraw/excalidraw",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "jev-chat/jev-chat-jarvis",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "unreallabsai/unreal-agent",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "jev-chat/jev-chat-windows",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "deepopen-com/deepopen",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "malevrigns/agent-jev",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "jev-chat/jev-chat-jarvis-mac",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "TianyuCodings/JevHarness",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "CTNicholas/jev-workflow-builder",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "miuuyy/Astra-Ares",
+      "date": "2026-09-21"
+    },
+    {
+      "name": "Futureppo/typesafe_register",
+      "date": "2026-09-21"
     }
   ]
 }
