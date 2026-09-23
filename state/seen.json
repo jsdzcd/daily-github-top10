@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "com-phantom/Phantom-Wallet-Desktop",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "nagisanzenin/truanayangi",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "jaskirat1616/mactap-app",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "jnz/INSLIB",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "andrewroxby/claude-style-patch",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "SpinnerAppreciate/glm-flash-offline-client",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "daishuge/pcb-skill",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "masihsultani/whiteboard-animator",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "skydoves/nowinandroid-kmp",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "sashyo/minidauth",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "nagisanzenin/truanayangi",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "daishuge/pcb-skill",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "masihsultani/whiteboard-animator",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "Surge-Org/Surge",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "Colafornia/short-video-generator-AI",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "paveldevyatov/refund-anything-ai-prompt",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "ashelygierisch/React_dash_tremor_Tailwind",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "VaderChen/YourDesk",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "ashelygierisch/ESP32-AI",
-      "date": "2026-09-08"
-    },
-    {
-      "name": "ashelygierisch/Time_plottimeseries_CLI_tool",
-      "date": "2026-09-08"
-    },
-    {
       "name": "yureii1996/cek-probe-model",
       "date": "2026-09-09"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Futureppo/typesafe_register",
       "date": "2026-09-21"
+    },
+    {
+      "name": "SewCabinSpout/cleanupper",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "riba2534/claude-opus-5-5-demo",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "kryvora-network/kryvora-node",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "rgem227/knoweldge-base",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "anishfn/shapeshift",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "JohnHeibel/PDoomVideo",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "zeldaboyzlix/corz-client",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "BridgeDruidCompress/TauriKit",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "BinaryDeliverer/CodexDesk",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "BricklayerSurmount/DockForge",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "SewCabinSpout/cleanupper",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "riba2534/claude-opus-5-5-demo",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "kryvora-network/kryvora-node",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "rgem227/knoweldge-base",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "anishfn/shapeshift",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "JohnHeibel/PDoomVideo",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "BinaryDeliverer/CodexDesk",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "AvenueSnowStep/ClaudePanel",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "Shelpid/SETS",
+      "date": "2026-09-22"
+    },
+    {
+      "name": "edison-land/paragravity",
+      "date": "2026-09-22"
     }
   ]
 }
