@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Faizpi/bank-sampah",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "sumimakito/Mac-Duo",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "flybook-git/Main",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "xsolla-baku-gametech-hackathon/team-Omzo",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "browser-use/life-recorder",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "x4gpanell/3x-ui_runonflux",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "eternityspring/reelbench-skills",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "DhananjayBhosale/MacDuo",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "jh3y/lid-plane",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "Atomicx7/Duo-animation",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "deepseek-ai/deepseek-harness",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "massgravel/Microsoft-Activation-Scripts",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "Significant-Gravitas/AutoGPT",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "clash-verge-rev/clash-verge-rev",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "github/spec-kit",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "xsolla-baku-gametech-hackathon/team-Omzo",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "x4gpanell/3x-ui_runonflux",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "fruitflydev/flycoinrh",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "Vodiwalker/vodiwalker_panel",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "chuspeeism/iphone-duo",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "FankChen/tracecrate",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "unstablebuild/rune",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "mattyhempstead/fly-wirehead",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "AlexAntonik/nix-graph",
-      "date": "2026-09-10"
-    },
-    {
-      "name": "nhovongoc0-max/meme-radar",
-      "date": "2026-09-10"
-    },
-    {
       "name": "DefiLeoo/YOINK",
       "date": "2026-09-11"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "asokurasu/text-humanizer",
       "date": "2026-09-23"
+    },
+    {
+      "name": "tobi/disktree",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "jankeesvw/omarchy-meeting-recorder",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "leter/zh-tech-writing",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "ilkerzg/storycast",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "LuwuDynamics/xgoduck_hardware",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "kaolti/phantomat",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "sopersone/cabbage-trading-machine",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "amitshekhariitbhu/ai-system-design",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "diggerhq/shipvideo",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "win4r/MuseAI-Skills",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "clash-verge-rev/clash-verge-rev",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "github/spec-kit",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "Chalarangelo/30-seconds-of-code",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "ilkerzg/storycast",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "sopersone/cabbage-trading-machine",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "amitshekhariitbhu/ai-system-design",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "diggerhq/shipvideo",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "michaelswissa/jevry",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "JaxsonWang/cpa-plugin-oai-basispoints",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "mike007jd/voxel-musou",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "Kaixxrua/excel-codex-bridge",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "zouyuxuan122/dsh-our-free-model",
+      "date": "2026-09-24"
+    },
+    {
+      "name": "S3cur3Th1sSh1t/SnafflePy",
+      "date": "2026-09-24"
     }
   ]
 }
