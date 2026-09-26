@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "DefiLeoo/YOINK",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "Argona7/stampede",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "kruzovic7/ai-data-extractor",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "arikchakma/gpu-time",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "jlxc2001/MacBook-Duo",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "Deepbrecanyon/GameSoft",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "Smart-Paocai/VioletToolBox",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "LYiHub/pub-dsh-privacy-router",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "tropicalpackerroad/Fortnite-ESP-Soft-Aim-2026-SlowLow-Team-Visual-Assist-Tool",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "Chuloo/mural",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "n8n-io/n8n",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "microsoft/vscode",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "DefiLeoo/YOINK",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "Argona7/stampede",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "kruzovic7/ai-data-extractor",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "arikchakma/gpu-time",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "Deepbrecanyon/GameSoft",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "LYiHub/pub-dsh-privacy-router",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "Xu123-Bob/Baize",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "MiaAI-Lab/DeepSeek-v4.1-Flash-DGX-Sparks",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "nuyoah-ai-works/nuyoah-portrait-character-designer",
-      "date": "2026-09-11"
-    },
-    {
-      "name": "atbender/deepseek-v41-flash-mac-mini",
-      "date": "2026-09-11"
-    },
-    {
       "name": "rizqinrr/viserys-agent",
       "date": "2026-09-12"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "S3cur3Th1sSh1t/SnafflePy",
       "date": "2026-09-24"
+    },
+    {
+      "name": "supermemoryai/company-brain",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "SpecterLouse/CapCut-Pro-macOS-Windows",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "jamespolyakov9829/captcha-api",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "feitangyuan/onetake",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "Badtheorylabs/interference-search",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "Roberto02800/turnstile-token",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "MysticGSI/mysticgsi",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "athemeroy/awesome-opus-5-5-videos",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "HeyOkay/HaloBattery",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "bjarneo/flux",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "microsoft/vscode",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "github/gitignore",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "supermemoryai/company-brain",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "jamespolyakov9829/captcha-api",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "feitangyuan/onetake",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "Badtheorylabs/interference-search",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "Roberto02800/turnstile-token",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "HeyOkay/HaloBattery",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "jaydendavisnc/inkwave",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "tugrawork-creator/saas-motion-kit",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "YUTA-fywoo/jev-gui-delegate",
+      "date": "2026-09-25"
+    },
+    {
+      "name": "Rieranthony/product-film-skill",
+      "date": "2026-09-25"
     }
   ]
 }
