@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "rizqinrr/viserys-agent",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "yifanzhang-pro/recurrent-looped-tranformer",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "zjwzcx/Awesome-Astra-Embodied-AI",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "Qiuner/birdview",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "cobanov/awesome-fly",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "max99x/wutw-public",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "danieldeer/seriousdb",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "suoha888/CJ-DeFi-Handbook",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "jcx396905-gif/DuoFold-Android",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "govin-ai/dunhuang-aura-skill",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "TheAlgorithms/Python",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "rizqinrr/viserys-agent",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "Qiuner/birdview",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "danieldeer/seriousdb",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "govin-ai/dunhuang-aura-skill",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "linguo2625469/workbuddy2api-panel",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "ivyfan-toowell/IvyClaw",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "romanj-io99y5/marvel-performance-kit-2026",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "lidge-jun/aside-codemode",
-      "date": "2026-09-12"
-    },
-    {
-      "name": "Xu123-Bob/Baize",
-      "date": "2026-09-12"
-    },
-    {
       "name": "anonymous-report-421/GPT-as-Policy",
       "date": "2026-09-13"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Rieranthony/product-film-skill",
       "date": "2026-09-25"
+    },
+    {
+      "name": "dzhng/jevgrep",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "lemomo-ai/lemo-opuscar",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "yihui-dev/awesome-opus5-5-videos",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "xikhar/spiderbench",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "gulelmatthews/Polymarket-Perpetual-Bot",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "ZacharyZhang-NY/OmaPhoto",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "kaankiziltug/logo-design-skill",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "admte/orc-claude-plugin",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "DanFessler/trellis",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "JoinArtisanVent/x-scraper-no-api",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "dzhng/jevgrep",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "lemomo-ai/lemo-opuscar",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "xikhar/spiderbench",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "gulelmatthews/Polymarket-Perpetual-Bot",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "DanFessler/trellis",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "JoinArtisanVent/x-scraper-no-api",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "breakstageaxe61/genspark-claw",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "graygnatconsole/mcp-audit-tool",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "AgentSystemLabs/agent-office",
+      "date": "2026-09-26"
+    },
+    {
+      "name": "Jiarui-0410/multimodal-product-discovery",
+      "date": "2026-09-26"
     }
   ]
 }
