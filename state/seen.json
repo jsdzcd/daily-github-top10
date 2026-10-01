@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "browser-use/jev-ultrafast",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "TheoLeeCJ/openjev",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "jarrodwatts/jev-trader",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "ctdal/cve-2026-41940-PoC",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "korcarc/text-humanizer",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "Mak5er/AirCard",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "fhshaik/typesafe-mario",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "nMaas8388/github-ranking-audit",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "yynxxxxx/gpt_sub_analysis",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "awlevin/typesafe-computer-use",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "microsoft/markitdown",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "Genymobile/scrcpy",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "react/react-native",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "mattpocock/skills",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "browser-use/jev-ultrafast",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "TheoLeeCJ/openjev",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "jarrodwatts/jev-trader",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "ctdal/cve-2026-41940-PoC",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "korcarc/text-humanizer",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "fhshaik/typesafe-mario",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "nMaas8388/github-ranking-audit",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "awlevin/typesafe-computer-use",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "thruwire/foreman",
-      "date": "2026-09-16"
-    },
-    {
-      "name": "devagrawal09/jev-review",
-      "date": "2026-09-16"
-    },
-    {
       "name": "tamaratran/fast-jev-compaction",
       "date": "2026-09-17"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "spenmcke/compress",
       "date": "2026-09-29"
+    },
+    {
+      "name": "nanaism/yomiyasu",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "Edwardxlai/easyread",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "pengchujin/livecanvas",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "chasmlol/SkyCraft",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "blackbearreloaded/ProsperoEden",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "xiaomingtongxueql/Riot-Account-Checker-Manager",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "wenziai/wenzi-xhs-agent-skills",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "AFK-surf/Comma",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "justxor/claude-code-pro-course",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "f/prompts.chat",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "Genymobile/scrcpy",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "react/react-native",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "nanaism/yomiyasu",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "Edwardxlai/easyread",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "AFK-surf/Comma",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "jmedina21/deck-as-controller",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "1molchuan/edge-smart-doh",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "CharlesFeng0314/JEV_sees",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "deepseek-ai/dsh-libreoffice-kit",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "BquantFinance/Administracion-fuentes-publicas",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "Barbarakarlsson/Hyperliquid-Leaderboard-Analytics",
+      "date": "2026-09-30"
+    },
+    {
+      "name": "mmnga/x-ambient",
+      "date": "2026-09-30"
     }
   ]
 }
