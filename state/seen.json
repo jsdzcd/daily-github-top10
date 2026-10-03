@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "arvindear/wp2shell-PoC",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "githubnext/localjev",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "gylive/ccodex-sleep-state",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "bespokelabsai/nimble",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "incoai/splash",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "Sac-Y/Jev-cu",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "eliasstravik/herdr-projects",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "featherless-ai/simple-jev",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "kyotofin/tax-doc-classifier",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "cobanov/awesome-jev",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "avelino/awesome-go",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "garrytan/gstack",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "arvindear/wp2shell-PoC",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "githubnext/localjev",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "gylive/ccodex-sleep-state",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "bespokelabsai/nimble",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "incoai/splash",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "Sac-Y/Jev-cu",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "featherless-ai/simple-jev",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "kyotofin/tax-doc-classifier",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "VDERR/echocat-skill-panel-3.0",
-      "date": "2026-09-18"
-    },
-    {
-      "name": "wy-coliney/jev-browser-use",
-      "date": "2026-09-18"
-    },
-    {
       "name": "mizorewww/laya-mlx",
       "date": "2026-09-19"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Stxqq/self-driving-car",
       "date": "2026-10-01"
+    },
+    {
+      "name": "sganggs/Stronghold-Protocol",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "QingYunA/answer-me-with-html",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "whirlchat/whirl",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "mizorewww/x_gift_bot",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "blendi-remade/agentcraft",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "NuvexNetwork/nuvex-docs",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "NuvexNetwork/nuvex",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "NuvexNetwork/nuvex-web",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "Kutuyyy/Leaked-System-Prompt-AI",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "zzzz7788990213-ops/EvoVLM",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "avelino/awesome-go",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "garrytan/gstack",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "sganggs/Stronghold-Protocol",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "QingYunA/answer-me-with-html",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "whirlchat/whirl",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "mizorewww/x_gift_bot",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "NuvexNetwork/nuvex-web",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "zzzz7788990213-ops/EvoVLM",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "adityajha2005/yc-outreach",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "jarrodwatts/claude-image-view",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "heise3/academic-deai",
+      "date": "2026-10-02"
+    },
+    {
+      "name": "Jakeschincariol/replica-skill",
+      "date": "2026-10-02"
     }
   ]
 }
