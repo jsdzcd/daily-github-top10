@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "mizorewww/laya-mlx",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "v-modal/awesome-jev-tools",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "newliver666/apk-reverse",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "Haleclipse/CometixCode",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "mizorewww/laya-coreml",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "joeseesun/qiaomu-download",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "rmalde/minecraft-agent",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "HyNetworks/OpenGFW",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "sutro-sh/jev-align",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "521xueweihan/HelloGitHub",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "openai/codex",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "rustdesk/rustdesk",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "electron/electron",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "nodejs/node",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "Graphify-Labs/graphify",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "rust-lang/rust",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "mizorewww/laya-mlx",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "pallavi-shekhar/ai-engineering-interview-questions-company-wise",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "newliver666/apk-reverse",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "mizorewww/laya-coreml",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "joeseesun/qiaomu-download",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "rmalde/minecraft-agent",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "HyNetworks/OpenGFW",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "sutro-sh/jev-align",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "JamesKInner/Covalent-MAS",
-      "date": "2026-09-19"
-    },
-    {
-      "name": "Heman10x-NGU/openJev-verdict-2.0",
-      "date": "2026-09-19"
-    },
-    {
       "name": "zai-org/ZCode",
       "date": "2026-09-20"
     },
@@ -1679,6 +1559,126 @@
     {
       "name": "Jakeschincariol/replica-skill",
       "date": "2026-10-02"
+    },
+    {
+      "name": "kargulstudio/sales-crm",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "BlackCrewmanFringe/AutoCad",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "Blockadezoshack/Microsoft-Project",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "ythx-101/live-panel-skill",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "AxeEradicate/Fps-Booster-for-Windows",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "YXBwbWFya2V0/AppMarket",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "beachbladesmanloop/Hwid-Spoofer",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "allenv0/SCM",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "Adolanium/hermes-gadget-sdk",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "zeemscript/TrustMint",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "openai/codex",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "mattpocock/skills",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "kargulstudio/sales-crm",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "allenv0/SCM",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "Adolanium/hermes-gadget-sdk",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "shinshin86/mesh-avatar-studio",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "cneuralnetwork/kharcha",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "hyj-STAR/voiceshell-muse-bridge",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "Zhou-Yujing114514/deepseek-harness-linux",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "0xhamssog/evem-transaction-manager",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "chao08647-stack/DataPilot",
+      "date": "2026-10-03"
+    },
+    {
+      "name": "dakukibana/short-video-generator",
+      "date": "2026-10-03"
     }
   ]
 }
