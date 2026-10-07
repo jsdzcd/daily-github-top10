@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "SewCabinSpout/cleanupper",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "riba2534/claude-opus-5-5-demo",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "kryvora-network/kryvora-node",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "rgem227/knoweldge-base",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "anishfn/shapeshift",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "JohnHeibel/PDoomVideo",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "zeldaboyzlix/corz-client",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "BridgeDruidCompress/TauriKit",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "BinaryDeliverer/CodexDesk",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "BricklayerSurmount/DockForge",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "SewCabinSpout/cleanupper",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "riba2534/claude-opus-5-5-demo",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "kryvora-network/kryvora-node",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "rgem227/knoweldge-base",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "anishfn/shapeshift",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "JohnHeibel/PDoomVideo",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "BinaryDeliverer/CodexDesk",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "AvenueSnowStep/ClaudePanel",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "Shelpid/SETS",
-      "date": "2026-09-22"
-    },
-    {
-      "name": "edison-land/paragravity",
-      "date": "2026-09-22"
-    },
-    {
       "name": "mikehasa/golive-skill",
       "date": "2026-09-23"
     },
@@ -1675,6 +1555,126 @@
     {
       "name": "longsurf-ai/openchart",
       "date": "2026-10-05"
+    },
+    {
+      "name": "openai/math",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "alejandrobujan/tendedero",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "pingdotgg/ts-rust",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "LoreanXavier/pt-pc",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "nullmoth/nvidia-macos-driver",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "storytold/wordcraft",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "nanocle/Charakuru",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "storytold/cadcraft",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "nickvasilescu/bops",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "storytold/gridcraft",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "electron/electron",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "mattpocock/skills",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "nickvasilescu/bops",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "LosaLosSantos/aurelio-finance",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "gr8rstudio/gr8r-studio",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "Local-Settle/local-settle-frontend",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "Local-Settle/local-settle-backend",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "Stellar-Pathfinder/stellar-pathfinder",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "bas3line/ascii",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "atmirrr/persian-motion-director",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "iamlukethedev/Herald-OS",
+      "date": "2026-10-06"
+    },
+    {
+      "name": "Pluviobyte/dot2api",
+      "date": "2026-10-06"
     }
   ]
 }
