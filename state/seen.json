@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "mikehasa/golive-skill",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "Contrastive-LM/CLM",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "yetone/magpie",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "samyost1/3dicon",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "dgreenheck/tidewater",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "852wa/JIZURA",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "saragordic/rooms",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "Aureliengmz/clearwater",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "amitshekhariitbhu/ai-engineering-course",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "BufferHerald/WarpLite",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "shadcn-ui/ui",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "mattpocock/skills",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "mikehasa/golive-skill",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "Contrastive-LM/CLM",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "yetone/magpie",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "samyost1/3dicon",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "dgreenheck/tidewater",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "852wa/JIZURA",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "JohnHeibel/ClaudeAnimationBase",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "yukitorido/short-video-generator-AI",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "bridge-mind/bridgeclip",
-      "date": "2026-09-23"
-    },
-    {
-      "name": "asokurasu/text-humanizer",
-      "date": "2026-09-23"
-    },
-    {
       "name": "tobi/disktree",
       "date": "2026-09-24"
     },
@@ -1675,6 +1555,126 @@
     {
       "name": "Pluviobyte/dot2api",
       "date": "2026-10-06"
+    },
+    {
+      "name": "mhtsec/ARTEX",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "shadany7824/playgta5",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "storytold/soundcraft",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "storytold/deckcraft",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "droogie/bbhost",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "noahdunnagan/fsearch",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "Nonco-Organization/multicoin-address-validator",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "snuri00/psp-web-recomp",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "Jakeschincariol/founder-skill",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "Stellar-hush/hush",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "mattpocock/skills",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "mhtsec/ARTEX",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "shadany7824/playgta5",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "Nonco-Organization/multicoin-address-validator",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "Jakeschincariol/founder-skill",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "Stellar-hush/hush",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "Stellar-Sentinel/sentinel-backend",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "Stellar-Sentinel/sentinel-frontend",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "Stellar-Promiscope/promiscope-frontend",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "Stellar-Promiscope/promiscope-backend",
+      "date": "2026-10-07"
+    },
+    {
+      "name": "nullmoth/1401",
+      "date": "2026-10-07"
     }
   ]
 }
