@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "tobi/disktree",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "jankeesvw/omarchy-meeting-recorder",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "leter/zh-tech-writing",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "ilkerzg/storycast",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "LuwuDynamics/xgoduck_hardware",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "kaolti/phantomat",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "sopersone/cabbage-trading-machine",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "amitshekhariitbhu/ai-system-design",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "diggerhq/shipvideo",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "win4r/MuseAI-Skills",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "deepseek-ai/deepseek-harness",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "Significant-Gravitas/AutoGPT",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "clash-verge-rev/clash-verge-rev",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "github/spec-kit",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "Chalarangelo/30-seconds-of-code",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "ilkerzg/storycast",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "sopersone/cabbage-trading-machine",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "amitshekhariitbhu/ai-system-design",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "diggerhq/shipvideo",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "michaelswissa/jevry",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "JaxsonWang/cpa-plugin-oai-basispoints",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "mike007jd/voxel-musou",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "Kaixxrua/excel-codex-bridge",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "zouyuxuan122/dsh-our-free-model",
-      "date": "2026-09-24"
-    },
-    {
-      "name": "S3cur3Th1sSh1t/SnafflePy",
-      "date": "2026-09-24"
-    },
-    {
       "name": "supermemoryai/company-brain",
       "date": "2026-09-25"
     },
@@ -1675,6 +1555,114 @@
     {
       "name": "nullmoth/1401",
       "date": "2026-10-07"
+    },
+    {
+      "name": "KindStatesman/KMS-Pico",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "VarnishSerpentBurn/Discord-Quest-Completer",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "navyofficerpipe/Discord-Server-Raider",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "ToiCF/CF-Workers-TGProxy",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "passrhymegazebo/AnyUnlock",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "Clawfitzfilter/Display-Fusion",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "powderdiverpillar/Total-Commander",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "hyperrobinclash/Better-Discord",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "ThariqS/ai-newtab",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "CoralFireRadial/StartAll-Back",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "clash-verge-rev/clash-verge-rev",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "github/spec-kit",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "ThariqS/ai-newtab",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "anthropics/oss-scanner",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "Hinln/ARTEX",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "wesbos/photo-frame-dashboard",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "thesysdev/open-intelligent-ui",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "mhtsec/ARTEX",
+      "date": "2026-10-08"
+    },
+    {
+      "name": "Nonco-Organization/multicoin-address-validator",
+      "date": "2026-10-08"
     }
   ]
 }
