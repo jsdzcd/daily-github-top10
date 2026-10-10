@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "supermemoryai/company-brain",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "SpecterLouse/CapCut-Pro-macOS-Windows",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "jamespolyakov9829/captcha-api",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "feitangyuan/onetake",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "Badtheorylabs/interference-search",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "Roberto02800/turnstile-token",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "MysticGSI/mysticgsi",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "athemeroy/awesome-opus-5-5-videos",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "HeyOkay/HaloBattery",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "bjarneo/flux",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "n8n-io/n8n",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "microsoft/vscode",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "github/gitignore",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "supermemoryai/company-brain",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "jamespolyakov9829/captcha-api",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "feitangyuan/onetake",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "Badtheorylabs/interference-search",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "Roberto02800/turnstile-token",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "HeyOkay/HaloBattery",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "jaydendavisnc/inkwave",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "tugrawork-creator/saas-motion-kit",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "YUTA-fywoo/jev-gui-delegate",
-      "date": "2026-09-25"
-    },
-    {
-      "name": "Rieranthony/product-film-skill",
-      "date": "2026-09-25"
-    },
-    {
       "name": "dzhng/jevgrep",
       "date": "2026-09-26"
     },
@@ -1663,6 +1543,102 @@
     {
       "name": "Nonco-Organization/multicoin-address-validator",
       "date": "2026-10-08"
+    },
+    {
+      "name": "n1tr00-10/tiktok-web-signature",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "zeusinsight/FinderSearch",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "PatchTechnician/Ads-Blocker",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "photonrajditch/Windows-Optimizer",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "TremorBisonSurvive/Discord-Nitro-Generator",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "marclou/mailcheap",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "storytold/craft-launcher",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "attowarriorbond/SolidWorks-CAD",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "ParrotStaple/Microsoft-Office",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "HoopoeConnector/Microsoft-Project",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "yt-dlp/yt-dlp",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "microsoft/vscode",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "krahets/hello-algo",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "n1tr00-10/tiktok-web-signature",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "marclou/mailcheap",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "rociiu/talorys",
+      "date": "2026-10-09"
+    },
+    {
+      "name": "mrzh7/scam-with-your-friends-web",
+      "date": "2026-10-09"
     }
   ]
 }
