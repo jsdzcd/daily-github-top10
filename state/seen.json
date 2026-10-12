@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "tileshoutdipper/Discord-Booster-Server",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "moguzbulbul/blueprint-animation",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "brainbrick-trades/The-Quant-Trading-Vault",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "BagasRizkyHarySaputra/MLBB-waydroid-LinuxCloudMLBB",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "Appllama/liquid-glass-chat-ui",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "zhuyansen/awesome-claude-video-skills",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "JoasASantos/Offensive-Security-AI-Models",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "seamusc/papermono-shopping-list",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "yasinozmeen/animasyon-stil-katalogu",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "fishstrap-launcher/Fishstrap-Roblox",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "practical-tutorials/project-based-learning",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "moguzbulbul/blueprint-animation",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "Appllama/liquid-glass-chat-ui",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "scarletkc/seiso",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "SecFathy/xss-specialist",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "NaiveAI-Labs/Naive-N0.5-Flash",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "firelex/jeff",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "santtiago49/system-design-trainer",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "ufo-ai/ufo-core",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "echris6/motion-video-kit",
-      "date": "2026-09-27"
-    },
-    {
-      "name": "MaximeRivest/tiny-classifiers",
-      "date": "2026-09-27"
-    },
-    {
       "name": "KKKKhazix/AIHOT",
       "date": "2026-09-28"
     },
@@ -1639,6 +1519,118 @@
     {
       "name": "Caldalis/MiniCPM-Math-harness",
       "date": "2026-10-10"
+    },
+    {
+      "name": "jhaizhou-ops/d2r-mobile",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "zhuyansen/new-term-radar",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "jwuthri-cloud/Tracely-ai",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "AnemonePulse/Better-Discord",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "PetaMooseVolt/AnyDesk",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "Lengthristride/Total-Commander",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "Superincrater/Autodesk-Revit",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "MouseAngular/KMS-Pico",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "ElementCourse/Windows-Optimizer",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "mattpocock/skills",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "zhuyansen/new-term-radar",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "jwuthri-cloud/Tracely-ai",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "deeplethe/solid-glass",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "juliobsz/skills",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "w16638771062/mccarbon",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "cxmza/windle",
+      "date": "2026-10-11"
+    },
+    {
+      "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
+      "date": "2026-10-11"
     }
   ]
 }
