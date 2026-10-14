@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "feder-cr/dots",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "rehan-remade/universal-modder",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "OpSafari/hypoarena",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "fsiaonma/elpis",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "deepseek-ai/DeepGEMM-Ascend",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "ZacharyZhang-NY/Ely-GPUI-Components",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "deepseek-ai/DeepEP-Ascend",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "MisakaZentai/world-execute-me-dsh-pv",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "blendi-remade/dioramas",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "MiaAI-Lab/Qwen3.8-Flash-Next-Single-DGX-Spark-TensorFold",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "ollama/ollama",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "langgenius/dify",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "langchain-ai/langchain",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "microsoft/PowerToys",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "golang/go",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "kubernetes/kubernetes",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "rehan-remade/universal-modder",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "OpSafari/hypoarena",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "fsiaonma/elpis",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "MisakaZentai/world-execute-me-dsh-pv",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "blendi-remade/dioramas",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "composio-community/open-dot",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "d4ncboz/museai",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "humaedihume/kantor-agent",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "OpSafari/laborix",
-      "date": "2026-09-29"
-    },
-    {
-      "name": "spenmcke/compress",
-      "date": "2026-09-29"
-    },
-    {
       "name": "nanaism/yomiyasu",
       "date": "2026-09-30"
     },
@@ -1631,6 +1511,126 @@
     {
       "name": "Dushiqi1987/codex-remote-bridge",
       "date": "2026-10-12"
+    },
+    {
+      "name": "HeyPuter/everything",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "outcrawlai/scout",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "StoopwenpueNq/jackie-fmri-sim",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "solana-classic/solana-classic",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "datalab-to/indra",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "i12bp8/decomp.wtf",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "pLabs5/pLinux5-NG",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "michaelshimeles/glide",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "0xProbabillity/house-control",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "zehraakar424-lgtm/wallet-core-web",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "ollama/ollama",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "langgenius/dify",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "golang/go",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "HeyPuter/everything",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "outcrawlai/scout",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "StoopwenpueNq/jackie-fmri-sim",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "datalab-to/indra",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "i12bp8/decomp.wtf",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "zehraakar424-lgtm/wallet-core-web",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "ns2250225/guangzhou",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "BaruqueRodrigues/llm-legislativo",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "Caho1/open-claude-ui",
+      "date": "2026-10-13"
+    },
+    {
+      "name": "jumpersun/meal-puzzle",
+      "date": "2026-10-13"
     }
   ]
 }
