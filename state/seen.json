@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "nanaism/yomiyasu",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "Edwardxlai/easyread",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "pengchujin/livecanvas",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "chasmlol/SkyCraft",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "blackbearreloaded/ProsperoEden",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "xiaomingtongxueql/Riot-Account-Checker-Manager",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "wenziai/wenzi-xhs-agent-skills",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "AFK-surf/Comma",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "justxor/claude-code-pro-course",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks-TensorFold",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "microsoft/markitdown",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "f/prompts.chat",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "Genymobile/scrcpy",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "react/react-native",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "nanaism/yomiyasu",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "Edwardxlai/easyread",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "AFK-surf/Comma",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "jmedina21/deck-as-controller",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "1molchuan/edge-smart-doh",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "CharlesFeng0314/JEV_sees",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "deepseek-ai/dsh-libreoffice-kit",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "BquantFinance/Administracion-fuentes-publicas",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "Barbarakarlsson/Hyperliquid-Leaderboard-Analytics",
-      "date": "2026-09-30"
-    },
-    {
-      "name": "mmnga/x-ambient",
-      "date": "2026-09-30"
-    },
-    {
       "name": "youcci/playport",
       "date": "2026-10-01"
     },
@@ -1631,6 +1511,126 @@
     {
       "name": "jumpersun/meal-puzzle",
       "date": "2026-10-13"
+    },
+    {
+      "name": "ahwootech/BRUTAL",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "chenglou/handwired",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "feder-cr/open_scion",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "Supermedo/uncharted_pc",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "MyLuxy/overdrive",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "pro-vi/cc-stretch",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "assafkip/claudemy",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "Entelligence-AI/agentplay",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "VallierDev/uu-remote-linux",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "ctresb/leis",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "f/prompts.chat",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "Genymobile/scrcpy",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "chenglou/handwired",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "feder-cr/open_scion",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "pro-vi/cc-stretch",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "assafkip/claudemy",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "Entelligence-AI/agentplay",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "LSPosed/dexsql-release",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "Binaryify/MonitorBar",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "caveman-ai/trim-1",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "OpenImagingLab/FlashVSR_Plus",
+      "date": "2026-10-14"
+    },
+    {
+      "name": "yaojingang/profound-clone",
+      "date": "2026-10-14"
     }
   ]
 }
