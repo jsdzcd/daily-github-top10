@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "youcci/playport",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "BootLoops-ai/bootloops",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "x4gpanell/SuperJinX",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "idlerunner00/procedural-pixel-creatures",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "Remocn/remocn-studio",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "facebookincubator/muse-gadget-sdk",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "luki-1/ArkWeb",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "henrydennis/petal",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "ACoci86/terrahour",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "QuartzCabinDawn/DiscordFix-Setup",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "open-webui/open-webui",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "BootLoops-ai/bootloops",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "Remocn/remocn-studio",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "ACoci86/terrahour",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "jarrodwatts/intermission",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "markleduna321/BasicLaravelReact-template",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "egmalt/house-planner",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "lxj5820/dsh-boot-animation",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "Sleepy-Avacado/FigGenie-paper-diagram-skill",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "Tuskira/ai-agent-gateway",
-      "date": "2026-10-01"
-    },
-    {
-      "name": "Stxqq/self-driving-car",
-      "date": "2026-10-01"
-    },
-    {
       "name": "sganggs/Stronghold-Protocol",
       "date": "2026-10-02"
     },
@@ -1631,6 +1511,126 @@
     {
       "name": "yaojingang/profound-clone",
       "date": "2026-10-14"
+    },
+    {
+      "name": "feder-cr/git-ai",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "Tencent-Hunyuan/Hy-Memory",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "Leonxlnx/earshot",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "mistralai/timestral",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "shishir0x/GoogleUnlimited",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "OpenMOSS/MOSS-Image",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "Prometheus-first/helper",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "antirez/c64-hw-simulator",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "anujasid/mcp-for-blender-pro",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "BeckyGlobal/PaidToStudyAbroad",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "feder-cr/git-ai",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "Tencent-Hunyuan/Hy-Memory",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "Leonxlnx/earshot",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "mistralai/timestral",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "OpenMOSS/MOSS-Image",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "Prometheus-first/helper",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "anujasid/mcp-for-blender-pro",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "zgsfsec/Full-Chain-Sentinel-System",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "crsolver/claude-pxl",
+      "date": "2026-10-15"
+    },
+    {
+      "name": "Enderfga/SolarRenderer",
+      "date": "2026-10-15"
     }
   ]
 }
