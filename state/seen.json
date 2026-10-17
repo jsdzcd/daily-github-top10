@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "sganggs/Stronghold-Protocol",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "QingYunA/answer-me-with-html",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "whirlchat/whirl",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "mizorewww/x_gift_bot",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "blendi-remade/agentcraft",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "NuvexNetwork/nuvex-docs",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "NuvexNetwork/nuvex",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "NuvexNetwork/nuvex-web",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "Kutuyyy/Leaked-System-Prompt-AI",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "zzzz7788990213-ops/EvoVLM",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "avelino/awesome-go",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "garrytan/gstack",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "sganggs/Stronghold-Protocol",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "QingYunA/answer-me-with-html",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "whirlchat/whirl",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "mizorewww/x_gift_bot",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "NuvexNetwork/nuvex-web",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "zzzz7788990213-ops/EvoVLM",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "adityajha2005/yc-outreach",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "jarrodwatts/claude-image-view",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "heise3/academic-deai",
-      "date": "2026-10-02"
-    },
-    {
-      "name": "Jakeschincariol/replica-skill",
-      "date": "2026-10-02"
-    },
-    {
       "name": "kargulstudio/sales-crm",
       "date": "2026-10-03"
     },
@@ -1631,6 +1511,126 @@
     {
       "name": "Enderfga/SolarRenderer",
       "date": "2026-10-15"
+    },
+    {
+      "name": "xscreensaver-official/xscreensaver",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "Noniv/web-ocean",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "aicodeking/leanrea",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "VITASID57/bluntcore-intimacy-lab",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "BreezeSolicitorMap/undress.ai",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "reason-machines/reason-network",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "gungnir-sanye/tee-attestation-extraction",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "cranebeaker/coop-anything",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "kergee/mcd-undercover",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "V4bel/InfinityCore",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "massgravel/Microsoft-Activation-Scripts",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "garrytan/gstack",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "react/react-native",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "aicodeking/leanrea",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "gungnir-sanye/tee-attestation-extraction",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "cranebeaker/coop-anything",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "kergee/mcd-undercover",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "azrinaldi/gemini-stealth-bridge",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "rezadesky/RSDVault",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "byJoey/cfnew-panel",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "apple-aiml-research/ml-rsi-inference-bench",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "mu-zi-lee/Tangentry",
+      "date": "2026-10-16"
+    },
+    {
+      "name": "OpenMOSS/MOSS-Image",
+      "date": "2026-10-16"
     }
   ]
 }
