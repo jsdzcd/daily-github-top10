@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "kargulstudio/sales-crm",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "BlackCrewmanFringe/AutoCad",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "Blockadezoshack/Microsoft-Project",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "ythx-101/live-panel-skill",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "AxeEradicate/Fps-Booster-for-Windows",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "YXBwbWFya2V0/AppMarket",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "beachbladesmanloop/Hwid-Spoofer",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "allenv0/SCM",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "Adolanium/hermes-gadget-sdk",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "zeemscript/TrustMint",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "openai/codex",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "rustdesk/rustdesk",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "Graphify-Labs/graphify",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "mattpocock/skills",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "kargulstudio/sales-crm",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "allenv0/SCM",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "Adolanium/hermes-gadget-sdk",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "shinshin86/mesh-avatar-studio",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "cneuralnetwork/kharcha",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "hyj-STAR/voiceshell-muse-bridge",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "Zhou-Yujing114514/deepseek-harness-linux",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "0xhamssog/evem-transaction-manager",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "chao08647-stack/DataPilot",
-      "date": "2026-10-03"
-    },
-    {
-      "name": "dakukibana/short-video-generator",
-      "date": "2026-10-03"
-    },
-    {
       "name": "rauchg/gdp-ts",
       "date": "2026-10-04"
     },
@@ -1631,6 +1511,106 @@
     {
       "name": "OpenMOSS/MOSS-Image",
       "date": "2026-10-16"
+    },
+    {
+      "name": "Gathin23/tv-vibehack",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "ly05010419/MacNativeGames",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "xiaoyang111222/cn-math-taxonomy",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "Maroonplocord/Movavi-Converter",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "Metropolisioretreat/Movavi-Screen-Recorder",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "NoviceAdjust19/PH-Downloader",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "PaintManager/Quicken-Deluxe",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "southroadball/Hwid-Spoofer",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "originbatarm/Patreon-Viewer",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "ScorpionPlan/Wise-Care",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "labuladong/fucking-algorithm",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "openai/codex",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "Chalarangelo/30-seconds-of-code",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "xiaoyang111222/cn-math-taxonomy",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "alchaincyf/huashu-motion",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "Leonxlnx/athenaion",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "aicodeking/leanrea",
+      "date": "2026-10-17"
+    },
+    {
+      "name": "mu-zi-lee/Tangentry",
+      "date": "2026-10-17"
     }
   ]
 }
