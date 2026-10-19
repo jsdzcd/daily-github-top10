@@ -1,122 +1,6 @@
 {
   "items": [
     {
-      "name": "rauchg/gdp-ts",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "gangmoonrotation/Discord-Quest-Completer",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "HectoTeacher56/Adobe-Substance-3d",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "SwimmerShield/Better-Discord",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "VarnishTrackPrize/ultra-Iso",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "lostparakeetmagnify/Adobe-Illustrator",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "CyclopsRogueSucceed/Discord-Nitro-Generator",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "Noblebroplain/Ads-Blocker",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "KazekagePyre/Adobe-Audition",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "pauseseamandart18/AnyDesk",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "ohmyzsh/ohmyzsh",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "farion1231/cc-switch",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "practical-tutorials/project-based-learning",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "mattpocock/skills",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "rauchg/gdp-ts",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "empero-org/brewery-ai",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "rit3zh/morphlet",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "VelaPayments/vela-server",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "VelaPayments/vela-payments",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "Autumn1337/better-statusline",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "JinHo-von-Choi/iron-laws",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "kargulstudio/sales-crm",
-      "date": "2026-10-04"
-    },
-    {
-      "name": "shinshin86/mesh-avatar-studio",
-      "date": "2026-10-04"
-    },
-    {
       "name": "elstongun/leviathan",
       "date": "2026-10-05"
     },
@@ -1611,6 +1495,126 @@
     {
       "name": "mu-zi-lee/Tangentry",
       "date": "2026-10-17"
+    },
+    {
+      "name": "humblemuzzu/dumbtv",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "Ansub/tv-detox",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "interplains/zero-breach",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "justrach/nanoui",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "finereli/whatsapp-mcp",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "bitwarden-app312/.gitp3d",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "arc-tool/.github",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "apex-pro12/.github",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "kanaworksai-hue/audio-studio-mcp",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "SNO2207/WindowSmash",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "ohmyzsh/ohmyzsh",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "avelino/awesome-go",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "humblemuzzu/dumbtv",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "interplains/zero-breach",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "finereli/whatsapp-mcp",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "kanaworksai-hue/audio-studio-mcp",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "VictorTaelin/uniichat",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "llamaboi55/DragShift",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "AndreSzymanski15/ai-jailbreaks",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "ip-please/ip-please.github.io",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "soumatheusgomes/editonny",
+      "date": "2026-10-18"
+    },
+    {
+      "name": "nichochar/ari",
+      "date": "2026-10-18"
     }
   ]
 }
