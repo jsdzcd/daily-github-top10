@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "elstongun/leviathan",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "alchaincyf/huashu-art-motion",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "Henryfud/werm",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "jasonbitsmith/muse-skills",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "yoge7388095s/eth-trading-bot",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "Hiteater-wzm/eeo",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "h100envy/gem-search",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "uzairansaruzi/p3-stack",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "kandinskylab/kandinsky-6",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "google-deepmind/alphaprotein-novo",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "anthropics/skills",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "excalidraw/excalidraw",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "alchaincyf/huashu-art-motion",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "yoge7388095s/eth-trading-bot",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "Hiteater-wzm/eeo",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "h100envy/gem-search",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "kandinskylab/kandinsky-6",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "google-deepmind/alphaprotein-novo",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "RecordSlayerIdentify/shotcut-download",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "saidi-walid-architecte/saidi-walid-architecte.github.io",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "kamil9966/CAPEv2-Sandbox-plugin-Procmon-Events-v1",
-      "date": "2026-10-05"
-    },
-    {
-      "name": "longsurf-ai/openchart",
-      "date": "2026-10-05"
-    },
-    {
       "name": "openai/math",
       "date": "2026-10-06"
     },
@@ -1615,6 +1495,126 @@
     {
       "name": "nichochar/ari",
       "date": "2026-10-18"
+    },
+    {
+      "name": "simbasjungles/free-my-tv",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "JoasASantos/REA-Prompts",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "ELY-Open-Source/ElyOffice",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "pengchujin/aerial-tv",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "stackedlol/ascii-sharks",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "UniXNU/UniXNU",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "vercel-labs/fx0",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "timhengc/mai-shen-zai-ci",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "cod-tool/.github",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "fort-tool/.github",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "excalidraw/excalidraw",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "stackedlol/ascii-sharks",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "UniXNU/UniXNU",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "vercel-labs/fx0",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "timhengc/mai-shen-zai-ci",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "typecraft-dev/oma-cast",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "MemTensor/MemT-1.0",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "kailashsr38/ascii-magic-art",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "garycaogan/ai-live-avatar",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer",
+      "date": "2026-10-19"
+    },
+    {
+      "name": "james-dev-lab2001x9/OBS-Countdown-Timer-Free-Overlay-Timer-Plugin-for-Streaming-2026",
+      "date": "2026-10-19"
     }
   ]
 }
