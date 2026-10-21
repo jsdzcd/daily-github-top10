@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "openai/math",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "alejandrobujan/tendedero",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "pingdotgg/ts-rust",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "LoreanXavier/pt-pc",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "nullmoth/nvidia-macos-driver",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "storytold/wordcraft",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "nanocle/Charakuru",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "storytold/cadcraft",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "nickvasilescu/bops",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "storytold/gridcraft",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "electron/electron",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "mattpocock/skills",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "nickvasilescu/bops",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "LosaLosSantos/aurelio-finance",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "gr8rstudio/gr8r-studio",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "Local-Settle/local-settle-frontend",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "Local-Settle/local-settle-backend",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "Stellar-Pathfinder/stellar-pathfinder",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "bas3line/ascii",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "atmirrr/persian-motion-director",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "iamlukethedev/Herald-OS",
-      "date": "2026-10-06"
-    },
-    {
-      "name": "Pluviobyte/dot2api",
-      "date": "2026-10-06"
-    },
-    {
       "name": "mhtsec/ARTEX",
       "date": "2026-10-07"
     },
@@ -1615,6 +1495,126 @@
     {
       "name": "james-dev-lab2001x9/OBS-Countdown-Timer-Free-Overlay-Timer-Plugin-for-Streaming-2026",
       "date": "2026-10-19"
+    },
+    {
+      "name": "ikow/php2shell-poc",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "eagle-hq/EAGLE-4",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "dominikmartn/harp",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "NVIDIA/flare-local-inference",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "9bie/php2shell-bypass-aslr-exp",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "renjiegod/dyt-ashare-cli",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "WoYun520/dsh-purge",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "openai/php2shell-checker",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "cs-tool-s/.github",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "ikow/php2shell-poc",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "eagle-hq/EAGLE-4",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "NVIDIA/flare-local-inference",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "9bie/php2shell-bypass-aslr-exp",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "WoYun520/dsh-purge",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "openai/php2shell-checker",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "Alejandros17487/ai-jailbreaks",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "nthnclrk/CleanFrame",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "Jakeschincariol/day-trader-skill",
+      "date": "2026-10-20"
+    },
+    {
+      "name": "Fluepke/emudrahahahahaha",
+      "date": "2026-10-20"
     }
   ]
 }
