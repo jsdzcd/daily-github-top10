@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "mhtsec/ARTEX",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "shadany7824/playgta5",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "storytold/soundcraft",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "storytold/deckcraft",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "droogie/bbhost",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "noahdunnagan/fsearch",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "Nonco-Organization/multicoin-address-validator",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "snuri00/psp-web-recomp",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "Jakeschincariol/founder-skill",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "Stellar-hush/hush",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "shadcn-ui/ui",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "mattpocock/skills",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "mhtsec/ARTEX",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "shadany7824/playgta5",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "Nonco-Organization/multicoin-address-validator",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "Jakeschincariol/founder-skill",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "Stellar-hush/hush",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "Stellar-Sentinel/sentinel-backend",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "Stellar-Sentinel/sentinel-frontend",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "Stellar-Promiscope/promiscope-frontend",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "Stellar-Promiscope/promiscope-backend",
-      "date": "2026-10-07"
-    },
-    {
-      "name": "nullmoth/1401",
-      "date": "2026-10-07"
-    },
-    {
       "name": "KindStatesman/KMS-Pico",
       "date": "2026-10-08"
     },
@@ -1615,6 +1495,126 @@
     {
       "name": "Fluepke/emudrahahahahaha",
       "date": "2026-10-20"
+    },
+    {
+      "name": "colinhacks/reylo",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "Acelogic/Snapintosh",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "oosexgang/hackios-xnu-kernel",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "wesbos/3d-model-anything",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "assetnote/php2shell-scanner",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "zita-ch/supermimic_vibed",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "rossark0/rossark-motion-skill",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "atbfun/ATBGamePort",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "helloianneo/ian-xhs-carousel",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "CyC2018/CS-Notes",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "Acelogic/Snapintosh",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "assetnote/php2shell-scanner",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "zita-ch/supermimic_vibed",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "atbfun/ATBGamePort",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "NCSC-NL/php2shell",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "xingjian-bai/opal",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "junaire/CVE-2026-109618-exploit",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "Monopoly0024/simple-checker-v1",
+      "date": "2026-10-21"
+    },
+    {
+      "name": "lusouldepth-ai/FDE_Learning",
+      "date": "2026-10-21"
     }
   ]
 }
