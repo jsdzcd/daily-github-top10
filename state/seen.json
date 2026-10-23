@@ -1,114 +1,6 @@
 {
   "items": [
     {
-      "name": "KindStatesman/KMS-Pico",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "VarnishSerpentBurn/Discord-Quest-Completer",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "navyofficerpipe/Discord-Server-Raider",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "ToiCF/CF-Workers-TGProxy",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "passrhymegazebo/AnyUnlock",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "Clawfitzfilter/Display-Fusion",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "powderdiverpillar/Total-Commander",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "hyperrobinclash/Better-Discord",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "ThariqS/ai-newtab",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "CoralFireRadial/StartAll-Back",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "deepseek-ai/deepseek-harness",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "Significant-Gravitas/AutoGPT",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "clash-verge-rev/clash-verge-rev",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "github/spec-kit",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "ThariqS/ai-newtab",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "anthropics/oss-scanner",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "Hinln/ARTEX",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "wesbos/photo-frame-dashboard",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "thesysdev/open-intelligent-ui",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "mhtsec/ARTEX",
-      "date": "2026-10-08"
-    },
-    {
-      "name": "Nonco-Organization/multicoin-address-validator",
-      "date": "2026-10-08"
-    },
-    {
       "name": "n1tr00-10/tiktok-web-signature",
       "date": "2026-10-09"
     },
@@ -1615,6 +1507,126 @@
     {
       "name": "lusouldepth-ai/FDE_Learning",
       "date": "2026-10-21"
+    },
+    {
+      "name": "Snapintosh/Snapintosh",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "oosexgang/hackios-xnu-userland",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "wpfigfszroxn/pubg-external-esp",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "actionow-ai/vvv",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "7API/uncensored-ai-api",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "dex-tool-best/.github",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "df-tools-bn/.github",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "7API/glm-5.3-abliterated",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "Spectrmachina/Ztrust",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "appariciojunior/video-editor-skills",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "clash-verge-rev/clash-verge-rev",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "github/spec-kit",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "Snapintosh/Snapintosh",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "actionow-ai/vvv",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "Spectrmachina/Ztrust",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "JoasASantos/php2shell-exploit",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "ulymxumfqtdi/dbd-external-esp",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "danisiber/rom-cli",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "verity-mods/verity-enhanced",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "hiyfoeorihly/ram-purge",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "mrcen3204097569-spec/lean-electron-vue",
+      "date": "2026-10-22"
+    },
+    {
+      "name": "SukkaW/speed.skk.moe",
+      "date": "2026-10-22"
     }
   ]
 }
