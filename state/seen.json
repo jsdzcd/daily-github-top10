@@ -1,102 +1,6 @@
 {
   "items": [
     {
-      "name": "n1tr00-10/tiktok-web-signature",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "zeusinsight/FinderSearch",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "PatchTechnician/Ads-Blocker",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "photonrajditch/Windows-Optimizer",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "TremorBisonSurvive/Discord-Nitro-Generator",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "marclou/mailcheap",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "storytold/craft-launcher",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "attowarriorbond/SolidWorks-CAD",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "ParrotStaple/Microsoft-Office",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "HoopoeConnector/Microsoft-Project",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "n8n-io/n8n",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "yt-dlp/yt-dlp",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "microsoft/vscode",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "krahets/hello-algo",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "n1tr00-10/tiktok-web-signature",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "marclou/mailcheap",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "rociiu/talorys",
-      "date": "2026-10-09"
-    },
-    {
-      "name": "mrzh7/scam-with-your-friends-web",
-      "date": "2026-10-09"
-    },
-    {
       "name": "c22dev/muguet",
       "date": "2026-10-10"
     },
@@ -1627,6 +1531,126 @@
     {
       "name": "SukkaW/speed.skk.moe",
       "date": "2026-10-22"
+    },
+    {
+      "name": "JustAResearcher/gpu-unlock-ada",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "ivarvong/lantern",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "EgorBo/BlazingFastDotnet",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "songjianyang/xss-audit",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "xMazaki/unbloat-android-tv",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "Charonyuu/whatsmyagentdoing",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "rddmwmddr/android-ad-cleaner",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "aotoycffyxns/delta",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "tytpaskanvdc/cross-exchange-arbitrage-bot-pc-desktop",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "onchain-trading-bot/.github",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "yt-dlp/yt-dlp",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "microsoft/vscode",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "ivarvong/lantern",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "Charonyuu/whatsmyagentdoing",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "rddmwmddr/android-ad-cleaner",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "ravensclawx/HBLauncher",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "jouaaaaaa/mcd-self-butler",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "xkx121029/mcd-vibe-commit",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "CH-LaTiao/lumina-guide",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "morganlinton/BeautifulRust",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "PandaSI-Labs/pandasi-agent",
+      "date": "2026-10-23"
+    },
+    {
+      "name": "SuperBigFatDog/mcd-nearest-deal",
+      "date": "2026-10-23"
     }
   ]
 }
