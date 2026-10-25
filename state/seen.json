@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "c22dev/muguet",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "npwitk/Macintosh-Skeletal-Filled",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "aindeev/agent-chrome-relay",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "LcodeCoder/CG-Claude",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "eyalgolan/statecraft-israel",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "Ayzzz123/mcd-coupon-strategist",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "NousResearch/hermes-official-plugins",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "MeshPulseSound/Fortnite-Cheats-2b1a",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "liseami/CCBaga",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "ultraworkers/claw-code",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "aindeev/agent-chrome-relay",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "LcodeCoder/CG-Claude",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "Ayzzz123/mcd-coupon-strategist",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "NousResearch/hermes-official-plugins",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "LYiHub/pub-street-fighter-ai",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "hongboduan/awesome-embodied-agents",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "Sam-Hui-dot/mcd-budget-meal",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "matsuzaka-yuki/susfs-lkm-module",
-      "date": "2026-10-10"
-    },
-    {
-      "name": "Caldalis/MiniCPM-Math-harness",
-      "date": "2026-10-10"
-    },
-    {
       "name": "jhaizhou-ops/d2r-mobile",
       "date": "2026-10-11"
     },
@@ -1651,6 +1531,126 @@
     {
       "name": "SuperBigFatDog/mcd-nearest-deal",
       "date": "2026-10-23"
+    },
+    {
+      "name": "mizorewww/gdirect",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "DenisSergeevitch/ex-ussr-kinship-research",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "Release-DLSS-5-Swapper/.github",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "mirkobrombin/raven",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "routerhubSI/glm-5.3-abliterated",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "routerhubSI/uncensored-ai-api",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "designfuchen/word-atlas",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "wangrongding/tv-fresh",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "misshexa66/OunceCake",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "YoyoLin008/mcreplay",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "electron/electron",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "nodejs/node",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "DenisSergeevitch/ex-ussr-kinship-research",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "routerhubSI/glm-5.3-abliterated",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "designfuchen/word-atlas",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "misshexa66/OunceCake",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "YoyoLin008/mcreplay",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "vxcn/mcd-kcal-picker",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "holdcloud/mcd-calendar-buddy",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "xanthichi/mcd-meal-mate",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "xx20050823xx/McMate",
+      "date": "2026-10-24"
+    },
+    {
+      "name": "tractordev/webframe",
+      "date": "2026-10-24"
     }
   ]
 }
