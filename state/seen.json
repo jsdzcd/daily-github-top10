@@ -1,118 +1,6 @@
 {
   "items": [
     {
-      "name": "jhaizhou-ops/d2r-mobile",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "onehumanbeing/esp32-iphone-agent",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "zhuyansen/new-term-radar",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "jwuthri-cloud/Tracely-ai",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "AnemonePulse/Better-Discord",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "PetaMooseVolt/AnyDesk",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "Lengthristride/Total-Commander",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "Superincrater/Autodesk-Revit",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "MouseAngular/KMS-Pico",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "ElementCourse/Windows-Optimizer",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "TheAlgorithms/Python",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "mattpocock/skills",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "onehumanbeing/esp32-iphone-agent",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "zhuyansen/new-term-radar",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "jwuthri-cloud/Tracely-ai",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "deeplethe/solid-glass",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "juliobsz/skills",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "w16638771062/mccarbon",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "cxmza/windle",
-      "date": "2026-10-11"
-    },
-    {
-      "name": "chenwei810/Semiconductor_Manufacturing_Introduction",
-      "date": "2026-10-11"
-    },
-    {
       "name": "Arekejoker/qwen21-nsfw-pose-skill",
       "date": "2026-10-12"
     },
@@ -1651,6 +1539,126 @@
     {
       "name": "tractordev/webframe",
       "date": "2026-10-24"
+    },
+    {
+      "name": "KillaBoi/StealMyBitcoin-PoC",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "unclebob/ub-mode",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "andyhuo520/digital-human-koubo",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "DrWhax/unfairplay",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "andriu-kun/-wildrig-multi",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "yaojingang/GEOInflow",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "free-cracks/Adobe-Acrobat-Pro",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "ZiChuanLan/agent-purge",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "pro-tools-workspace/Canva-Pro",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "KohakuBlueleaf/KohakUnlock",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "KillaBoi/StealMyBitcoin-PoC",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "andyhuo520/digital-human-koubo",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "DrWhax/unfairplay",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "yaojingang/GEOInflow",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "free-cracks/Adobe-Acrobat-Pro",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "ZiChuanLan/agent-purge",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "mochiiwuff/capri-desktop",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "blakeandersonw/ai-app-playbook",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "Bodila51/reverse-engineer-Wi-Fi-router",
+      "date": "2026-10-25"
+    },
+    {
+      "name": "egoist/mygo-cloudmusic",
+      "date": "2026-10-25"
     }
   ]
 }
