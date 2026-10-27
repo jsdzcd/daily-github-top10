@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Arekejoker/qwen21-nsfw-pose-skill",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "PS5Dev/Byepervisor-Reborn",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "egotoadcitadel/palette-from-image-ai",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "overdriveps5/overdrive-releases",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "madeyexz/louisa-wifi",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "spideymooon/McOracle",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "threerocks/sweety-handdraw-video",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "WilderNoTrack/mcd-calorie-butler",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "leolobato/playden-ps5",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "x4gpanell/MarzbanUpdate",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "flutter/flutter",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "twbs/bootstrap",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "huggingface/transformers",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "langflow-ai/langflow",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "vercel/next.js",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "Arekejoker/qwen21-nsfw-pose-skill",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "egotoadcitadel/palette-from-image-ai",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "spideymooon/McOracle",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "threerocks/sweety-handdraw-video",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "WilderNoTrack/mcd-calorie-butler",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "yeyuxin777/baoyan-agent-benchmark",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "AirsupHQ/machine-skill",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "madong-code/madong-aura",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "CoolkHz/gptibo",
-      "date": "2026-10-12"
-    },
-    {
-      "name": "Dushiqi1987/codex-remote-bridge",
-      "date": "2026-10-12"
-    },
-    {
       "name": "HeyPuter/everything",
       "date": "2026-10-13"
     },
@@ -1659,6 +1539,126 @@
     {
       "name": "egoist/mygo-cloudmusic",
       "date": "2026-10-25"
+    },
+    {
+      "name": "kargulstudio/calender-app-design",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "Motionsites-AI/claude-skill",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "martinkeith700/ruyiJS",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "deepopen-com/deepopen-3d-webs",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "NyxFoundation/nyxis",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "piermark/omarchytv",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "anhao/ai-pose-gallery-zh",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "DiaoOrg/awesome-supermimic",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "Fractal-Compute-Orchestrations/.github",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "sybil-solutions/all-historical-evidence-of-jesus-christ",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "mattpocock/skills",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "flutter/flutter",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "twbs/bootstrap",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "huggingface/transformers",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "vercel/next.js",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "krahets/hello-algo",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "kargulstudio/calender-app-design",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "Motionsites-AI/claude-skill",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "deepopen-com/deepopen-3d-webs",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "sybil-solutions/all-historical-evidence-of-jesus-christ",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "patch-gg/anymove",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "JunWan666/astrbot-for-android",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "athcagithub/postiz-leaked",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "GrandeurPikeman/Roblox-MM2-Utility-2026",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "apolinario/urnas-tardias",
+      "date": "2026-10-26"
+    },
+    {
+      "name": "Andreas698/glm-5.3-uncensored",
+      "date": "2026-10-26"
     }
   ]
 }
