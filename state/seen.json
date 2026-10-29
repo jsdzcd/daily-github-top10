@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "ahwootech/BRUTAL",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "chenglou/handwired",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "feder-cr/open_scion",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "Supermedo/uncharted_pc",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "MyLuxy/overdrive",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "pro-vi/cc-stretch",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "assafkip/claudemy",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "Entelligence-AI/agentplay",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "VallierDev/uu-remote-linux",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "ctresb/leis",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "f/prompts.chat",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "Genymobile/scrcpy",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "chenglou/handwired",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "feder-cr/open_scion",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "pro-vi/cc-stretch",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "assafkip/claudemy",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "Entelligence-AI/agentplay",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "LSPosed/dexsql-release",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "Binaryify/MonitorBar",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "caveman-ai/trim-1",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "OpenImagingLab/FlashVSR_Plus",
-      "date": "2026-10-14"
-    },
-    {
-      "name": "yaojingang/profound-clone",
-      "date": "2026-10-14"
-    },
-    {
       "name": "feder-cr/git-ai",
       "date": "2026-10-15"
     },
@@ -1659,6 +1539,118 @@
     {
       "name": "oxnw/ai-phone",
       "date": "2026-10-27"
+    },
+    {
+      "name": "valentderah/totk-pc-recomp",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "HRuiCcc/RuiC-PoseAtlas",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "Humpalumps/Ultra-Water",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "brainstormity/LightPost",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "shipwords-dev/shipwords",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "covesoulrhythm/Autodesk-3ds-MAX",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "GumshoeRampart/Adobe-After-Effects",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "HerdWarlordExplode/AOMEI-Backupper",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "thresholdwolfshack/Autodesk-Inventor",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "BoatwrightSpout/IOBIT-Driver-Booster",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "f/prompts.chat",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "mattpocock/skills",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "HRuiCcc/RuiC-PoseAtlas",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "Humpalumps/Ultra-Water",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "brainstormity/LightPost",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "shipwords-dev/shipwords",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "BryceYuuu/RUN",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "MiniMax-AI/mcode-stack",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "jacke-pp/open-yoki",
+      "date": "2026-10-28"
+    },
+    {
+      "name": "vaishantsah/watson-AI-osint-all-in-one",
+      "date": "2026-10-28"
     }
   ]
 }
