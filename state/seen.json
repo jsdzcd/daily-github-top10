@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "xscreensaver-official/xscreensaver",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "Noniv/web-ocean",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "aicodeking/leanrea",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "VITASID57/bluntcore-intimacy-lab",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "BreezeSolicitorMap/undress.ai",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "reason-machines/reason-network",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "gungnir-sanye/tee-attestation-extraction",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "cranebeaker/coop-anything",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "kergee/mcd-undercover",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "V4bel/InfinityCore",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "massgravel/Microsoft-Activation-Scripts",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "Snailclimb/JavaGuide",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "garrytan/gstack",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "kubernetes/kubernetes",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "react/react-native",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "aicodeking/leanrea",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "gungnir-sanye/tee-attestation-extraction",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "cranebeaker/coop-anything",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "kergee/mcd-undercover",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "azrinaldi/gemini-stealth-bridge",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "rezadesky/RSDVault",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "byJoey/cfnew-panel",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "apple-aiml-research/ml-rsi-inference-bench",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "mu-zi-lee/Tangentry",
-      "date": "2026-10-16"
-    },
-    {
-      "name": "OpenMOSS/MOSS-Image",
-      "date": "2026-10-16"
-    },
-    {
       "name": "Gathin23/tv-vibehack",
       "date": "2026-10-17"
     },
@@ -1651,6 +1531,126 @@
     {
       "name": "wzc520pyfm/gen-ai-pose-image",
       "date": "2026-10-29"
+    },
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "Arjun-Ingole/hop",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "ramenvr/autopilot",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "alchaincyf/huashu-bird-sticker",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "elvarofficial/teardown",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "N1nEmAn/sapper-v2",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "Pluviobyte/douyin-comments",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "boardshogunfluctuate/Capri-AI",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "getify/You-Dont-Know-JS",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "garrytan/gstack",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "ramenvr/autopilot",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "elvarofficial/teardown",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "N1nEmAn/sapper-v2",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "Pluviobyte/douyin-comments",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "boardshogunfluctuate/Capri-AI",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "dbreunig/nesformer",
+      "date": "2026-10-30"
+    },
+    {
+      "name": "patch-gg/pixelfx",
+      "date": "2026-10-30"
     }
   ]
 }
