@@ -1,106 +1,6 @@
 {
   "items": [
     {
-      "name": "Gathin23/tv-vibehack",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "ly05010419/MacNativeGames",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "xiaoyang111222/cn-math-taxonomy",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "Maroonplocord/Movavi-Converter",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "Metropolisioretreat/Movavi-Screen-Recorder",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "NoviceAdjust19/PH-Downloader",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "PaintManager/Quicken-Deluxe",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "southroadball/Hwid-Spoofer",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "originbatarm/Patreon-Viewer",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "ScorpionPlan/Wise-Care",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "labuladong/fucking-algorithm",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "openai/codex",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "Chalarangelo/30-seconds-of-code",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "xiaoyang111222/cn-math-taxonomy",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "alchaincyf/huashu-motion",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "Leonxlnx/athenaion",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "aicodeking/leanrea",
-      "date": "2026-10-17"
-    },
-    {
-      "name": "mu-zi-lee/Tangentry",
-      "date": "2026-10-17"
-    },
-    {
       "name": "humblemuzzu/dumbtv",
       "date": "2026-10-18"
     },
@@ -1651,6 +1551,114 @@
     {
       "name": "patch-gg/pixelfx",
       "date": "2026-10-30"
+    },
+    {
+      "name": "storytold/craft-anything",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "joeblau/subvox",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "arpanjot-coding/AVault",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "Centiplatrap/pc-game-fps-doctor",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "CheetahEstimate/KMS-Pico",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "CelestialStarfish/Ads-Blocker",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "CourtHunterKey/Discord-Quest-Completer",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "NadirCardinal/AnyUnlock",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "Pauseoruncouple/Genesis-Miner",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "gryphonautocratmatch/StartAll-Back",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "openai/codex",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "Centiplatrap/pc-game-fps-doctor",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "yetone/alma-relay",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "caru-ini/stack-diagram",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "dankumarlab2090u1/minecraft-hack-menu-2026",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "nikita-s-x2001x7/photo-converter",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "deepseek-ai/dsh-superagent-prototype",
+      "date": "2026-10-31"
+    },
+    {
+      "name": "TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026",
+      "date": "2026-10-31"
     }
   ]
 }
