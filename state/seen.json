@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "humblemuzzu/dumbtv",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "Ansub/tv-detox",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "interplains/zero-breach",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "justrach/nanoui",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "finereli/whatsapp-mcp",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "bitwarden-app312/.gitp3d",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "arc-tool/.github",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "apex-pro12/.github",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "kanaworksai-hue/audio-studio-mcp",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "SNO2207/WindowSmash",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "practical-tutorials/project-based-learning",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "ohmyzsh/ohmyzsh",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "avelino/awesome-go",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "farion1231/cc-switch",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "humblemuzzu/dumbtv",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "interplains/zero-breach",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "finereli/whatsapp-mcp",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "kanaworksai-hue/audio-studio-mcp",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "VictorTaelin/uniichat",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "llamaboi55/DragShift",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "AndreSzymanski15/ai-jailbreaks",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "ip-please/ip-please.github.io",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "soumatheusgomes/editonny",
-      "date": "2026-10-18"
-    },
-    {
-      "name": "nichochar/ari",
-      "date": "2026-10-18"
-    },
-    {
       "name": "simbasjungles/free-my-tv",
       "date": "2026-10-19"
     },
@@ -1659,6 +1539,126 @@
     {
       "name": "TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026",
       "date": "2026-10-31"
+    },
+    {
+      "name": "mromidev/claude-animated-shorts",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "AssassinCreator/steam-stash-value-report-card",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "Balanov/uncut",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "ProsecutorList/monero-miner",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "Bridgeyaprovide/roblox-game-copier",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "rivetpelicanstir/total-commander",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "stalkerswifthub/discord-quest-completer",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "Gezine/CivSwitch",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "wideeyededi/uncensored-nsfw-ai-video-api",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "HandcuffHelper/ads-blocker",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "avelino/awesome-go",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "ohmyzsh/ohmyzsh",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "Genymobile/scrcpy",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "mromidev/claude-animated-shorts",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "AssassinCreator/steam-stash-value-report-card",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "Balanov/uncut",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "Gezine/CivSwitch",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "sleepy-zone/char-db-cn",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "davidlopez-x05x8/minecraft-aim-assist",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "maxwilsoneng2098t9/pdf-compressor-offline",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "SplendorHornbill/windows-animated-wallpapers",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "maxwilsoneng2098t9/tiktok-comment-automation",
+      "date": "2026-11-01"
+    },
+    {
+      "name": "caru-ini/stack-diagram",
+      "date": "2026-11-01"
     }
   ]
 }
