@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "simbasjungles/free-my-tv",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "JoasASantos/REA-Prompts",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "ELY-Open-Source/ElyOffice",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "pengchujin/aerial-tv",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "stackedlol/ascii-sharks",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "UniXNU/UniXNU",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "vercel-labs/fx0",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "timhengc/mai-shen-zai-ci",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "cod-tool/.github",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "fort-tool/.github",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "excalidraw/excalidraw",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "stackedlol/ascii-sharks",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "UniXNU/UniXNU",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "vercel-labs/fx0",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "timhengc/mai-shen-zai-ci",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "typecraft-dev/oma-cast",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "MemTensor/MemT-1.0",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "kailashsr38/ascii-magic-art",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "garycaogan/ai-live-avatar",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "EpicRealmTitle/call-of-duty-modern-warfare-4-fps-optimizer",
-      "date": "2026-10-19"
-    },
-    {
-      "name": "james-dev-lab2001x9/OBS-Countdown-Timer-Free-Overlay-Timer-Plugin-for-Streaming-2026",
-      "date": "2026-10-19"
-    },
-    {
       "name": "ikow/php2shell-poc",
       "date": "2026-10-20"
     },
@@ -1659,6 +1539,118 @@
     {
       "name": "caru-ini/stack-diagram",
       "date": "2026-11-01"
+    },
+    {
+      "name": "Balanov/shim",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "Codeonshovel/microsoft-365",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "Nucleusanwish/microsoft-office",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "mhfed/vn-law-check",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "justrach/nanolight",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "ShoreEvokerHeat/fl-studio",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "DistributorKnit/metatrader-5-bot",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "TankPharaoh23/microsoft-project",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "FrontierHawkStove/atas-trading-bot",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "marbleorbweb94/ninjatrader-bot",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "excalidraw/excalidraw",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "Balanov/shim",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "Balanov/skein",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "Balanov/verdict",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "MagoStudio/MagoStudio",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "egoist/godraw",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "AssassinCreator/steam-stash-value-report-card",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "SplendorHornbill/windows-animated-wallpapers",
+      "date": "2026-11-02"
+    },
+    {
+      "name": "davidlopez-x05x8/minecraft-aim-assist",
+      "date": "2026-11-02"
     }
   ]
 }
