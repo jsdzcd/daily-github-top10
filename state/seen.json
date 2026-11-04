@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "ikow/php2shell-poc",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "eagle-hq/EAGLE-4",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "dominikmartn/harp",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "NVIDIA/flare-local-inference",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "9bie/php2shell-bypass-aslr-exp",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "renjiegod/dyt-ashare-cli",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "WoYun520/dsh-purge",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "openai/php2shell-checker",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "cs-tool-s/.github",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "microsoft/markitdown",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "Graphify-Labs/graphify",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "ikow/php2shell-poc",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "eagle-hq/EAGLE-4",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "NVIDIA/flare-local-inference",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "9bie/php2shell-bypass-aslr-exp",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "WoYun520/dsh-purge",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "openai/php2shell-checker",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "Alejandros17487/ai-jailbreaks",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "nthnclrk/CleanFrame",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "Jakeschincariol/day-trader-skill",
-      "date": "2026-10-20"
-    },
-    {
-      "name": "Fluepke/emudrahahahahaha",
-      "date": "2026-10-20"
-    },
-    {
       "name": "colinhacks/reylo",
       "date": "2026-10-21"
     },
@@ -1651,6 +1531,126 @@
     {
       "name": "davidlopez-x05x8/minecraft-aim-assist",
       "date": "2026-11-02"
+    },
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "Minireel/HGhub",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "brightsongwrath/personal-data-deletor-osint",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "andrew-babo/muse4ai",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "Lostuaexpand/windows-animated-wallpapers",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "DeltaProviderGuide/auto-auction-bot-wow-forever",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "PatchBuilderAmplify/stolen-crypto-tracer",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "StormSkinkGrip/game-ping-multipath-router",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "mattpocock/skills",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "Minireel/HGhub",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "brightsongwrath/personal-data-deletor-osint",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "andrew-babo/muse4ai",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "PatchBuilderAmplify/stolen-crypto-tracer",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "Badgenyamultiplexer/pc-game-fps-doctor",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "protonversestudio/wow-forever-builds-kindred",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "StraitBailiff/Voice-Changer-2026",
+      "date": "2026-11-03"
+    },
+    {
+      "name": "sarpstar/cinecode",
+      "date": "2026-11-03"
     }
   ]
 }
