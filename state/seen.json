@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "colinhacks/reylo",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "Acelogic/Snapintosh",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "oosexgang/hackios-xnu-kernel",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "wesbos/3d-model-anything",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "assetnote/php2shell-scanner",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "zita-ch/supermimic_vibed",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "rossark0/rossark-motion-skill",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "atbfun/ATBGamePort",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "helloianneo/ian-xhs-carousel",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "react/react",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "CyC2018/CS-Notes",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "Acelogic/Snapintosh",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "assetnote/php2shell-scanner",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "zita-ch/supermimic_vibed",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "atbfun/ATBGamePort",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "NCSC-NL/php2shell",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "xingjian-bai/opal",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "junaire/CVE-2026-109618-exploit",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "Monopoly0024/simple-checker-v1",
-      "date": "2026-10-21"
-    },
-    {
-      "name": "lusouldepth-ai/FDE_Learning",
-      "date": "2026-10-21"
-    },
-    {
       "name": "Snapintosh/Snapintosh",
       "date": "2026-10-22"
     },
@@ -1651,6 +1531,118 @@
     {
       "name": "sarpstar/cinecode",
       "date": "2026-11-03"
+    },
+    {
+      "name": "AtomIllusionistDwell/watson-username-footprint-finder",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "TagPhaseArcade/tiktok-uploader",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "dragonwolfshovel/youtube-uploader",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "MythicHokageRepel/steam-inventory-value-desktop",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "Wallbycontact/java-mod-rust-port-tool",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "DawnShaperFrost90/slideshow-video-maker",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "MagpieDirect/imei-repair",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "WoYun520/pixel-gif-sticker-pack",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "Nebularotunnel/Token-Sniper",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "ProsecutorBreed/portfolio-rebalancer",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "react/react",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "CyC2018/CS-Notes",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "mattpocock/skills",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "AtomIllusionistDwell/watson-username-footprint-finder",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "TagPhaseArcade/tiktok-uploader",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "dragonwolfshovel/youtube-uploader",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "MythicHokageRepel/steam-inventory-value-desktop",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "Wallbycontact/java-mod-rust-port-tool",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "WoYun520/pixel-gif-sticker-pack",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "Nebularotunnel/Token-Sniper",
+      "date": "2026-11-04"
+    },
+    {
+      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "date": "2026-11-04"
     }
   ]
 }
