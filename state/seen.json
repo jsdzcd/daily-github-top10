@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "JustAResearcher/gpu-unlock-ada",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "ivarvong/lantern",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "EgorBo/BlazingFastDotnet",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "songjianyang/xss-audit",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "xMazaki/unbloat-android-tv",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "Charonyuu/whatsmyagentdoing",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "rddmwmddr/android-ad-cleaner",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "aotoycffyxns/delta",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "tytpaskanvdc/cross-exchange-arbitrage-bot-pc-desktop",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "onchain-trading-bot/.github",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "n8n-io/n8n",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "yt-dlp/yt-dlp",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "microsoft/vscode",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "ivarvong/lantern",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "Charonyuu/whatsmyagentdoing",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "rddmwmddr/android-ad-cleaner",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "ravensclawx/HBLauncher",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "jouaaaaaa/mcd-self-butler",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "xkx121029/mcd-vibe-commit",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "CH-LaTiao/lumina-guide",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "morganlinton/BeautifulRust",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "PandaSI-Labs/pandasi-agent",
-      "date": "2026-10-23"
-    },
-    {
-      "name": "SuperBigFatDog/mcd-nearest-deal",
-      "date": "2026-10-23"
-    },
-    {
       "name": "mizorewww/gdirect",
       "date": "2026-10-24"
     },
@@ -1643,6 +1523,122 @@
     {
       "name": "riyadhHDA/wichforks",
       "date": "2026-11-05"
+    },
+    {
+      "name": "sostenesfreitas/ocarina-recomp",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "sentinelsoldierprize/Minecraft-AFK-Bot",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "Tropicaldrescoop/discord-id-osint-checker",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "devvmhq/devvm",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "musubipapi/airpointer",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "arnold117/iOS-NOIR",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "PackArtisanMold/phone-to-webcam",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "shanselman/sandbox-mcp",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "JourneymanStitch/imei-repair",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "Fuelflominaret/axie-infinity-bot",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "ossu/computer-science",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "microsoft/vscode",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "sentinelsoldierprize/Minecraft-AFK-Bot",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "devvmhq/devvm",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "arnold117/iOS-NOIR",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "shanselman/sandbox-mcp",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "HerdBuilderEstimate/roblox-studio-mcp",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "PulverizeLink/roblox-performance-tool",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "Lowbetweentrim/crypto-portfolio-tracker",
+      "date": "2026-11-06"
+    },
+    {
+      "name": "phaseboulderfetter/discord-quest-completer",
+      "date": "2026-11-06"
     }
   ]
 }
