@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "mizorewww/gdirect",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "DenisSergeevitch/ex-ussr-kinship-research",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "Release-DLSS-5-Swapper/.github",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "mirkobrombin/raven",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "routerhubSI/glm-5.3-abliterated",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "routerhubSI/uncensored-ai-api",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "designfuchen/word-atlas",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "wangrongding/tv-fresh",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "misshexa66/OunceCake",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "YoyoLin008/mcreplay",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "rustdesk/rustdesk",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "shadcn-ui/ui",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "electron/electron",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "nodejs/node",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "DenisSergeevitch/ex-ussr-kinship-research",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "routerhubSI/glm-5.3-abliterated",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "designfuchen/word-atlas",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "misshexa66/OunceCake",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "YoyoLin008/mcreplay",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "vxcn/mcd-kcal-picker",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "holdcloud/mcd-calendar-buddy",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "xanthichi/mcd-meal-mate",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "xx20050823xx/McMate",
-      "date": "2026-10-24"
-    },
-    {
-      "name": "tractordev/webframe",
-      "date": "2026-10-24"
-    },
-    {
       "name": "KillaBoi/StealMyBitcoin-PoC",
       "date": "2026-10-25"
     },
@@ -1639,6 +1519,90 @@
     {
       "name": "phaseboulderfetter/discord-quest-completer",
       "date": "2026-11-06"
+    },
+    {
+      "name": "tangerineturtle1/NX2navi",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "Th0rgal/satmux",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "lxe/phoneuse",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "PaladinSmash84/aida-64-extreme",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "PaladinDiscriminate/adobe-substance-3d",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "updatesealeradicate/start11",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "Soundplomystery/landr-plugin-bundle",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "OnyxAmbassador/actual-multiplie-monitors",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "PresidentThaw/capcut-for-windows",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "PlaneDiverRevitalize/avid-media-composer",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-11-07"
+    },
+    {
+      "name": "Th0rgal/satmux",
+      "date": "2026-11-07"
     }
   ]
 }
