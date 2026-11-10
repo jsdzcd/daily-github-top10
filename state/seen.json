@@ -1,246 +1,6 @@
 {
   "items": [
     {
-      "name": "KillaBoi/StealMyBitcoin-PoC",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "unclebob/ub-mode",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "andyhuo520/digital-human-koubo",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "DrWhax/unfairplay",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "andriu-kun/-wildrig-multi",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "yaojingang/GEOInflow",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "free-cracks/Adobe-Acrobat-Pro",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "ZiChuanLan/agent-purge",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "pro-tools-workspace/Canva-Pro",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "KohakuBlueleaf/KohakUnlock",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "practical-tutorials/project-based-learning",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "torvalds/linux",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "KillaBoi/StealMyBitcoin-PoC",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "andyhuo520/digital-human-koubo",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "DrWhax/unfairplay",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "yaojingang/GEOInflow",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "free-cracks/Adobe-Acrobat-Pro",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "ZiChuanLan/agent-purge",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "mochiiwuff/capri-desktop",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "blakeandersonw/ai-app-playbook",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "Bodila51/reverse-engineer-Wi-Fi-router",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "egoist/mygo-cloudmusic",
-      "date": "2026-10-25"
-    },
-    {
-      "name": "kargulstudio/calender-app-design",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "Motionsites-AI/claude-skill",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "martinkeith700/ruyiJS",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "deepopen-com/deepopen-3d-webs",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "NyxFoundation/nyxis",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "piermark/omarchytv",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "anhao/ai-pose-gallery-zh",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "DiaoOrg/awesome-supermimic",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "Fractal-Compute-Orchestrations/.github",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "sybil-solutions/all-historical-evidence-of-jesus-christ",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "mattpocock/skills",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "flutter/flutter",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "twbs/bootstrap",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "huggingface/transformers",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "langflow-ai/langflow",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "vercel/next.js",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "krahets/hello-algo",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "kargulstudio/calender-app-design",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "Motionsites-AI/claude-skill",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "deepopen-com/deepopen-3d-webs",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "sybil-solutions/all-historical-evidence-of-jesus-christ",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "patch-gg/anymove",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "JunWan666/astrbot-for-android",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "athcagithub/postiz-leaked",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "GrandeurPikeman/Roblox-MM2-Utility-2026",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "apolinario/urnas-tardias",
-      "date": "2026-10-26"
-    },
-    {
-      "name": "Andreas698/glm-5.3-uncensored",
-      "date": "2026-10-26"
-    },
-    {
       "name": "smithjohn78390/tongjiang-lab",
       "date": "2026-10-27"
     },
@@ -1603,6 +1363,126 @@
     {
       "name": "Th0rgal/satmux",
       "date": "2026-11-07"
+    },
+    {
+      "name": "huamidev/GestaltX",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "FJNB5/fujiang-pojia",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "Nanoutrolley/roblox-studio-mcp",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "Sectionsereclaim/discord-auto-quest",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "ridgecobblerslide/windows-animated-wallpapers",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "TameCarpenterEstate/Roblox-FPS-Optimizer",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "Platoonritomb/Fortnite-FPS-Booster-Performance-Optimizer",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "yetone/rewind-for-x",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "kolbicz/WQFiles",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "adriadam10/mkw-recomp",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "practical-tutorials/project-based-learning",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "torvalds/linux",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "flutter/flutter",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "twbs/bootstrap",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "huggingface/transformers",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "vercel/next.js",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "Chalarangelo/30-seconds-of-code",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "FJNB5/fujiang-pojia",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "Nanoutrolley/roblox-studio-mcp",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "Sectionsereclaim/discord-auto-quest",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "ridgecobblerslide/windows-animated-wallpapers",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "TameCarpenterEstate/Roblox-FPS-Optimizer",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "Platoonritomb/Fortnite-FPS-Booster-Performance-Optimizer",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "yetone/rewind-for-x",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "khazuly/spamscam",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "TomyJan/SnowLuma",
+      "date": "2026-11-09"
+    },
+    {
+      "name": "shi3z/mightyCode",
+      "date": "2026-11-09"
     }
   ]
 }
