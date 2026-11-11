@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "smithjohn78390/tongjiang-lab",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "ChannelCooperStart/capri-ai",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "vaishantsah/watson-AI-osint-all-in-one",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "NotRexed/SkyboundTotk",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "OpenBMB/MiniCPM-OCR",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "haydenschmitty/floorplan",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "jacke-pp/open-yoki",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "ScalarGrouse/SketchUp-Pro",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "Tunnelclabungalow/Rust-Recoil-Pro",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "Shagg88/COGBox",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "ultraworkers/claw-code",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "521xueweihan/HelloGitHub",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "ollama/ollama",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "anthropics/skills",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "langgenius/dify",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "langchain-ai/langchain",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "microsoft/PowerToys",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "golang/go",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "ChannelCooperStart/capri-ai",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "vaishantsah/watson-AI-osint-all-in-one",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "OpenBMB/MiniCPM-OCR",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "haydenschmitty/floorplan",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "jacke-pp/open-yoki",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "MiniMax-AI/mcode-stack",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "rudderlabs/devbox",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "davemessew/AgentFlux",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "jianxinss/iching-64-motion",
-      "date": "2026-10-27"
-    },
-    {
-      "name": "oxnw/ai-phone",
-      "date": "2026-10-27"
-    },
-    {
       "name": "valentderah/totk-pc-recomp",
       "date": "2026-10-28"
     },
@@ -1575,6 +1455,126 @@
     {
       "name": "yetone/rewind-for-x",
       "date": "2026-11-09"
+    },
+    {
+      "name": "HybridRobotics/supermimic",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "JDhruv14/line-art-animation",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "FrigadeHQ/yogurt",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "aronhy/pibrowse",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "ValidatorStack/solana-vigil",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "setyamickala/fastmint-fcfs-agentic",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "bea4dev/shoji-bar-4",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "MSNightmare/SignDrop",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "egoist/tinytraffic",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "nishuzumi/show-me-you-want-skill",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "massgravel/Microsoft-Activation-Scripts",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "ollama/ollama",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "langgenius/dify",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "golang/go",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "krahets/hello-algo",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "HybridRobotics/supermimic",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "JDhruv14/line-art-animation",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "FrigadeHQ/yogurt",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "aronhy/pibrowse",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "ValidatorStack/solana-vigil",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "setyamickala/fastmint-fcfs-agentic",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "egoist/tinytraffic",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "failsafe-security/artex",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "2SinceJuly/SkyDot",
+      "date": "2026-11-10"
+    },
+    {
+      "name": "Nobleglusurvive/discord-quest-completer",
+      "date": "2026-11-10"
     }
   ]
 }
