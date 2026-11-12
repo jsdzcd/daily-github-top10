@@ -1,118 +1,6 @@
 {
   "items": [
     {
-      "name": "valentderah/totk-pc-recomp",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "HRuiCcc/RuiC-PoseAtlas",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "Humpalumps/Ultra-Water",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "brainstormity/LightPost",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "shipwords-dev/shipwords",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "covesoulrhythm/Autodesk-3ds-MAX",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "GumshoeRampart/Adobe-After-Effects",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "HerdWarlordExplode/AOMEI-Backupper",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "thresholdwolfshack/Autodesk-Inventor",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "BoatwrightSpout/IOBIT-Driver-Booster",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "f/prompts.chat",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "mattpocock/skills",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "HRuiCcc/RuiC-PoseAtlas",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "Humpalumps/Ultra-Water",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "brainstormity/LightPost",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "shipwords-dev/shipwords",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "BryceYuuu/RUN",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "MiniMax-AI/mcode-stack",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "jacke-pp/open-yoki",
-      "date": "2026-10-28"
-    },
-    {
-      "name": "vaishantsah/watson-AI-osint-all-in-one",
-      "date": "2026-10-28"
-    },
-    {
       "name": "paipiange/nvzhuang",
       "date": "2026-10-29"
     },
@@ -1575,6 +1463,126 @@
     {
       "name": "Nobleglusurvive/discord-quest-completer",
       "date": "2026-11-10"
+    },
+    {
+      "name": "apex-compute/ANR",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "AIRzZ90/study-materials-fork",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "tigerogijzooav/Hyperliquid-Trade-Bot",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "makepad/relax",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "linknimiball1974/ai-texture-forge",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "op7418/guizang-game-skill",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "DandanLLab/SnowCatQQ",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "rivet-dev/open-orange",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "Simon3Sarkis/super-odyssey-pc-recomp",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "f/prompts.chat",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "mattpocock/skills",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "AIRzZ90/study-materials-fork",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "tigerogijzooav/Hyperliquid-Trade-Bot",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "op7418/guizang-game-skill",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "DandanLLab/SnowCatQQ",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "rivet-dev/open-orange",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "lawandrorder/mate",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "nickvasilescu/bot-hq",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "BankerInterface/youtube-seo-optimizer",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "AFangTeam/PrintLab",
+      "date": "2026-11-11"
+    },
+    {
+      "name": "av/safe-sand",
+      "date": "2026-11-11"
     }
   ]
 }
