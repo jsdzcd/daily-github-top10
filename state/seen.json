@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "paipiange/nvzhuang",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "wangzan101/Mika",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "heydamir/unslop",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "kevinraymond/florilegium",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "sleepy-zone/ai-ref-library-cn",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "Djihads80/Eglantine",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "MarkBlah/smsofdeath",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "lovisdotio/video-to-game",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "github/gitignore",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "open-webui/open-webui",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "ytdl-org/youtube-dl",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "paipiange/nvzhuang",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "wangzan101/Mika",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "heydamir/unslop",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "sleepy-zone/ai-ref-library-cn",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "QuantumBladesmith/FPS-Optimizer-Universal-Game-Performance-Booster-2026",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "mike-vops93s1/Valorant-ESP-Advanced-Player-Visual-Overlay-2026",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "patch-gg/pixelfx",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "soimy/c3rb3r-rescue",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "Pika-Labs/Pika-H3-Flex",
-      "date": "2026-10-29"
-    },
-    {
-      "name": "wzc520pyfm/gen-ai-pose-image",
-      "date": "2026-10-29"
-    },
-    {
       "name": "deepseek-ai/dsh-superagent-prototype",
       "date": "2026-10-30"
     },
@@ -1583,6 +1463,126 @@
     {
       "name": "av/safe-sand",
       "date": "2026-11-11"
+    },
+    {
+      "name": "deepseek-ai/chat-demo",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "faizfahmi77/ScanDot",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "quer3q/kraken-mount",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "higurashi-ai/Haru",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "gabrielbuzziv/emissor-nfse-nacional",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "kociden/sakurai-skill",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "opencoredev/islandcn",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "bikini/telejam",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "hitkeeen/blender-ai-mcp-addon",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "baiblinocun1986/blender-ai-copilot-hub",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "react/react-native",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "deepseek-ai/chat-demo",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "higurashi-ai/Haru",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "gabrielbuzziv/emissor-nfse-nacional",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "kociden/sakurai-skill",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "opencoredev/islandcn",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "hitkeeen/blender-ai-mcp-addon",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "eagrafki-byte/ai--manus",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "agdinis/ai--manus",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "tyesheh/ai--manus",
+      "date": "2026-11-12"
+    },
+    {
+      "name": "alphafalcongamer-creator/manus--ai",
+      "date": "2026-11-12"
     }
   ]
 }
