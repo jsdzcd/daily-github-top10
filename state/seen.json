@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "deepseek-ai/dsh-superagent-prototype",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "Arjun-Ingole/hop",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "ramenvr/autopilot",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "alchaincyf/huashu-bird-sticker",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "elvarofficial/teardown",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "N1nEmAn/sapper-v2",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "Pluviobyte/douyin-comments",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "boardshogunfluctuate/Capri-AI",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "getify/You-Dont-Know-JS",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "garrytan/gstack",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "deepseek-ai/dsh-superagent-prototype",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "ramenvr/autopilot",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "elvarofficial/teardown",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "N1nEmAn/sapper-v2",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "Pluviobyte/douyin-comments",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "redjellyfishrampart/Bunny-Hop-Script-Auto-Bhop-Movement-Tool-2026",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "boardshogunfluctuate/Capri-AI",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "dbreunig/nesformer",
-      "date": "2026-10-30"
-    },
-    {
-      "name": "patch-gg/pixelfx",
-      "date": "2026-10-30"
-    },
-    {
       "name": "storytold/craft-anything",
       "date": "2026-10-31"
     },
@@ -1583,6 +1463,126 @@
     {
       "name": "alphafalcongamer-creator/manus--ai",
       "date": "2026-11-12"
+    },
+    {
+      "name": "Topkiflare74/ai--manus2.0",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "trackboatwrightplan/GitHub-Copilot-app",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "WarriorRemember/IPTV_Player_2.0",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "TrapAccountant/GitHub-Copilot-app",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "TurquoiseDetective/IPTV_Player_2.0",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "tornadonovicewhirl40/IPTV_Player_2.0",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "WattBeetleLearn/IPTV_Player_2.0",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "topapothecarycanal/ai--manus2.0",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "Trapbraneedle/IPTV_Player_2.0",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "trackersnailgrip/GitHub-Copilot-app",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "yt-dlp/yt-dlp",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "anthropics/skills",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "github/gitignore",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "garrytan/gstack",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "Topkiflare74/ai--manus2.0",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "topapothecarycanal/ai--manus2.0",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "Trapbraneedle/IPTV_Player_2.0",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "toppatronweave/ai--manus2.0",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "topconstableinlet67/ai--manus2.0",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "tornadonovicewhirl40/ai--manus2.0",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "TitanShieldRavine/ai--manus2.0",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "trackersnailgrip/ai--manus2.0",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "Ultimateakiln/ai--manus2.0",
+      "date": "2026-11-13"
+    },
+    {
+      "name": "TrapBladesmith/ai--manus2.0",
+      "date": "2026-11-13"
     }
   ]
 }
