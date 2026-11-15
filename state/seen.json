@@ -1,114 +1,6 @@
 {
   "items": [
     {
-      "name": "storytold/craft-anything",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "joeblau/subvox",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "arpanjot-coding/AVault",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "Centiplatrap/pc-game-fps-doctor",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "CheetahEstimate/KMS-Pico",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "CelestialStarfish/Ads-Blocker",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "CourtHunterKey/Discord-Quest-Completer",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "NadirCardinal/AnyUnlock",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "Pauseoruncouple/Genesis-Miner",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "gryphonautocratmatch/StartAll-Back",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "harry0703/MoneyPrinterTurbo",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "openai/codex",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "kubernetes/kubernetes",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "Centiplatrap/pc-game-fps-doctor",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "yetone/alma-relay",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "caru-ini/stack-diagram",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "dankumarlab2090u1/minecraft-hack-menu-2026",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "nikita-s-x2001x7/photo-converter",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "deepseek-ai/dsh-superagent-prototype",
-      "date": "2026-10-31"
-    },
-    {
-      "name": "TinsmithConsole60/Roblox-Account-Manager-Multi-Account-Tool-2026",
-      "date": "2026-10-31"
-    },
-    {
       "name": "mromidev/claude-animated-shorts",
       "date": "2026-11-01"
     },
@@ -1583,6 +1475,126 @@
     {
       "name": "TrapBladesmith/ai--manus2.0",
       "date": "2026-11-13"
+    },
+    {
+      "name": "duwqijlk/muse-protocol",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "YellowLaborerMarket/Gemini-Config-Checker-",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "WindGatorRise37/Gemini-Config-Checker-",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "WyrmClimberManacle/Gemini-Config-Checker-",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "TurtleReside/Gemini-Config-Checker-",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "weldbladesmithwharf/Gemini-Config-Checker-",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "WindowStaffGate11/Gemini-Config-Checker-",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "WerewolfEmuHub/Gemini-Config-Checker-",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "Violetnyudress/Gemini-Config-Checker-",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "TrooperFilter/Gemini-Config-Checker-",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "openai/codex",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "ggml-org/llama.cpp",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "duwqijlk/muse-protocol",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "YellowLaborerMarket/Gemini-Config-Checker-",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "WindGatorRise37/Gemini-Config-Checker-",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "WyrmClimberManacle/Gemini-Config-Checker-",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "TurtleReside/Gemini-Config-Checker-",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "weldbladesmithwharf/Gemini-Config-Checker-",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "WindowStaffGate11/Gemini-Config-Checker-",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "WerewolfEmuHub/Gemini-Config-Checker-",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "Violetnyudress/Gemini-Config-Checker-",
+      "date": "2026-11-14"
+    },
+    {
+      "name": "TrooperFilter/Gemini-Config-Checker-",
+      "date": "2026-11-14"
     }
   ]
 }
