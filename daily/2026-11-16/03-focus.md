@@ -1,27 +1,27 @@
 # 限定领域 Top10 — 2026-11-16
 
 ## 速览（30 秒）
-- Top10 合计 Stars：1088
-- 语言分布：JavaScript 4 / Python 4 / Go 1 / TypeScript 1
-- 热门主题：agent-skills, automation, claude-code, ai-agent, ai-agents, ai-companion, ai-girlfriend, ai-waifu
+- Top10 合计 Stars：3866
+- 语言分布：TypeScript 5 / Python 3 / JavaScript 2
+- 热门主题：agent-skill, benchmarking, claude-code, cli, cmp, desktop, developer-tools, digital-footprint
 - 最热 3 个：
-  1) edgerunners2/capri-ai-desktop — ⭐ 214 — ai-agent, ai-companion, ai-girlfriend｜Capri — Free
-  2) siliconjungle/shapeshift-labs-ink-studio — ⭐ 202 — Sculpting, animation and simulation toolkit for pi
-  3) boringmarketer/boring-marketing-skills — ⭐ 141 — agent-skills, ai-agents, claude-code｜31 free marke
+  1) gylive/google-ultra — ⭐ 1482 — 
+  2) sybil-solutions/inference-optimisation-skill — ⭐ 914 — agent-skill, benchmarking, claude-code｜Agent skill
+  3) Orderchodrag/smelt-minecraft-mods-to-rust-converter — ⭐ 262 — cli, fabric, horizon｜Point Smelt at a Java mod jar
 
 ## Top10
 | # | Repo | Stars | Lang | Topics | License | Updated | Why |
 |---:|------|------:|------|--------|---------|---------|-----|
-| 1 | [edgerunners2/capri-ai-desktop](https://github.com/edgerunners2/capri-ai-desktop) | 214 | Python | ai-agent, ai-companion, ai-girlfriend, ai-waifu, anime, automation | NOASSERTION | 2026-11-16 | ai-agent, ai-companion, ai-girlfriend｜Capri — Free open-source AI desktop pet, gaming overlay & vo |
-| 2 | [siliconjungle/shapeshift-labs-ink-studio](https://github.com/siliconjungle/shapeshift-labs-ink-studio) | 202 | JavaScript |  | MIT | 2026-11-16 | Sculpting, animation and simulation toolkit for pixel-art Gaussian splats |
-| 3 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | 141 | Python | agent-skills, ai-agents, claude-code, codex, copywriting, local-seo | MIT | 2026-11-16 | agent-skills, ai-agents, claude-code｜31 free marketing skills for your AI agent: research, positi |
-| 4 | [waw666waw666/RegisterHub](https://github.com/waw666waw666/RegisterHub) | 135 | Python | anti-bot, automation, playwright, python, registration, scaffolding | Apache-2.0 | 2026-11-16 | anti-bot, automation, playwright｜万能注册机模板 \| Universal Auto-Registration Template |
-| 5 | [championkazekagemold/wallpaper-engine-free](https://github.com/championkazekagemold/wallpaper-engine-free) | 101 | JavaScript | free-theme, open-source-wallpaper, theme-customization, theme-customizer, wallpaper-crack, wallpaper-customization | MIT | 2026-11-16 | free-theme, open-source-wallpaper, theme-customization｜Wallpaper Engine Free is a free desktop wallpaper project de |
-| 6 | [staryone/motlab](https://github.com/staryone/motlab) | 66 | JavaScript | agent-skills, canvas, claude-code, headless-chrome, motion-graphics, video | MIT | 2026-11-16 | agent-skills, canvas, claude-code｜Video as code: canvas scenes rendered with WebCodecs in head |
-| 7 | [stvlynn/spines](https://github.com/stvlynn/spines) | 65 | TypeScript |  |  | 2026-11-16 | Turn apps & albums into CD jewel case spines \| 把 App 与专辑做成实体 CD 盒侧脊收藏图 |
-| 8 | [Aabyss-Team/Threat-Broadcast-Plus](https://github.com/Aabyss-Team/Threat-Broadcast-Plus) | 61 | Python | network-security, security, security-tools, threat-broadcast | GPL-3.0 | 2026-11-16 | network-security, security, security-tools｜网络安全威胁情报播报-Plus升级版 |
-| 9 | [SightPerfumer/Filmora16-Ai-Editor-Latest](https://github.com/SightPerfumer/Filmora16-Ai-Editor-Latest) | 52 | Go | audio-video-editing-windows, filmora-15, filmora-latest, filmora-new, filmora-setup, filmora-watermark | MIT | 2026-11-16 | audio-video-editing-windows, filmora-15, filmora-latest｜how to get Filmora 16 AI Video Editor |
-| 10 | [CoderL98/hghub-plugins](https://github.com/CoderL98/hghub-plugins) | 51 | JavaScript |  |  | 2026-11-16 | HGhub HPP 1.0 单文件插件与订阅源 |
+| 1 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | 1482 | Python |  | MIT | 2026-11-17 |  |
+| 2 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | 914 | Python | agent-skill, benchmarking, claude-code, inference, llm, speculative-decoding | MIT | 2026-11-16 | agent-skill, benchmarking, claude-code｜Agent skill for hill-climbing local LLM serving speed (decod |
+| 3 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | 262 | JavaScript | cli, fabric, horizon, minecraft, minecraft-mods, neoforge | MIT | 2026-11-16 | cli, fabric, horizon｜Point Smelt at a Java mod jar and it starts the Rust port fo |
+| 4 | [memoryswordsmanlaud/watson-username-footprint-finder](https://github.com/memoryswordsmanlaud/watson-username-footprint-finder) | 239 | TypeScript | desktop, digital-footprint, electron, osint, privacy, socmint | MIT | 2026-11-16 | desktop, digital-footprint, electron｜Type one nickname, see every public trace it left: forums, r |
+| 5 | [xyzww888/muse-JP-Reg](https://github.com/xyzww888/muse-JP-Reg) | 204 | Python |  | AGPL-3.0 | 2026-11-17 | Muse.ai pure-HTTP registration & invite-code fission WebUI (JP residential proxy |
+| 6 | [zaxd122/cmp30hx-mod](https://github.com/zaxd122/cmp30hx-mod) | 153 | TypeScript | cmp, developer-tools, leagueoflegends, linux, mining, nvidia |  | 2026-11-17 | cmp, developer-tools, leagueoflegends｜CMP30HX Mod: Shape the World, Share the Craft, Build It Toge |
+| 7 | [thitinunteddee172-cell/payday-2-dlc-unlocker](https://github.com/thitinunteddee172-cell/payday-2-dlc-unlocker) | 153 | TypeScript | dlc, dlc-unlocker, dlcunlocker, payday-2, payday2, payday2-dlcunlocker |  | 2026-11-17 | dlc, dlc-unlocker, dlcunlocker｜Payday 2 DLC Unlocker: Access Every Existing DLC In-Game |
+| 8 | [erikysouzasilva-design/robrun-cheat-ares](https://github.com/erikysouzasilva-design/robrun-cheat-ares) | 153 | TypeScript | robrun, robrun-aimbot, robrun-cheat, robrun-cheats, robrun-tool, robrun-trainer | MIT | 2026-11-17 | robrun, robrun-aimbot, robrun-cheat｜RobRun Cheat Ares: Fast, Precise Game Enhancement Tool |
+| 9 | [rkboi1212/subnautica-2-trainer](https://github.com/rkboi1212/subnautica-2-trainer) | 153 | JavaScript | subnautica-2, subnautica-2-cheat, subnautica-2-mod, subnautica-2-trainer, subnautica-2-trainer-2026, subnautica2-hack | MIT | 2026-11-17 | subnautica-2, subnautica-2-cheat, subnautica-2-mod｜Subnautica 2 Trainer – Performance and Control Menu |
+| 10 | [sameh10000000000-crypto/wardogs-zone-helper-cheat](https://github.com/sameh10000000000-crypto/wardogs-zone-helper-cheat) | 153 | TypeScript | wardogs, wardogs-aim-assist, wardogs-aimbot, wardogs-auto-aim-script, wardogs-autoshot-2026-free, wardogs-autoshot-download | MIT | 2026-11-17 | wardogs, wardogs-aim-assist, wardogs-aimbot｜WARDOGS Zone Helper: Aimbot, ESP, Chams and Combat Enhancers |
 
 ## 备忘
 - ✅ 想回看的：把链接丢到 `review/queue.md`（你手动维护，最省心）

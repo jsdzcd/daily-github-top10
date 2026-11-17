@@ -1,27 +1,27 @@
 # 新建 Top10（过去24h） — 2026-11-16
 
 ## 速览（30 秒）
-- Top10 合计 Stars：1448
-- 语言分布：Python 3 / Unknown 3 / JavaScript 2 / HTML 1 / Shell 1
-- 热门主题：automation, agent-skills, ai-agent, ai-agents, ai-companion, ai-girlfriend, ai-waifu, anime
+- Top10 合计 Stars：7895
+- 语言分布：Unknown 4 / Python 2 / C++ 1 / JavaScript 1 / Rust 1 / TypeScript 1
+- 热门主题：claude-code, cli, adobe, adobe-creative-cloud, agent-skill, agent-skills, ai-video, ai-video-generation
 - 最热 3 个：
-  1) edgerunners2/capri-ai-desktop — ⭐ 214 — ai-agent, ai-companion, ai-girlfriend｜Capri — Free
-  2) siliconjungle/shapeshift-labs-ink-studio — ⭐ 202 — Sculpting, animation and simulation toolkit for pi
-  3) chuanqisun/spaceship — ⭐ 193 — Steer your ideas in realtime
+  1) krisgfx9/Wireless-Device-Battery-Monitor — ⭐ 2609 — Show the battery level of wireless mice, headsets,
+  2) gylive/google-ultra — ⭐ 1482 — 
+  3) erkamyaman/rust-anything — ⭐ 1227 — agent-skills, claude-code, cli｜Rewrite your whole 
 
 ## Top10
 | # | Repo | Stars | Lang | Topics | License | Updated | Why |
 |---:|------|------:|------|--------|---------|---------|-----|
-| 1 | [edgerunners2/capri-ai-desktop](https://github.com/edgerunners2/capri-ai-desktop) | 214 | Python | ai-agent, ai-companion, ai-girlfriend, ai-waifu, anime, automation | NOASSERTION | 2026-11-16 | ai-agent, ai-companion, ai-girlfriend｜Capri — Free open-source AI desktop pet, gaming overlay & vo |
-| 2 | [siliconjungle/shapeshift-labs-ink-studio](https://github.com/siliconjungle/shapeshift-labs-ink-studio) | 202 | JavaScript |  | MIT | 2026-11-16 | Sculpting, animation and simulation toolkit for pixel-art Gaussian splats |
-| 3 | [chuanqisun/spaceship](https://github.com/chuanqisun/spaceship) | 193 | HTML |  | MIT | 2026-11-16 | Steer your ideas in realtime |
-| 4 | [Phantomstawaken/rob-run-advanced-cheat](https://github.com/Phantomstawaken/rob-run-advanced-cheat) | 162 |  | rob-run, rob-run-cheat, rob-run-es, rob-run-mod | MIT | 2026-11-16 | rob-run, rob-run-cheat, rob-run-es |
-| 5 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | 141 | Python | agent-skills, ai-agents, claude-code, codex, copywriting, local-seo | MIT | 2026-11-16 | agent-skills, ai-agents, claude-code｜31 free marketing skills for your AI agent: research, positi |
-| 6 | [scottsturrock/mate-wayland-desktop](https://github.com/scottsturrock/mate-wayland-desktop) | 139 | Shell |  | GPL-3.0 | 2026-11-16 | MATE Wayland Desktop: the MATE desktop on Wayland with labwc, on an Ubuntu 26.04 |
-| 7 | [waw666waw666/RegisterHub](https://github.com/waw666waw666/RegisterHub) | 135 | Python | anti-bot, automation, playwright, python, registration, scaffolding | Apache-2.0 | 2026-11-16 | anti-bot, automation, playwright｜万能注册机模板 \| Universal Auto-Registration Template |
-| 8 | [championkazekagemold/wallpaper-engine-free](https://github.com/championkazekagemold/wallpaper-engine-free) | 101 | JavaScript | free-theme, open-source-wallpaper, theme-customization, theme-customizer, wallpaper-crack, wallpaper-customization | MIT | 2026-11-16 | free-theme, open-source-wallpaper, theme-customization｜Wallpaper Engine Free is a free desktop wallpaper project de |
-| 9 | [nagavineerpasam/systems-to-ai-reading-map](https://github.com/nagavineerpasam/systems-to-ai-reading-map) | 95 |  |  | MIT | 2026-11-16 | 112 topics from 8 well-known engineering books, in a suggested reading order. |
-| 10 | [DestroyerStrait/RobRun-Cheat-Ares-Crack](https://github.com/DestroyerStrait/RobRun-Cheat-Ares-Crack) | 66 |  | robrun, robrun-aimbot, robrun-cheat, robrun-cheats, robrun-tool, robrun-trainer |  | 2026-11-16 | robrun, robrun-aimbot, robrun-cheat｜Free Cheat Ares For RobRun with good instrumental |
+| 1 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | 2609 | C++ |  | GPL-3.0 | 2026-11-17 | Show the battery level of wireless mice, headsets, keyboards and controllers on |
+| 2 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | 1482 | Python |  | MIT | 2026-11-17 |  |
+| 3 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | 1227 | Rust | agent-skills, claude-code, cli, code-migration, codex, ffi | MIT | 2026-11-17 | agent-skills, claude-code, cli｜Rewrite your whole app in Rust, one piece at a time, checked |
+| 4 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | 914 | Python | agent-skill, benchmarking, claude-code, inference, llm, speculative-decoding | MIT | 2026-11-16 | agent-skill, benchmarking, claude-code｜Agent skill for hill-climbing local LLM serving speed (decod |
+| 5 | [WingCasterSanctify/rob-run-mod-private](https://github.com/WingCasterSanctify/rob-run-mod-private) | 352 |  |  | MIT | 2026-11-17 |  |
+| 6 | [FloorTurtleResurrect/free-adobe-activation](https://github.com/FloorTurtleResurrect/free-adobe-activation) | 327 |  | adobe, adobe-creative-cloud |  | 2026-11-17 | adobe, adobe-creative-cloud｜simple tutorial adobe activation with GenP |
+| 7 | [fjorddolphininflate/sims-4-unlcoker-dlc-tool-v2](https://github.com/fjorddolphininflate/sims-4-unlcoker-dlc-tool-v2) | 267 |  | sims4-dlc, sims4-dlc-nulocker, sims4-tool | MIT | 2026-11-17 | sims4-dlc, sims4-dlc-nulocker, sims4-tool |
+| 8 | [Orderchodrag/smelt-minecraft-mods-to-rust-converter](https://github.com/Orderchodrag/smelt-minecraft-mods-to-rust-converter) | 262 | JavaScript | cli, fabric, horizon, minecraft, minecraft-mods, neoforge | MIT | 2026-11-16 | cli, fabric, horizon｜Point Smelt at a Java mod jar and it starts the Rust port fo |
+| 9 | [memoryswordsmanlaud/watson-username-footprint-finder](https://github.com/memoryswordsmanlaud/watson-username-footprint-finder) | 239 | TypeScript | desktop, digital-footprint, electron, osint, privacy, socmint | MIT | 2026-11-16 | desktop, digital-footprint, electron｜Type one nickname, see every public trace it left: forums, r |
+| 10 | [fujc683/seedance-2-5-flash-pricing](https://github.com/fujc683/seedance-2-5-flash-pricing) | 216 |  | ai-video, ai-video-generation, api, apimart, awesome, prompt-engineering | NOASSERTION | 2026-11-16 | ai-video, ai-video-generation, api｜Seedance 2.5 Flash cost per second of video, with comparison |
 
 ## 备忘
 - ✅ 想回看的：把链接丢到 `review/queue.md`（你手动维护，最省心）
