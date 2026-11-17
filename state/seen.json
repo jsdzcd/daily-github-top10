@@ -1,238 +1,6 @@
 {
   "items": [
     {
-      "name": "mromidev/claude-animated-shorts",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "AssassinCreator/steam-stash-value-report-card",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "Balanov/uncut",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "ProsecutorList/monero-miner",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "Bridgeyaprovide/roblox-game-copier",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "rivetpelicanstir/total-commander",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "stalkerswifthub/discord-quest-completer",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "Gezine/CivSwitch",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "wideeyededi/uncensored-nsfw-ai-video-api",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "HandcuffHelper/ads-blocker",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "TheAlgorithms/Python",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "avelino/awesome-go",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "ohmyzsh/ohmyzsh",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "Genymobile/scrcpy",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "farion1231/cc-switch",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "mromidev/claude-animated-shorts",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "AssassinCreator/steam-stash-value-report-card",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "Balanov/uncut",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "Gezine/CivSwitch",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "sleepy-zone/char-db-cn",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "davidlopez-x05x8/minecraft-aim-assist",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "maxwilsoneng2098t9/pdf-compressor-offline",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "SplendorHornbill/windows-animated-wallpapers",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "maxwilsoneng2098t9/tiktok-comment-automation",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "caru-ini/stack-diagram",
-      "date": "2026-11-01"
-    },
-    {
-      "name": "Balanov/shim",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "Codeonshovel/microsoft-365",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "Nucleusanwish/microsoft-office",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "mhfed/vn-law-check",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "justrach/nanolight",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "ShoreEvokerHeat/fl-studio",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "DistributorKnit/metatrader-5-bot",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "TankPharaoh23/microsoft-project",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "FrontierHawkStove/atas-trading-bot",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "marbleorbweb94/ninjatrader-bot",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "ripienaar/free-for-dev",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "excalidraw/excalidraw",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "vinta/awesome-python",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "affaan-m/ECC",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "Balanov/shim",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "Balanov/skein",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "Balanov/verdict",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "MagoStudio/MagoStudio",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "egoist/godraw",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "AssassinCreator/steam-stash-value-report-card",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "SplendorHornbill/windows-animated-wallpapers",
-      "date": "2026-11-02"
-    },
-    {
-      "name": "davidlopez-x05x8/minecraft-aim-assist",
-      "date": "2026-11-02"
-    },
-    {
       "name": "KKKKhazix/agent-autoloop",
       "date": "2026-11-03"
     },
@@ -1595,6 +1363,126 @@
     {
       "name": "TrooperFilter/Gemini-Config-Checker-",
       "date": "2026-11-14"
+    },
+    {
+      "name": "edgerunners2/capri-ai-desktop",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "siliconjungle/shapeshift-labs-ink-studio",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "chuanqisun/spaceship",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "Phantomstawaken/rob-run-advanced-cheat",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "boringmarketer/boring-marketing-skills",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "scottsturrock/mate-wayland-desktop",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "waw666waw666/RegisterHub",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "championkazekagemold/wallpaper-engine-free",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "nagavineerpasam/systems-to-ai-reading-map",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "DestroyerStrait/RobRun-Cheat-Ares-Crack",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "avelino/awesome-go",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "ohmyzsh/ohmyzsh",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "harry0703/MoneyPrinterTurbo",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "excalidraw/excalidraw",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "edgerunners2/capri-ai-desktop",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "siliconjungle/shapeshift-labs-ink-studio",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "boringmarketer/boring-marketing-skills",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "waw666waw666/RegisterHub",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "championkazekagemold/wallpaper-engine-free",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "staryone/motlab",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "stvlynn/spines",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "Aabyss-Team/Threat-Broadcast-Plus",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "SightPerfumer/Filmora16-Ai-Editor-Latest",
+      "date": "2026-11-16"
+    },
+    {
+      "name": "CoderL98/hghub-plugins",
+      "date": "2026-11-16"
     }
   ]
 }
