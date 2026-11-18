@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "KKKKhazix/agent-autoloop",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "govijr/terminal-mac",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "Minireel/HGhub",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "brightsongwrath/personal-data-deletor-osint",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "andrew-babo/muse4ai",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "Lostuaexpand/windows-animated-wallpapers",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "DeltaProviderGuide/auto-auction-bot-wow-forever",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "PatchBuilderAmplify/stolen-crypto-tracer",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "StormSkinkGrip/game-ping-multipath-router",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "Graphify-Labs/graphify",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "mattpocock/skills",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "obra/superpowers",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "deepseek-ai/deepseek-harness",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "NousResearch/hermes-agent",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "KKKKhazix/agent-autoloop",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "Minireel/HGhub",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "brightsongwrath/personal-data-deletor-osint",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "andrew-babo/muse4ai",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "PatchBuilderAmplify/stolen-crypto-tracer",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "Badgenyamultiplexer/pc-game-fps-doctor",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "protonversestudio/wow-forever-builds-kindred",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "StraitBailiff/Voice-Changer-2026",
-      "date": "2026-11-03"
-    },
-    {
-      "name": "sarpstar/cinecode",
-      "date": "2026-11-03"
-    },
-    {
       "name": "AtomIllusionistDwell/watson-username-footprint-finder",
       "date": "2026-11-04"
     },
@@ -1603,6 +1483,126 @@
     {
       "name": "sameh10000000000-crypto/wardogs-zone-helper-cheat",
       "date": "2026-11-16"
+    },
+    {
+      "name": "free-dam-man/cloud-exit-node-deploy",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "prusa3d/prusa-connect",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "ChrisTitusTech/lg-debloat",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "capllen/Subnook",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "dmitrykurash/holospot",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "Lemxy/WinRust",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "ikow/java4shell-poc",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "replit/datacat",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "0xkaka/homeport",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "SamG-Coder/SmartImposter",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "mattpocock/skills",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "free-dam-man/cloud-exit-node-deploy",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "prusa3d/prusa-connect",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "ChrisTitusTech/lg-debloat",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "dmitrykurash/holospot",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "ikow/java4shell-poc",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "replit/datacat",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "geerlingguy/chronytop",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "sfewer-r7/CVE-2026-123007",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "parallel-web/parallel-search-evals",
+      "date": "2026-11-17"
+    },
+    {
+      "name": "xikhar/papertrails",
+      "date": "2026-11-17"
     }
   ]
 }
