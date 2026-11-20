@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "mmdoctor/google-pro-helper",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "JenkinWoo/sheeridVerify",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "HerdBuilderEstimate/roblox-studio-mcp",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "PulverizeLink/roblox-performance-tool",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "Lowbetweentrim/crypto-portfolio-tracker",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "phaseboulderfetter/discord-quest-completer",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "majorminorlabs/hermes-voice",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "JosssphZhou/poki",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "v1ktorrr0x/antigravity-filter-bypass",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "riyadhHDA/wichforks",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "jwasham/coding-interview-university",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "tensorflow/tensorflow",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "Significant-Gravitas/AutoGPT",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "clash-verge-rev/clash-verge-rev",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "github/spec-kit",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "mmdoctor/google-pro-helper",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "JenkinWoo/sheeridVerify",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "HerdBuilderEstimate/roblox-studio-mcp",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "PulverizeLink/roblox-performance-tool",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "Lowbetweentrim/crypto-portfolio-tracker",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "phaseboulderfetter/discord-quest-completer",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "majorminorlabs/hermes-voice",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "JosssphZhou/poki",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "v1ktorrr0x/antigravity-filter-bypass",
-      "date": "2026-11-05"
-    },
-    {
-      "name": "riyadhHDA/wichforks",
-      "date": "2026-11-05"
-    },
-    {
       "name": "sostenesfreitas/ocarina-recomp",
       "date": "2026-11-06"
     },
@@ -1611,6 +1491,126 @@
     {
       "name": "piyushverse001/quantconnect-lean-selvon-research",
       "date": "2026-11-18"
+    },
+    {
+      "name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "CocoSgt/riemann-hypothesis-lean",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "umbra0688/windows-clipboard-manager-sync",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "tristanbuckmaster/navier-stokes",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "HandcuffPerfumer/fl-studio-audio",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "sjohansson2004/Exodus-Fake-Balance",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "skilltoAI/skillto-ai-studio",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "Dimnyohollow/capcut-pro-video-editor-latest",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "dev-bad/arc-raiders-norvena",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "124113009-art/adobe-fresco-elrina",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "clash-verge-rev/clash-verge-rev",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "github/spec-kit",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "stablyai/orca",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "nataphong-lab/Open-Source-Face-Recognition-Ultimate",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "sjohansson2004/Exodus-Fake-Balance",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "skilltoAI/skillto-ai-studio",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "dev-bad/arc-raiders-norvena",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "wozniakalan323-bit/opencode-project-workbench",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "prakashharapanahalli448-arch/marvel-rivals-calvion",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "PasumarthiMohith/powertoys-focused-workspace",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "prajwaljeevan50-web/openclaw-personal-workspace",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "zavi2997-droid/claude-code-agent-workspace",
+      "date": "2026-11-19"
+    },
+    {
+      "name": "dporras543/zed-velvaora",
+      "date": "2026-11-19"
     }
   ]
 }
