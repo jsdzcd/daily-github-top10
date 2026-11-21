@@ -1,122 +1,6 @@
 {
   "items": [
     {
-      "name": "sostenesfreitas/ocarina-recomp",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "sentinelsoldierprize/Minecraft-AFK-Bot",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "Tropicaldrescoop/discord-id-osint-checker",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "devvmhq/devvm",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "musubipapi/airpointer",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "arnold117/iOS-NOIR",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "PackArtisanMold/phone-to-webcam",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "shanselman/sandbox-mcp",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "JourneymanStitch/imei-repair",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "Fuelflominaret/axie-infinity-bot",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "ossu/computer-science",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "n8n-io/n8n",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "microsoft/vscode",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "microsoft/markitdown",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "sentinelsoldierprize/Minecraft-AFK-Bot",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "devvmhq/devvm",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "arnold117/iOS-NOIR",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "shanselman/sandbox-mcp",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "JenkinWoo/sheeridVerify",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "HerdBuilderEstimate/roblox-studio-mcp",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "PulverizeLink/roblox-performance-tool",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "Lowbetweentrim/crypto-portfolio-tracker",
-      "date": "2026-11-06"
-    },
-    {
-      "name": "phaseboulderfetter/discord-quest-completer",
-      "date": "2026-11-06"
-    },
-    {
       "name": "tangerineturtle1/NX2navi",
       "date": "2026-11-07"
     },
@@ -1611,6 +1495,126 @@
     {
       "name": "dporras543/zed-velvaora",
       "date": "2026-11-19"
+    },
+    {
+      "name": "ItsNotRexed/Leonida",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "hatsunemiku-ai/google-one-tools",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "R0Y00/Xbox2Windows",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "leanprover-community/riemann-hypothesis",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "danielwh2/sprite-stacking",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "sybil-solutions/skill-distill",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "MoritzPindorek/Five-Laws-of-AI-Agents",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "silflemming5-jpg/fl-studio-tabarin-beat-lab",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "ahmedbkareno1-stack/windows-activation-script-lekalin",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "microsoft/vscode",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "electron/electron",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "ItsNotRexed/Leonida",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "hatsunemiku-ai/google-one-tools",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "R0Y00/Xbox2Windows",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "sybil-solutions/skill-distill",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "sous-labs/songe",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "bjekuipers2004/Crypto-Miner-Silent",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "w01fb0ss/PiBot",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "sabrinfathimaa-beep/dlss-5-swapper-compatibility",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "prakashharapanahalli448-arch/marvel-rivals-calvion",
+      "date": "2026-11-20"
+    },
+    {
+      "name": "dev-bad/arc-raiders-norvena",
+      "date": "2026-11-20"
     }
   ]
 }
