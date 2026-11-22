@@ -1,90 +1,6 @@
 {
   "items": [
     {
-      "name": "tangerineturtle1/NX2navi",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "Th0rgal/satmux",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "lxe/phoneuse",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "PaladinSmash84/aida-64-extreme",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "PaladinDiscriminate/adobe-substance-3d",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "updatesealeradicate/start11",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "Soundplomystery/landr-plugin-bundle",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "OnyxAmbassador/actual-multiplie-monitors",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "PresidentThaw/capcut-for-windows",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "PlaneDiverRevitalize/avid-media-composer",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "codecrafters-io/build-your-own-x",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "nilbuild/developer-roadmap",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "jwasham/coding-interview-university",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "awesome-selfhosted/awesome-selfhosted",
-      "date": "2026-11-07"
-    },
-    {
-      "name": "Th0rgal/satmux",
-      "date": "2026-11-07"
-    },
-    {
       "name": "huamidev/GestaltX",
       "date": "2026-11-09"
     },
@@ -1615,6 +1531,110 @@
     {
       "name": "dev-bad/arc-raiders-norvena",
       "date": "2026-11-20"
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "sshkeda/minecraft-server-on-orange-cloud",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "Nilespand/tableau-desktop-win",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "birddebug/cinema-4d-win",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "kyle-millerx2098t3/daw-synth-fl-studio-2026-producer-portable-x64",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "Snow-clienT-best1/microsoft-excel-vcardconverter-win",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "Mnowak64/iobit-uninstaller-pro-win",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "deep-patch-true/synchro-arts-revoice-pro-5-win",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "buildpixelwind/photoshop-win",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "castro-vivek-31/rhino-8-win",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "awesome-selfhosted/awesome-selfhosted",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "sshkeda/minecraft-server-on-orange-cloud",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "debugdigital677/descript-pro-win",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "Juanlabs1989/descript-pro-win",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "Morriswawan05/elevenlabs-pro-win",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "sybil-solutions/skill-distill",
+      "date": "2026-11-21"
+    },
+    {
+      "name": "w01fb0ss/PiBot",
+      "date": "2026-11-21"
     }
   ]
 }
