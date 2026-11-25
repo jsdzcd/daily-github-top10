@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "HybridRobotics/supermimic",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "JDhruv14/line-art-animation",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "FrigadeHQ/yogurt",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "aronhy/pibrowse",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "ValidatorStack/solana-vigil",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "setyamickala/fastmint-fcfs-agentic",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "bea4dev/shoji-bar-4",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "MSNightmare/SignDrop",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "egoist/tinytraffic",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "nishuzumi/show-me-you-want-skill",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "massgravel/Microsoft-Activation-Scripts",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "ultraworkers/claw-code",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "ollama/ollama",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "langgenius/dify",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "langchain-ai/langchain",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "microsoft/PowerToys",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "golang/go",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "krahets/hello-algo",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "HybridRobotics/supermimic",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "JDhruv14/line-art-animation",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "FrigadeHQ/yogurt",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "aronhy/pibrowse",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "ValidatorStack/solana-vigil",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "setyamickala/fastmint-fcfs-agentic",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "egoist/tinytraffic",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "failsafe-security/artex",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "2SinceJuly/SkyDot",
-      "date": "2026-11-10"
-    },
-    {
-      "name": "Nobleglusurvive/discord-quest-completer",
-      "date": "2026-11-10"
-    },
-    {
       "name": "apex-compute/ANR",
       "date": "2026-11-11"
     },
@@ -1543,6 +1423,126 @@
     {
       "name": "daniellegonzalez0195/bip39-mnemonic-seed-balance-checker",
       "date": "2026-11-23"
+    },
+    {
+      "name": "fxceless/victory-fork",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "ProjectLeonidaL/leonida",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "QakajaVeca60/deadlock-cheat-esp-aimbot-win11",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "Hiroshis198/lossless-scaling-3-dlss4-unlocked-2026",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "GimetuLoxa79/rob-run-cheat-mod-menu-v2",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "misasimmons/trust-wallet-metamask-seed-recovery",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "marthason52665/fortnite-hwid-spoofer-eac-battleye-cleaner",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "ivanmustafa/rob-run-cheats-mod-menu",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "MikhailMa649/polymarket-trading-bot-clob-arbitrage",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "Norao01/fabfilter-total-bundle-2026-vst3-pc",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "obra/superpowers",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "ultraworkers/claw-code",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "ollama/ollama",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "langgenius/dify",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "golang/go",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "ProjectLeonidaL/leonida",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "misasimmons/trust-wallet-metamask-seed-recovery",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "MikhailMa649/polymarket-trading-bot-clob-arbitrage",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "misasimmons/solana-pump-fun-jito-bundler-bot",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "kevinr-2752/PClabs",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "Norao01/solana-pump-fun-jito-bundler-sniper",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "pinargomez/raydium-meteora-grpc-sniper-bot",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "Demir426/hyperliquid-perp-market-maker-bot",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "rajmyers29/jupiter-v6-atomic-arbitrage-bot",
+      "date": "2026-11-24"
+    },
+    {
+      "name": "dorothyyou08781/bip39-mnemonic-seed-balance-scanner-keyless",
+      "date": "2026-11-24"
     }
   ]
 }
