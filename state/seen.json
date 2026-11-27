@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "deepseek-ai/chat-demo",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "faizfahmi77/ScanDot",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "quer3q/kraken-mount",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "higurashi-ai/Haru",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "gabrielbuzziv/emissor-nfse-nacional",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "kociden/sakurai-skill",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "opencoredev/islandcn",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "bikini/telejam",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "hitkeeen/blender-ai-mcp-addon",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "baiblinocun1986/blender-ai-copilot-hub",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "open-webui/open-webui",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "anthropics/claude-code",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "iptv-org/iptv",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "shadcn-ui/ui",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "react/react-native",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "EbookFoundation/free-programming-books",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "openclaw/openclaw",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "deepseek-ai/chat-demo",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "higurashi-ai/Haru",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "gabrielbuzziv/emissor-nfse-nacional",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "kociden/sakurai-skill",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "opencoredev/islandcn",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "hitkeeen/blender-ai-mcp-addon",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "eagrafki-byte/ai--manus",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "agdinis/ai--manus",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "tyesheh/ai--manus",
-      "date": "2026-11-12"
-    },
-    {
-      "name": "alphafalcongamer-creator/manus--ai",
-      "date": "2026-11-12"
-    },
-    {
       "name": "Topkiflare74/ai--manus2.0",
       "date": "2026-11-13"
     },
@@ -1535,6 +1415,126 @@
     {
       "name": "MarcosDupont37/comfyui-0-46-flux-local-ai-generator-de",
       "date": "2026-11-25"
+    },
+    {
+      "name": "DoubleGhosty/cool_fox",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "0x1A6C1A9Y/focus-clock",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "gary23w/f-ck_data_brokers",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "HSgod/ps5-fpsunlocker-gta6",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "Pixel679-cmyk/windows-titlebar-blur-customizer",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "BlendEgretJudge/PClabs",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "es-ine/mcp",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "TaynanGT/Vice-Tay",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "Z-rox/mandyhub",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "LakshanSivakumar/Native-Victory-macOS",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "521xueweihan/HelloGitHub",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "shadcn-ui/ui",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "gary23w/f-ck_data_brokers",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "es-ine/mcp",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "sergiobanhos/generate-icons",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "antostanislav/Cryptocurrency-Vanity-Address-Generator",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "f/family-migration-story",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "Monesgoda/AgntX-Hunter",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "huangserva/manhattan-free-roam",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "hazelbryant785/umbrellalabs",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "scarletkc/dsh-no-telemetry",
+      "date": "2026-11-26"
+    },
+    {
+      "name": "Robbyant/lingbot-map-v2",
+      "date": "2026-11-26"
     }
   ]
 }
