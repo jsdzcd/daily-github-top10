@@ -1,126 +1,6 @@
 {
   "items": [
     {
-      "name": "Topkiflare74/ai--manus2.0",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "trackboatwrightplan/GitHub-Copilot-app",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "WarriorRemember/IPTV_Player_2.0",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "TrapAccountant/GitHub-Copilot-app",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "TurquoiseDetective/IPTV_Player_2.0",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "tornadonovicewhirl40/IPTV_Player_2.0",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "WattBeetleLearn/IPTV_Player_2.0",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "topapothecarycanal/ai--manus2.0",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "Trapbraneedle/IPTV_Player_2.0",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "trackersnailgrip/GitHub-Copilot-app",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "anomalyco/opencode",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "yt-dlp/yt-dlp",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "firecrawl/firecrawl",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "anthropics/skills",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "github/gitignore",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "Comfy-Org/ComfyUI",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "garrytan/gstack",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "public-apis/public-apis",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "morluto/rea",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "freeCodeCamp/freeCodeCamp",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "Topkiflare74/ai--manus2.0",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "topapothecarycanal/ai--manus2.0",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "Trapbraneedle/IPTV_Player_2.0",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "toppatronweave/ai--manus2.0",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "topconstableinlet67/ai--manus2.0",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "tornadonovicewhirl40/ai--manus2.0",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "TitanShieldRavine/ai--manus2.0",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "trackersnailgrip/ai--manus2.0",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "Ultimateakiln/ai--manus2.0",
-      "date": "2026-11-13"
-    },
-    {
-      "name": "TrapBladesmith/ai--manus2.0",
-      "date": "2026-11-13"
-    },
-    {
       "name": "duwqijlk/muse-protocol",
       "date": "2026-11-14"
     },
@@ -1535,6 +1415,94 @@
     {
       "name": "Robbyant/lingbot-map-v2",
       "date": "2026-11-26"
+    },
+    {
+      "name": "riveran0226/windows-explorer-blur-mica",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "mist-8659/windows-mouse-keyboard-sharing-kvm",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "flint63-code/gitdesk-windows",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "hollow-445/windows-keyboard-manager",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "leaf7684/windows-modern-media-player",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "Red2076-arch/waifu2x-image-upscaler-windows",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "nocta1554/windows-video-downloader-gui",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "Leaf82770/windows-mica-backdrop-customizer",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "Riven-639/windows-dwm-blur-glass-customizer",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "quartzdev666/windows-pdf-editor",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "anomalyco/opencode",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "Snailclimb/JavaGuide",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "Comfy-Org/ComfyUI",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "garrytan/gstack",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "morluto/rea",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "quartzdev666/windows-pdf-editor",
+      "date": "2026-11-27"
+    },
+    {
+      "name": "Arekejoker/sprite-turntable",
+      "date": "2026-11-27"
     }
   ]
 }
